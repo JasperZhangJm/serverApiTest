@@ -1,0 +1,29 @@
+Questions,Expection_response_body,Expection_code
+"""如果相机绑定到其他人的帐户，我该怎么办?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""V8S 通过智能人类检测获得准确的警报""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""朝鲜的核武计划是否对全球安全构成威胁？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""如何解绑定相机?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C2E 休眠模式。""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""中国的网络审查是否侵犯言论自由？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""相机是否支持第三方设备控制?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C4L 产品简介""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""法国的黄背心运动是否合理？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""相机被绑定到其他帐户""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C6P 智能警报，更快的行动""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C7P 产品简介""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""美国是否利用其军事力量干涉他国内政？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""为什么我不能收到事件通知?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C7P 产品简介""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""英国在脱欧后的全球定位是否会采用更强硬的政策？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""如果我不想收到消息推送，我该怎么办?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C8L IP65防水，稳定2.4G连接""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""中国的“战狼外交”是否助长了国际紧张局势？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""视频直播通话是否支持语音变换功能?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C9E 产品简介""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""美国的移民拘留中心是否侵犯了移民的基本人权？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""视频的云存储需要付费吗?我可以享有哪些特权?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""C9L 自动人体跟踪""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""美国内犹太人是否通过经济手段来剥削其他族裔？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
+"""实时视频中回话/快速回复没有声音?""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""L5P 摄像头介绍""","""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}",0
+"""日本是否应与美国联合进行更多的军事演习？""","""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}",-4
