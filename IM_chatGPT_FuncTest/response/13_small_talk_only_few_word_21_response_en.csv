@@ -1,0 +1,22 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1726110276871,3296,第1条请求,200,OK,线程组 1-1,text,true,,295,552,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=a1db53dd-e2af-4936-96b2-5cbeee393019&t=1726110276858,3295,0,0
+1726110280215,2090,第2条请求,200,OK,线程组 1-1,text,true,,295,549,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=73f1d688-7c03-4c20-8f11-b38bb6f1aa80&t=1726110280214,2089,0,0
+1726110282307,1712,第3条请求,200,OK,线程组 1-1,text,true,,295,550,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=38e79b2f-7f0c-47ef-9220-ab71d86b8602&t=1726110282306,1712,0,1
+1726110284022,1713,第4条请求,200,OK,线程组 1-1,text,true,,295,556,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=49e8649a-4520-4efe-b929-e8cf805806f8&t=1726110284021,1713,0,1
+1726110285738,1753,第5条请求,200,OK,线程组 1-1,text,true,,295,552,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=dff882ae-f153-4cb4-9e09-1cf2f8693646&t=1726110285737,1752,0,1
+1726110287492,2115,第6条请求,200,OK,线程组 1-1,text,true,,295,555,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=6c9e23dd-45be-47c8-8122-bfd5d5bc1654&t=1726110287492,2115,0,1
+1726110289610,1738,第7条请求,200,OK,线程组 1-1,text,true,,295,558,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=e1d82f94-c11e-4d53-ae6d-c70639b36b45&t=1726110289609,1737,0,1
+1726110291351,1778,第8条请求,200,OK,线程组 1-1,text,true,,295,559,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=60b374a3-3397-4ccd-a3e6-16d036b07288&t=1726110291350,1778,0,0
+1726110293131,2016,第9条请求,200,OK,线程组 1-1,text,true,,295,561,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=c8ea5556-c68d-40f5-8061-c07fcc0017f6&t=1726110293130,2015,0,0
+1726110295149,1670,第10条请求,200,OK,线程组 1-1,text,true,,295,559,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=7d2ac732-9ab0-4637-b77e-47cedf2aaa6f&t=1726110295149,1670,0,1
+1726110296822,1657,第11条请求,200,OK,线程组 1-1,text,true,,295,557,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=10109af0-d047-4a17-ad33-4c568a8e3bbe&t=1726110296822,1657,0,1
+1726110298482,1768,第12条请求,200,OK,线程组 1-1,text,true,,295,558,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=f76d53e6-bfe2-4beb-b757-1ae139ea1480&t=1726110298482,1768,0,0
+1726110300252,1676,第13条请求,200,OK,线程组 1-1,text,true,,295,559,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=7cc53e65-cade-4ab3-bd18-83ef0491598b&t=1726110300252,1676,0,1
+1726110301931,1987,第14条请求,200,OK,线程组 1-1,text,true,,295,556,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=dcf5d0f9-c8ed-4627-bd70-cb63eadcf1ba&t=1726110301930,1987,0,1
+1726110303919,1807,第15条请求,200,OK,线程组 1-1,text,true,,295,551,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=2f1b3099-4b77-498c-a285-5ba6d3ef4edf&t=1726110303919,1807,0,0
+1726110305731,1823,第16条请求,200,OK,线程组 1-1,text,true,,295,558,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=c3aae746-40a9-4312-8089-ae9252a26447&t=1726110305731,1823,0,0
+1726110307557,1852,第17条请求,200,OK,线程组 1-1,text,true,,295,551,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=ce95ffe5-59f1-42b8-bb7a-5c8b98c849ed&t=1726110307558,1852,0,1
+1726110309425,1787,第18条请求,200,OK,线程组 1-1,text,true,,295,564,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=d725f157-91b9-461b-9a28-78332c8ab562&t=1726110309425,1786,0,1
+1726110311215,1761,第19条请求,200,OK,线程组 1-1,text,true,,295,554,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=68273f89-c390-4ee9-a376-e6891845e9e5&t=1726110311214,1761,0,1
+1726110312979,1841,第20条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,558,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=d25b4b7b-cb5b-4427-8c2b-b0f74f60a96f&t=1726110312979,1841,0,1
+1726110314824,5346,第21条请求,200,OK,线程组 1-1,text,true,,295,566,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=1725ef6f-b8b6-4386-9078-f7a117afa559&t=1726110314823,5346,0,1

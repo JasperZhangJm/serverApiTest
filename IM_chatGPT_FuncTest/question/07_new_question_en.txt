@@ -1,0 +1,123 @@
+The camara does not move up and down. Only side to side
+How to place and install the camera?
+If you want to ceiling-mount the camera:
+Does the camera have batteries?
+How to configure the network?
+How to set the camera in all-day recording.
+How to set detection zone
+How to configure the network for a camera?
+How to set the camera in all-day recording.
+How to select the camera's mounting location?
+Select Height and Location
+What is the role of the RESET button?
+What does notification LED stand for? How to enable/disable it?
+How to configure the network for a camera?
+Why does the network configuration always fail?
+How to set the camera in all-day recording.
+Compatibility and Requirements
+How does the whole product system work together?
+How to correctly select camera's mounting location?
+How to install a camera?
+How far away from HomeBase can a camera be placed?
+How to configure network for HomeBase?
+Why can’t I search out HomeBase?
+How to configure network for a camera
+Why does the network configuration always fail?
+What should I do in case of camera disconnection?
+What should I do in case of HomeBase disconnection?
+The battery of the wireless camera kit is draining too fast
+How to charge the battery?
+How long can the battery be used after one charging?
+Is the local storage upgrade supported?
+How to install HomeBase?
+Compatibility and Requirements
+How does the whole product system work together?
+How to correctly select camera's mounting location?
+How to install a camera?
+How far away from HomeBase can a camera be placed?
+How to configure network for HomeBase?
+Why can’t I search out HomeBase?
+How to configure network for a camera
+Why does the network configuration always fail?
+What should I do in case of camera disconnection?
+What should I do in case of HomeBase disconnection?
+The battery of the wireless camera kit is draining too fast
+How to charge the battery?
+How long can the battery be used after one charging?
+Where are the video events stored?
+Is the local storage upgrade supported?
+How to install HomeBase?
+Compatibility and Requirements
+What is the role of the SYNC button at the bottom of the camera?
+What signs can the status lights of the camera exhibit?
+How to configure the network for a camera?
+Why does the network configuration always fail?
+What should I do in case of camera disconnection?
+What is the use of the motion detection area? How to set it?
+How to adjust the detection sensitivity?
+How to enable/disable the automatic repelling alarm function? How to select an alarm method?
+What is the smart alarm area? How to set it?
+How to charge the battery?
+Is the local storage upgrade supported?
+Camera can’t connect to network
+How to set the privacy area?
+Compatibility and Requirements
+How does the whole product system work together?
+How to select the camera's mounting location?
+How to install a camera?
+What is the role of the SYNC button at the bottom of the camera?
+What signs can the status lights of the camera exhibit?
+what do the lights on the HomeBase stand for?
+How to configure network for a camera?
+How to configure network for HomeBase?
+Why does the network configuration always fail?
+Why can’t I search out HomeBase?
+How far away from HomeBase can a camera be placed?
+How to check the binding relationship of cameras and the HomeBase?
+How to unbind the account and the System?
+What is the use of the motion detection area? How to set it?
+How long does it take to charge a camera?
+Is the local storage upgrade supported?
+How to install HomeBase?
+Compatibility and Requirements
+How to configure the network for a camera?
+Why does the network configuration always fail?
+What should I do in case of camera disconnection?
+How to set the privacy area?
+Compatibility and Requirements
+How to configure the network for a camera?
+Why does the network configuration always fail?
+How to set the Detection Zone?
+What should I do if I want to the camera alarm and show light when detect the event?
+How to set the Detection period / privacy time?
+Compatibility and Requirements
+How to configure the network for a camera?
+Why does the network configuration always fail?
+What should I do in case of camera disconnection?
+Settings Instructions
+Light Settings
+AI Detection Settings
+Detection Settings
+Event Settings
+Notification Settings
+Cloud Recording Settings
+Video/Audio Settings
+LED status light Settings
+Smart Display Access Settings
+Basic Settings
+How to set the camera in all-day recording.
+How to turn off the Alarm?
+Can you purchase a second battery? Or what type of battery goes in this so you have a backup?
+How to scan QR code
+Workable distance
+battery using time too short
+How to position the doorbell properly?
+how far can the wifi homebase be placed from the router?
+Why do I always fail to configure the network?
+In settings, what does enabling “Anti-Thief Alarm” do?
+How to turn off the alarm?
+the bracket to which the doorbell attaches has a very weak
+Can you purchase a second battery? Or what type of battery goes in this so you have a backup?
+The recording video delay.
+How to scan QR code
+How to set the privacy area?

@@ -1,0 +1,133 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1726310522166,2256,第1条请求,200,OK,线程组 1-1,text,true,,371,633,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ec3fafee-5b8d-43bd-b424-a430109d2c20&t=1726310522136,2256,0,1
+1726310524460,1812,第2条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,584,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=18a6f202-85af-4c6f-86c8-e1a61fd66c39&t=1726310524460,1811,0,1
+1726310526275,2043,第3条请求,200,OK,线程组 1-1,text,true,,371,578,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=6333a5f2-8108-427a-939b-946087c340d2&t=1726310526275,2043,0,1
+1726310528321,2604,第4条请求,200,OK,线程组 1-1,text,true,,521,561,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=5c962a85-fc22-49ec-a7ff-c81fed218e86&t=1726310528321,2603,0,1
+1726310530928,1787,第5条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,580,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c6cff0d1-cc13-47cb-9cd0-a21b650f06f5&t=1726310530928,1787,0,1
+1726310532719,1638,第6条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,554,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=44d062a3-8612-4d89-82b0-bf78d89b8dc5&t=1726310532718,1637,0,0
+1726310534360,1945,第7条请求,200,OK,线程组 1-1,text,true,,446,588,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=543d2545-302a-4b27-9c69-d06ac8002af3&t=1726310534360,1945,0,1
+1726310536306,2153,第8条请求,200,OK,线程组 1-1,text,true,,446,554,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f0cdd73f-aeac-4f47-896f-4560b215a307&t=1726310536306,2153,0,1
+1726310538463,1937,第9条请求,200,OK,线程组 1-1,text,true,,371,633,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=19066837-bc1a-4955-ac11-fc168798eb16&t=1726310538462,1937,0,1
+1726310540403,2244,第10条请求,200,OK,线程组 1-1,text,true,,521,562,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=4ac1dc97-a916-45ca-82ff-cdb3c8a46068&t=1726310540403,2243,0,1
+1726310542650,1595,第11条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,603,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=039123df-5e46-4da1-b717-862d3c1110d1&t=1726310542649,1595,0,1
+1726310544248,3221,第12条请求,200,OK,线程组 1-1,text,true,,948,605,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=1c7e6f8c-3ee5-4c32-9eb0-a53913f0c6aa&t=1726310544248,3221,0,1
+1726310547472,2859,第13条请求,200,OK,线程组 1-1,text,true,,589,655,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=817f2501-0623-4cd2-8f69-4af0ee73521f&t=1726310547472,2858,0,1
+1726310550334,2834,第14条请求,200,OK,线程组 1-1,text,true,,710,582,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=27df9439-8498-408e-aaf4-3a6e767797ef&t=1726310550334,2833,0,1
+1726310553171,2159,第15条请求,200,OK,线程组 1-1,text,true,,542,617,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=20b76406-cdfe-428a-b146-3ed0704b720f&t=1726310553171,2158,0,1
+1726310555334,2267,第16条请求,200,OK,线程组 1-1,text,true,,437,564,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ac72aec6-6cb3-4995-bd45-893d6823bba5&t=1726310555333,2266,0,0
+1726310557606,2619,第17条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,566,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=d8d6b0d0-8f51-47c7-9801-b5b612af21a5&t=1726310557605,2618,0,1
+1726310560228,3007,第18条请求,200,OK,线程组 1-1,text,true,,918,628,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=d554dfab-17b4-46cb-a7d1-0789a83b4277&t=1726310560227,3006,0,1
+1726310563237,4860,第19条请求,200,OK,线程组 1-1,text,true,,1455,579,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=efe93fde-ce06-4f9b-a67a-5fbcf469bded&t=1726310563237,4859,0,1
+1726310568098,2504,第20条请求,200,OK,线程组 1-1,text,true,,606,604,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c1434464-086b-4127-9e99-b956e7b459fa&t=1726310568098,2503,0,1
+1726310570605,3274,第21条请求,200,OK,线程组 1-1,text,true,,947,640,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=4ea59f9e-e8c0-417f-bc73-e2e047c748f0&t=1726310570604,3274,0,1
+1726310573882,2458,第22条请求,200,OK,线程组 1-1,text,true,,742,613,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=3c6eadc7-3aa8-4e95-b53a-d13e97caa535&t=1726310573881,2457,0,1
+1726310576341,1844,第23条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,581,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=be779843-f473-4255-9d9f-8b5f9c3a76ef&t=1726310576341,1843,0,1
+1726310578187,1732,第24条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,627,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=1fe4f3a3-bcdd-456b-99bc-788988dcbdcf&t=1726310578187,1731,0,1
+1726310579922,2049,第25条请求,200,OK,线程组 1-1,text,true,,446,555,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2ad6cec2-7d95-470b-9e1b-bb0510064c5f&t=1726310579922,2048,0,1
+1726310581974,1836,第26条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,566,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c386d4ae-631a-404b-b61e-845cef1b2111&t=1726310581973,1836,0,1
+1726310583812,2252,第27条请求,200,OK,线程组 1-1,text,true,,484,595,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=5dbf7180-9db4-48a5-af72-30e1ee4a76ee&t=1726310583812,2252,0,0
+1726310586067,2359,第28条请求,200,OK,线程组 1-1,text,true,,616,611,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=53c28587-6c34-4fd5-978d-1ed87e254aa7&t=1726310586066,2359,0,0
+1726310588427,1647,第29条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,562,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c05822c4-87b6-4a4e-b371-8aa97bb2b9c4&t=1726310588427,1646,0,1
+1726310590077,1975,第30条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,587,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=23fc611e-4661-4ffb-9472-1b7e9517512e&t=1726310590076,1974,0,1
+1726310592055,1997,第31条请求,200,OK,线程组 1-1,text,true,,436,553,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=8bb64a01-b2c4-4435-a16f-1ead404d7240&t=1726310592055,1996,0,1
+1726310594054,1953,第32条请求,200,OK,线程组 1-1,text,true,,452,639,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=753c7481-12e5-4f73-844b-ce3115863cfc&t=1726310594053,1953,0,1
+1726310596010,2143,第33条请求,200,OK,线程组 1-1,text,true,,496,567,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=1e7324e1-ca16-4aa4-852f-00f06280cb65&t=1726310596009,2143,0,1
+1726310598155,2250,第34条请求,200,OK,线程组 1-1,text,true,,528,618,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f9b8e349-4eb1-4aab-bbff-d9ebb672f88b&t=1726310598154,2249,0,1
+1726310600406,4510,第35条请求,200,OK,线程组 1-1,text,true,,1584,585,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c97abbff-7744-4444-9f06-be6bfb2afca8&t=1726310600406,4509,0,1
+1726310604919,1729,第36条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,602,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2d31b090-7a91-4b72-ba8a-1a73407bed00&t=1726310604919,1729,0,1
+1726310606652,1842,第37条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,594,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=923a9630-0c3b-413f-8cf9-c9d92298801a&t=1726310606652,1841,0,1
+1726310608497,1929,第38条请求,200,OK,线程组 1-1,text,true,,478,575,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c7b72c7b-63e1-416c-9570-b93d0fefb5bb&t=1726310608497,1928,0,1
+1726310610429,1593,第39条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,585,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=917168d7-42a1-4265-974d-d5adae5d4879&t=1726310610429,1593,0,1
+1726310612025,2029,第40条请求,200,OK,线程组 1-1,text,true,,476,590,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=32191ac8-78cb-4a27-b582-afefe6bda692&t=1726310612025,2029,0,1
+1726310614057,1705,第41条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,573,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=feb8293c-b422-4263-b1fe-dcc51701fc33&t=1726310614057,1704,0,1
+1726310615765,2459,第42条请求,200,OK,线程组 1-1,text,true,,618,611,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=11fd6766-05d1-43c8-a0c4-5fd7304c451f&t=1726310615765,2458,0,1
+1726310618227,1733,第43条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,595,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=44657742-a97a-4701-846c-9b443917e5b5&t=1726310618227,1733,0,1
+1726310619964,2248,第44条请求,200,OK,线程组 1-1,text,true,,588,728,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=80a6c295-3211-4fa9-a0b2-1e66b726bdf1&t=1726310619963,2248,0,1
+1726310622218,2257,第45条请求,200,OK,线程组 1-1,text,true,,600,564,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=4ff7ad49-b2f2-4a21-9470-fc55e8963d95&t=1726310622216,2256,0,1
+1726310624478,2045,第46条请求,200,OK,线程组 1-1,text,true,,446,573,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2b7669fe-d3f4-43dd-9ca2-8428798c024e&t=1726310624477,2045,0,1
+1726310626526,1626,第47条请求,200,OK,线程组 1-1,text,true,,295,544,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=4e346e83-2ef2-4ab6-9efd-ae19d5ea4fa7&t=1726310626525,1626,0,1
+1726310628155,2157,第48条请求,200,OK,线程组 1-1,text,true,,471,558,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=814a9ddb-2a61-4fdb-b005-ade128efae4e&t=1726310628154,2156,0,1
+1726310630315,1807,第49条请求,200,OK,线程组 1-1,text,true,,378,613,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=daba7493-5799-46f7-a00d-f7aa9cf7dec6&t=1726310630314,1807,0,1
+1726310632125,2278,第50条请求,200,OK,线程组 1-1,text,true,,575,574,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=1197c9a8-8b3d-4b01-b04f-c409870932ea&t=1726310632124,2277,0,1
+1726310634405,1942,第51条请求,200,OK,线程组 1-1,text,true,,361,575,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=410bd303-e92c-429f-8b7f-90fff5f7c495&t=1726310634404,1942,0,1
+1726310636348,1949,第52条请求,200,OK,线程组 1-1,text,true,,372,599,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=d253c107-4026-4fc5-95c6-24979d166d42&t=1726310636348,1948,0,1
+1726310638299,1833,第53条请求,200,OK,线程组 1-1,text,true,,367,591,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=3e61d7d8-27d1-4e14-8f0b-ed68e4b96dbc&t=1726310638299,1832,0,0
+1726310640135,1841,第54条请求,200,OK,线程组 1-1,text,true,,397,683,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=e704cc49-a32a-456a-9db0-a59917d584b8&t=1726310640135,1840,0,2
+1726310641978,2357,第55条请求,200,OK,线程组 1-1,text,true,,495,615,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=16770b1f-4404-4841-9b64-e96699dccf8a&t=1726310641978,2356,0,1
+1726310644339,1898,第56条请求,200,OK,线程组 1-1,text,true,,380,582,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=b2398f27-459b-47a2-a9a1-5db751af5ac3&t=1726310644339,1897,0,1
+1726310646239,1897,第57条请求,200,OK,线程组 1-1,text,true,,429,557,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=7b8dc1a6-c9ea-4a87-a7e2-83112af91695&t=1726310646239,1896,0,1
+1726310648139,1826,第58条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,557,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=51c89c41-39c9-4377-b91f-b390e09da746&t=1726310648139,1825,0,0
+1726310649967,2251,第59条请求,200,OK,线程组 1-1,text,true,,445,577,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=63231935-773c-4f78-8876-f1cdb6950b75&t=1726310649967,2251,0,0
+1726310652220,2147,第60条请求,200,OK,线程组 1-1,text,true,,524,575,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=35ca9a0a-47f9-4506-8b3a-9cf59d8b6687&t=1726310652220,2147,0,1
+1726310654369,1639,第61条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,553,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ed4b1785-dc04-4cd1-9f3e-edf9a5290e22&t=1726310654369,1638,0,1
+1726310656011,2252,第62条请求,200,OK,线程组 1-1,text,true,,614,560,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f6cb948e-458e-46f2-8d60-4b14ed400c0e&t=1726310656010,2251,0,1
+1726310658266,2450,第63条请求,200,OK,线程组 1-1,text,true,,640,593,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=dc233e69-95f9-4e26-b587-304eeda14a5b&t=1726310658265,2449,0,1
+1726310660718,2212,第64条请求,200,OK,线程组 1-1,text,true,,543,584,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=5d7994e0-b240-4322-a8a5-83d7bfa42151&t=1726310660717,2211,0,1
+1726310662933,3679,第65条请求,200,OK,线程组 1-1,text,true,,1268,569,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=774c739f-9e2b-4e2d-b02d-a0f25957c226&t=1726310662932,3678,0,1
+1726310666615,1888,第66条请求,200,OK,线程组 1-1,text,true,,401,595,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=3e0449d8-d79b-449b-89ca-0c2f1264380f&t=1726310666615,1887,0,1
+1726310668505,2348,第67条请求,200,OK,线程组 1-1,text,true,,453,584,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2c0145da-25dd-47f5-bfd6-7b3149f8fed4&t=1726310668505,2348,0,1
+1726310670856,2765,第68条请求,200,OK,线程组 1-1,text,true,,760,588,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=bd05f4f8-2d72-4d62-ad17-e0cf0a36aef9&t=1726310670856,2765,0,1
+1726310673622,3069,第69条请求,200,OK,线程组 1-1,text,true,,604,561,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c39f25ff-7739-481b-ae9d-6acbcb6ab6d1&t=1726310673623,3068,0,1
+1726310676694,1709,第70条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,607,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=73aa8ed9-d2b4-49a6-b07c-c8d56873d892&t=1726310676694,1708,0,1
+1726310678405,2844,第71条请求,200,OK,线程组 1-1,text,true,,702,577,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=57a2eed8-1e29-43a5-810d-c5c3dd7e2f3f&t=1726310678405,2844,0,1
+1726310681253,3137,第72条请求,200,OK,线程组 1-1,text,true,,825,566,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=1bed475d-bf2d-4b3d-9637-33d84c816eb3&t=1726310681252,3137,0,1
+1726310684394,2132,第73条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,548,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2b6f5a69-9dd7-409f-94aa-fc75258c1749&t=1726310684393,2131,0,1
+1726310686528,3474,第74条请求,200,OK,线程组 1-1,text,true,,812,547,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=db6419a7-c52a-455a-ab65-afc5939ab161&t=1726310686528,3474,0,1
+1726310690005,2761,第75条请求,200,OK,线程组 1-1,text,true,,596,567,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=c854b519-8e8b-4f2f-8e77-72ff8df32b14&t=1726310690005,2760,0,1
+1726310692769,2040,第76条请求,200,OK,线程组 1-1,text,true,,386,592,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=1b9421b6-2a7d-4329-b69c-c4efcb6473b4&t=1726310692768,2039,0,1
+1726310694813,2675,第77条请求,200,OK,线程组 1-1,text,true,,548,574,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=e1764990-32c1-49ae-95db-ef225f240029&t=1726310694812,2675,0,1
+1726310697489,1836,第78条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,581,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=68525a07-59f7-43df-97cc-d5c664033446&t=1726310697490,1835,0,1
+1726310699327,2862,第79条请求,200,OK,线程组 1-1,text,true,,496,621,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=b8753c62-55e4-46ee-94a7-d60908431973&t=1726310699327,2862,0,1
+1726310702193,1842,第80条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,592,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=b06d05d3-79e7-4c91-90a0-0b758e5a915c&t=1726310702193,1841,0,2
+1726310704036,2145,第81条请求,200,OK,线程组 1-1,text,true,,394,561,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=816185eb-1da6-475c-b644-b21b236baa1b&t=1726310704036,2145,0,1
+1726310706184,1842,第82条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,606,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ab22cfe2-86f5-40dd-b4e2-f51e4010b223&t=1726310706184,1841,0,1
+1726310708028,2044,第83条请求,200,OK,线程组 1-1,text,true,,441,599,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=670bb510-df68-4a05-bbd5-57c938ea6500&t=1726310708028,2043,0,2
+1726310710075,2096,第84条请求,200,OK,线程组 1-1,text,true,,382,587,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=defbdd50-1bf8-4f6f-8894-9adff2d23b37&t=1726310710075,2096,0,1
+1726310712173,1804,第85条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,612,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=6b18d381-263c-4776-b90d-14466f247455&t=1726310712174,1804,0,3
+1726310713980,2445,第86条请求,200,OK,线程组 1-1,text,true,,541,621,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=09357a3e-847d-4640-893f-9dad73819213&t=1726310713980,2445,0,1
+1726310716430,2977,第87条请求,200,OK,线程组 1-1,text,true,,773,646,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=60ede842-389c-4331-9b34-4d2c6ae6e384&t=1726310716429,2976,0,4
+1726310719412,2101,第88条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,549,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=8650abf6-716e-4903-bed4-691d3c0abd79&t=1726310719411,2099,0,1
+1726310721516,2286,第89条请求,200,OK,线程组 1-1,text,true,,433,562,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=6ae07fc1-4327-45ae-aa9e-1cdb6f8e76d6&t=1726310721516,2286,0,1
+1726310723805,2041,第90条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,586,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=0115f3b9-ab77-4bc7-a841-a768a5949a8e&t=1726310723805,2041,0,1
+1726310725850,2217,第91条请求,200,OK,线程组 1-1,text,true,,378,769,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=8192cf12-6fa4-4d96-af0f-f96dfc7fc763&t=1726310725849,2217,0,1
+1726310728069,8017,第92条请求,200,OK,线程组 1-1,text,true,,1514,594,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f3dae994-5037-4019-8baf-7ebfe3903142&t=1726310728068,8017,0,1
+1726310736088,2043,第93条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,576,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=bfe2610a-94cf-4919-8ab3-37b613a3258b&t=1726310736088,2043,0,1
+1726310738134,3896,第94条请求,200,OK,线程组 1-1,text,true,,1496,575,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=886e3a42-ef3b-42e6-87ad-cdbe1b0dd07f&t=1726310738134,3895,0,1
+1726310742033,1956,第95条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,590,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ecabd6a8-fa16-4cc9-aad8-8cd4b8400379&t=1726310742033,1956,0,0
+1726310743992,2335,第96条请求,200,OK,线程组 1-1,text,true,,446,584,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=143bf0b2-70f5-487c-9048-3e51701e786d&t=1726310743992,2334,0,1
+1726310746331,10440,第97条请求,200,OK,线程组 1-1,text,true,,517,583,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f311c236-083d-4e48-9ae2-7143585b3c8e&t=1726310746330,10439,0,1
+1726310756773,2864,第98条请求,200,OK,线程组 1-1,text,true,,673,622,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2ecfd446-7fca-4c4a-9d94-565e2fa16d40&t=1726310756772,2863,0,1
+1726310759640,2681,第99条请求,200,OK,线程组 1-1,text,true,,614,581,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=2e71e2f7-740f-4fa8-8b89-b219619db704&t=1726310759639,2680,0,1
+1726310762324,2328,第100条请求,200,OK,线程组 1-1,text,true,,431,583,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=dfcef780-3de5-415c-92a5-4dc2f6ee0516&t=1726310762323,2328,0,1
+1726310764653,2051,第101条请求,200,OK,线程组 1-1,text,true,,373,572,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=8e65aefb-665d-4a9f-a2f0-ddfba89c883b&t=1726310764653,2050,0,1
+1726310766707,2423,第102条请求,200,OK,线程组 1-1,text,true,,495,570,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=06fc23a3-9e5f-4211-beb5-6a9e9b23b3d0&t=1726310766706,2422,0,0
+1726310769133,1769,第103条请求,200,OK,线程组 1-1,text,true,,295,622,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f6caba1e-75f8-4a2d-bed2-766c9106c72f&t=1726310769132,1769,0,1
+1726310770905,1844,第104条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,564,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ab2a7f4b-dfca-46da-a3d6-1a3bc98c2c88&t=1726310770904,1843,0,1
+1726310772752,4191,第105条请求,200,OK,线程组 1-1,text,true,,437,633,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=5ee1d1bb-8807-44be-ac5c-7a58ee415643&t=1726310772751,4191,0,1
+1726310776946,2618,第106条请求,200,OK,线程组 1-1,text,true,,658,568,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=79c97872-93bb-4893-be2e-29f9739ce731&t=1726310776945,2617,0,1
+1726310779567,2395,第107条请求,200,OK,线程组 1-1,text,true,,355,600,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=0d10f1f4-10c4-4b2d-8af3-9873cc3c6bda&t=1726310779566,2395,0,1
+1726310781965,1737,第108条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,563,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=05d625a0-542d-4863-a392-bb847420c0ea&t=1726310781964,1737,0,1
+1726310783705,2966,第109条请求,200,OK,线程组 1-1,text,true,,742,568,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=72125672-a41f-4a8a-a239-b5871b39492f&t=1726310783704,2965,0,1
+1726310786674,2990,第110条请求,200,OK,线程组 1-1,text,true,,625,562,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=78c5ee48-5f90-458d-a66e-8b81b70b8a12&t=1726310786673,2989,0,0
+1726310789667,2483,第111条请求,200,OK,线程组 1-1,text,true,,472,605,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=229ed4c9-4d1e-40b7-a4a2-fac770885934&t=1726310789666,2483,0,1
+1726310792152,2151,第112条请求,200,OK,线程组 1-1,text,true,,392,659,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=96ac4420-a084-4f97-a665-56dcb40326fe&t=1726310792153,2151,0,1
+1726310794306,2719,第113条请求,200,OK,线程组 1-1,text,true,,735,574,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=8f90b13c-fe69-426e-b2eb-a475163b5f0a&t=1726310794307,2718,0,1
+1726310797029,1777,第114条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,548,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=cb72737a-c2b1-40c7-a94a-ff4e91faa106&t=1726310797028,1776,0,1
+1726310798810,1888,第115条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,580,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=9c1aea98-ff2f-4b3d-8d12-eede3fca569f&t=1726310798809,1887,0,2
+1726310800701,2367,第116条请求,200,OK,线程组 1-1,text,true,,534,658,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=371dade8-e62d-4081-97ed-ffd87fbedd3a&t=1726310800700,2366,0,1
+1726310803071,3943,第117条请求,200,OK,线程组 1-1,text,true,,640,630,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=96955925-99dc-4433-a438-9c2e7f4757d4&t=1726310803070,3943,0,0
+1726310807016,2393,第118条请求,200,OK,线程组 1-1,text,true,,295,544,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=62e871e1-39a4-43d1-a08e-9119627b4b85&t=1726310807015,2392,0,1
+1726310809412,2244,第119条请求,200,OK,线程组 1-1,text,true,,415,592,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=5ebd7844-23c6-4b95-9773-acb4d874c26a&t=1726310809411,2243,0,1
+1726310811659,2178,第120条请求,200,OK,线程组 1-1,text,true,,494,597,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=e4c0c401-857c-4922-87eb-ca909364ae39&t=1726310811658,2178,0,1
+1726310813840,2732,第121条请求,200,OK,线程组 1-1,text,true,,488,576,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=eb2c50ff-c28a-440c-b99c-9a42c9e0d606&t=1726310813839,2731,0,1
+1726310816574,2968,第122条请求,200,OK,线程组 1-1,text,true,,791,617,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=5a445bcd-59a7-49f0-be47-a9a7f81cb798&t=1726310816573,2967,0,1
+1726310819546,2969,第123条请求,200,OK,线程组 1-1,text,true,,504,559,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=98c6aac6-f19d-42ee-800f-a7721c9ae08e&t=1726310819545,2969,0,1
+1726310822517,2041,第124条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,667,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=f36c45ee-c140-4dae-adc7-adffe9d14990&t=1726310822518,2041,0,1
+1726310824561,3581,第125条请求,200,OK,线程组 1-1,text,true,,946,618,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=dc1f224d-ab2f-48df-8277-d551ae60bd9a&t=1726310824561,3580,0,1
+1726310828145,1840,第126条请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to match regexp '0', but it did not match: '-4'",250,559,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=55d0ba23-172e-4baf-9f2f-3e859a2b268d&t=1726310828145,1839,0,1
+1726310829987,2148,第127条请求,200,OK,线程组 1-1,text,true,,413,595,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=61d49b95-d4ab-47e6-b516-7d30badda182&t=1726310829988,2147,0,1
+1726310832138,2048,第128条请求,200,OK,线程组 1-1,text,true,,420,574,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=7bcd8dfe-180d-496f-b845-e938c81e4cd9&t=1726310832138,2047,0,1
+1726310834188,2659,第129条请求,200,OK,线程组 1-1,text,true,,394,581,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=871532a1-42cb-4dbf-9d95-452432cfd021&t=1726310834189,2659,0,1
+1726310836851,2313,第130条请求,200,OK,线程组 1-1,text,true,,491,591,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=ee89e7b2-68cb-4c88-8f31-33e00e17af4c&t=1726310836850,2312,0,1
+1726310839167,3621,第131条请求,200,OK,线程组 1-1,text,true,,977,588,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=a0b461bb-fe90-4e87-805d-eaa2692c9fbb&t=1726310839166,3621,0,1
+1726310842790,2507,第132条请求,200,OK,线程组 1-1,text,true,,491,580,1,1,https://api-us.aosulife.com/v1/im/getService?uuid=99d9653b-34bb-4431-a1dd-06c4a8ee700e&t=1726310842791,2506,0,1

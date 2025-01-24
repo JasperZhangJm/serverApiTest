@@ -1,0 +1,1396 @@
+【request】
+uuid: 7f72d1de-af5f-45ee-820d-6da1b3fe1a27
+timestamp: 1726214169710
+No.1 question: Is there a limit to the number of phones that can be logged into the account for one system
+【response】
+code: 0
+answer: The Aosu app allows up to 3 users to login simultaneously using the same login credentials.
+uuid: cecbcf87c49ee4a3
+
+
+【request】
+uuid: ca06157b-aef3-4110-a427-33792ed1bb18
+timestamp: 1726214172936
+No.2 question: Why does the app log me out of my account?
+【response】
+code: 0
+answer: The Aosu app allows up to 3 users to login simultaneously using the same login credentials.
+uuid: e76822b20714d770
+
+
+【request】
+uuid: 71c3f7dd-f473-43dd-8286-b81ee11ba5c2
+timestamp: 1726214174938
+No.3 question: how do I stop session from expiring?
+【response】
+code: 0
+answer: The Aosu app allows up to 3 users to login simultaneously using the same login credentials.
+uuid: 5a0f2e4d04a06a0f
+
+
+【request】
+uuid: fbba2af0-198e-4b40-9703-a480775fc5ef
+timestamp: 1726214176837
+No.4 question: I need to unbind it
+【response】
+code: 0
+answer: If you know the other user, kindly inform the other user to unbind the cameras from their account (If applicable). If not, kindly provide us with the following so we can unbind the cameras for youCamera's Serial NumberProof of Ownership.
+uuid: 00f61872b7f1e82c
+
+
+【request】
+uuid: 344685b7-703e-4592-ad9f-efcd47016868
+timestamp: 1726214179454
+No.5 question: Hi there I setup my new Auso camera up
+【response】
+code: 0
+answer: Unfortunately, the Homebase can only support up to 4 cameras with the same models or supported models.-Aosu Team
+uuid: 3ec4cbf6fd2b310c
+
+
+【request】
+uuid: 69ae156e-9387-4f87-ac9f-7f527bd702c5
+timestamp: 1726214181938
+No.6 question: Spanish app?
+【response】
+code: 0
+answer: Please be advised that the app is synced to the phone's DateTimeLanguage. If you wish to change these details, directly change them in the phone's settings.-Aosu Team
+uuid: 4b1397620b946b6f
+
+
+【request】
+uuid: 67c5155c-25a7-484f-8903-35a22e32e564
+timestamp: 1726214184254
+No.7 question: Hello, do you have a Russian language setting?
+【response】
+code: 0
+answer: Please be advised that the app is synced to the phone's DateTimeLanguage. If you wish to change these details, directly change them in the phone's settings.-Aosu Team
+uuid: 8fc6cad271f802c2
+
+
+【request】
+uuid: 293aff1a-0255-4383-b5be-d0790550b367
+timestamp: 1726214186279
+No.8 question: Time setting
+【response】
+code: 0
+answer: Please be advised that the app is synced to the phone's DateTimeLanguage. If you wish to change these details, directly change them in the phone's settings.-Aosu Team
+uuid: 8974548047ae3571
+
+
+【request】
+uuid: 84d0a5fb-3550-4764-8079-dc9bf8725029
+timestamp: 1726214188387
+No.9 question: Is there a limit to the number of phones that can be logged into the account for one system
+【response】
+code: 0
+answer: The Aosu app allows up to 3 users to login simultaneously using the same login credentials.
+uuid: 92a8834a4b48fe52
+
+
+【request】
+uuid: 256c73b9-859c-44b5-9a99-9119310b6711
+timestamp: 1726214190227
+No.10 question: I need to unbind it 
+【response】
+code: 0
+answer: If you know the other user, kindly inform the other user to unbind the cameras from their account (If applicable). If not, kindly provide us with the following so we can unbind the cameras for youCamera's Serial Number Proof of Ownership.
+uuid: be5d32df906f7ad1
+
+
+【request】
+uuid: 5893a23a-ca08-4654-a3a6-c4e800ad8071
+timestamp: 1726214192606
+No.11 question: So for my other 5 devices, I have to add the aosu app again? 
+【response】
+code: 0
+answer: - Internet upload speed of at least 2Mbps.
+- The mobile operating system is Android 5.0+ or iOS 10+ version.
+uuid: f6fe247569dc2723
+
+
+【request】
+uuid: 04150d04-ac68-47c5-bacc-786e0f49a2f5
+timestamp: 1726214194616
+No.12 question: how do I get it to notify me when a car comes into my driveway 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to isolate or if not, fix the problemPlease check if the Push Notification in the settings of the Aosu app is enabled.Check your phone settings settings-message reminder to see if the Aosu APP can provide message reminders. Check your phone's settings to see if the DND (Do Not Disturb) mode is not enabled (this mode should be turned off). Check if the Wi-Fi connection on your phone and the camera is good. Please ensure your phone does not use a VPN serviceapp when you are away from home. Please log out of the Aosu app and log back in, then try again.-Aosu Team
+uuid: 9658dbda2c2afe7e
+
+
+【request】
+uuid: c8d933fd-3230-484e-aa2e-8134efea4a72
+timestamp: 1726214197621
+No.13 question: Hi I have an indoor camera that I am sharing to an email family member but we decided that isn’t working for us
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to removedelete a shared userOpen the Aosu app Click the 3 lines upper left corner of thescreen Click Share usersClick Manage Choose the name of the user you want to remove Click " Remove".
+uuid: f23d876ba4c9231a
+
+
+【request】
+uuid: 98572b53-6a1a-4f54-a085-e83d93fcd805
+timestamp: 1726214200079
+No.14 question: Why I can’t accept my family invite?? 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!First, the other users should download the Aosu app on their phone and registerlog in with their email account and password.Click your account- Share users- Choose the device- Input their email, then click Send.REMINDER The shared users can only access these 4 functions1.) View live videos2.) Receive one-click call3.) Check video recordings4.) Receive push notifications-Aosu Team
+uuid: 0cb908a3e8ebfebb
+
+
+【request】
+uuid: 4c68218d-84ca-4ba9-859d-67acd204f2dd
+timestamp: 1726214203066
+No.15 question: Hi I need my email to be modified since I no longer have my original email 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Once registered, you're unable to change your email address anymore.To do so, removeunbind all the cameras first, register a new account with the new email address, and add the cameras to the new account.-Aosu Team
+uuid: e60b18e0b5e599cc
+
+
+【request】
+uuid: 9682f3c0-4b68-43e1-b857-18d2abe2bf37
+timestamp: 1726214205436
+No.16 question: What does unbind mean 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!We're sorry to see you go, but happy to help. Start by unbinding the cameras first, then delete your Aosu account by going to the "Left Menu Bar Account Management Delete Account".-Aosu Team
+uuid: f3b74dc5b4126623
+
+
+【request】
+uuid: 34a7209c-8365-48bb-8961-fe7972bb2c1e
+timestamp: 1726214207868
+No.17 question: why can't I see camera 4
+【response】
+code: 0
+answer: If the camera does not respond when you push and hold the resetsync button, or if it merely says "Hello" and "Goodbye," then the camera is not receiving enough power to complete the setup. Kindly charge the camera for 4-6 hours using the USB cable included in the package.
+uuid: 854ff8397b5e8f3e
+
+
+【request】
+uuid: b18abd59-8c54-4b93-baf2-46a222823e57
+timestamp: 1726214210398
+No.18 question: can't fund home base just searching did all the steps 10 times and in the end nothing 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Make sure that the green light flashes (HomeBase)Make sure that it is connected to a power source and that the LAN cable is connected properlyMake sure that the phone (where the Aosu app is installed) is connected to the same Wi-Fi as the HomeBaseMake sure that the Aosu app has permission to enable the privilege to Detect Surrounding DevicesNOTE You may also contact your Internet Service Provider for these steps belowMake sure to configure DHCP on the routerMake sure that the MAC white list is not enabled on the routerMake sure that AP isolation is not enabled on the router-Aosu Team
+uuid: fe36b6ee70ae1416
+
+
+【request】
+uuid: b18444e7-098c-4027-8f0f-48cab10bbd1e
+timestamp: 1726214213727
+No.19 question: Home base will not connect to network
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to fix the problemMake sure the camera is close to the router. This will ensure a strong and stable Wi-Fi connection. Turn off mobile data and airplane mode on your phone. This will prevent interference during the setup process. Confirm that you are using your phone to scan the QR code on the camera correctly. If your device has a Homebase(Chime), you need to scan the QR code on this part. Check if your Wi-Fi network is 2.4GHz. Some cameras only support 2.4GHz, not 5GHz. Double-check that you have entered the correct Wi-Fi password without any extra spaces. Reset the camera by pressing and holding the SYNC button for 10-20 seconds until you hear a beep sound and see the green light flashing. Scan the QR code generated in the app and make sure you hear a beep and see the red light flashing more quickly. Finally, check if the indicator light on the camera changes from red to blue. If you're still unable to connect the camera to your Wi-Fi after following these steps, please let me know which step you're stuck on or provide more details about the issue you're facing.-Aosu Team
+uuid: 9e5d96f8e917e6c8
+
+
+【request】
+uuid: d7d60848-6a56-456e-8772-92ecdb4d7503
+timestamp: 1726214218332
+No.20 question: My Router does not have a place for the home base to plug into
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that the HomeBase should be connected to your router's LAN Ethernet port using an Ethernet network cable. Additionally, would you mind photographing your router's brand and model number and sending it over? It could help us find a solution for you.-Aosu Team
+uuid: 4a1c5c5b2fe22635
+
+
+【request】
+uuid: a7635989-65da-4cc3-b98c-8596a45ab9b8
+timestamp: 1726214221414
+No.21 question: How can you prevent the camera from going foggy?Because of weather I only have one that went foggy
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!There are a few things that you may consider on how to get rid of the moistfog inside your cameraKindly bring the camera back inside (remove it from the original installation point)Try wiping the outer lens cover (not the lenses) with a micro-fiber clothTry using a hair dryer to heat slightly (not too much heat)OR let it dry for 2-3 days (If the problems occur frequently) Try applying an Anti-fog Spray on the Security Camera's outer lens coverTry putting the camera into a waterproof box, drill a hole in the box, and cover the hole with water-resistant materials until the moisturefog is goneLet us know if you need further assistance.
+uuid: 7e19e192e18a8466
+
+
+【request】
+uuid: 5a02bdbc-72e0-4ece-be2f-6f65645ed740
+timestamp: 1726214224697
+No.22 question: I connected with my best wifi at my home, but keep slow to show images 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to fix the problemTry changing the Streaming Quality to Smooth Mode (SettingsVideoAudio)Ask to check if the Wi-Fi signal is good (at least 85 is recommended)Try checking for Firmware Updates (including HomeBase, if applicable)Ask to switch connection to mobile data (for isolation)Kindly send us a sample video showing the reported problemRest assured we will help you sort this out.-
+uuid: 63bbfc0ba7e7a389
+
+
+【request】
+uuid: a30d8d1c-8fe5-404c-a174-ec7eebf267df
+timestamp: 1726214228219
+No.23 question: Just installed a new ultra doorbell cam
+【response】
+code: 0
+answer: First check if the doorbell is out of power
+
+try to remove the doorbell and reconnect again
+uuid: 9bb7d254cbb34a13
+
+
+【request】
+uuid: 3e6f4ea8-ad8a-473b-9296-5466fdeb70fc
+timestamp: 1726214230322
+No.24 question: Hi does the camera only record events? Is there a way to view other times of the day 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Please be advised that the Battery-Powered cameras (which need to be charged) have no option to change the video recording duration.For Power-Plugged cameras, you can only switch from All-Time Recording Mode to Record by Event Mode, but not the duration of the recording. To do so, open the camera's settings Local Recording Mode.-Aosu Team
+uuid: 26997d73bd3aae31
+
+
+【request】
+uuid: fef14049-78cb-4367-ab04-2a664c092113
+timestamp: 1726214233473
+No.25 question: File storage 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that if you record real-time videos, those are saved on the phone's local storage (Album).-Aosu Team
+uuid: 2390ccf4fbdc2cc6
+
+
+【request】
+uuid: ac7d646e-6304-41e6-928e-750bfc7061ad
+timestamp: 1726214236176
+No.26 question: unbind and delete cideo 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow these steps to proceed on deleting the videos\n- Open the app on your device. Go to the "Events" section. Look for either "Cloud" or "Local" (depending on where your events are stored) and tap on it.\n- Click settings into edit mode-choose event-delete. You will then be able to select and delete specific events that you no longer want to keep.
+uuid: dd767ef6bd01a793
+
+
+【request】
+uuid: af44f7fb-67c4-40b3-8526-4ccccaabe51b
+timestamp: 1726214238713
+No.27 question: How long does the system store my recording for free 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that when the memory of the camera is full, it will automatically override the oldest video recordings so new ones can be saved.-Aosu Team
+uuid: 1b07337423699823
+
+
+【request】
+uuid: fea1988a-4964-4595-9746-0a6fc4a99329
+timestamp: 1726214240809
+No.28 question: Hi, is the 8Gig of memory in the camera unit or the wi-fi home base? 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that different product models support different memory cards as well. If the memory card is built-in, it cannot be upgraded. However, if the TFSD card can be removed, you can upgrade it to 128GB or 512GB for other models.Let us know if you have other concerns.-Aosu Team
+uuid: 6a15ae59a2d4b6ac
+
+
+【request】
+uuid: 6c08e4cc-01bd-4d8b-a22e-3e532582c0c4
+timestamp: 1726214243579
+No.29 question: that's not an option
+【response】
+code: -4
+answer: ""
+uuid: 75bdc202a0feec3f
+
+
+【request】
+uuid: 59d0d97b-58fd-4331-9f71-59aa59303eb7
+timestamp: 1726214245590
+No.30 question: How can I link the devises to work together? 
+【response】
+code: -4
+answer: ""
+uuid: fcea119351b801f8
+
+
+【request】
+uuid: 83e0c71a-0b04-4c8d-9fdc-b431cccbeaa8
+timestamp: 1726214248003
+No.31 question: pink color 
+【response】
+code: 0
+answer: Sorry for the inconvenience this may have caused you. Rest assured we will help you sort this out. Kindly send us a photovideo showing the reported problem.
+uuid: 3311b82560b7467d
+
+
+【request】
+uuid: c51b310b-50ce-431e-b245-8c034d3f6aa1
+timestamp: 1726214250668
+No.32 question: I am trying to activate face recognition on my ring bell and it’s asking me to activate service
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Please be advised that you need to subscribe to the Cloud Storage Plan with the Face AI feature to activate this facial recognition feature.-Aosu Team
+uuid: 1f2216e937a8353d
+
+
+【request】
+uuid: fdcb4c42-8f49-482d-abde-57ef1b886028
+timestamp: 1726214252814
+No.33 question: What is the ai face plan 
+【response】
+code: 0
+answer: Facial Recognition is an additional function that is part of the cloud service. It can only be used with the doorbell. With this function enabled, you will see your or your family members' faces in the notifications.
+uuid: 1279f2a95226b4f9
+
+
+【request】
+uuid: 41bc89d8-c77a-4c4b-9c4b-dd63d0a19bd2
+timestamp: 1726214254964
+No.34 question: with the annual plan for 2 devices can you record 24 hours a day for a year 
+【response】
+code: -4
+answer: ""
+uuid: 1f843fe25bf806ee
+
+
+【request】
+uuid: 17d17a9e-8ee4-4cdb-af0d-7412ab754917
+timestamp: 1726214256808
+No.35 question: Hi what’s the difference in the AI plan? 
+【response】
+code: 0
+answer: Premium Plan Features1. Subscription-Based The cloud storage is available only after subscribing to one of the payment packages categorized by storage period and duration, such as 14-day monthly, 14-day yearly, 30-day monthly, 30-day yearly, 3-device premium plan, and 5-device premium plan.2. Unlimited Storage Offers unlimited storage space for video events, ensuring all footage is securely stored without the risk of running out of space.3. Double Privacy Encryption Ensures all videos stored in the cloud are encrypted for added security.4. Remote Access Users can access their video events from anywhere, anytime, using the Aosu app.5. 7-Day Free Trial All users are eligible for a 7-day free trial for certain plans.
+uuid: 796c679b4a764219
+
+
+【request】
+uuid: 9515c5e3-cb92-4cb6-8bce-d3261aa01944
+timestamp: 1726214260268
+No.36 question: I just paid to renew my service and accidentally canceled it
+【response】
+code: 0
+answer: To subscribe to a cloud storage plan, kindly follow the steps belowOpen the Aosu appCamera SettingsChoose the plan that suits your needs (number of cameras and validity) Tap your payment preference (Paypal or Bank Card) Follow the on-screen instructions to proceed with the payment.-Aosu Team
+uuid: f1ecb2eb90460c01
+
+
+【request】
+uuid: c95e16b3-7659-4b2a-9112-c6005eba5f07
+timestamp: 1726214263433
+No.37 question: Can I switch my account from 1 device to 2 devices? 
+【response】
+code: 0
+answer: Please follow the steps below to cancel the subscription step by stepOpen the Aosu app Settings Cloud Recording My Service Select the cloud storage service you wish to cancel Click on "Unsubscribe", then confirm by clicking "OK". - Aosu Team
+uuid: d7748d5ce93acbfe
+
+
+【request】
+uuid: b7364d29-02f6-475e-9d0b-09c674779366
+timestamp: 1726214265617
+No.38 question: My credit card payment declined? 
+【response】
+code: 0
+answer: You can update your cloud payment by canceling your current subscription and subscribing to a new plan with your updated payment information. Kindly check the FAQ on how to cancel your subscription.-Aosu Team
+uuid: 9481215af10ef820
+
+
+【request】
+uuid: 2191fa70-fdef-4451-b592-4a7b4775c3e4
+timestamp: 1726214267754
+No.39 question: I don’t understand the iCloud monthly fee
+【response】
+code: 0
+answer: We offer two options for recording video events on a local SD card or the cloud servers. By default, video events are recorded on the SD card.
+uuid: 176cc8bccdebe26f
+
+
+【request】
+uuid: 6839dadc-365d-4dc7-813f-f36348e1e41c
+timestamp: 1726214270188
+No.40 question: how the heck do I get rid of this upgrade crap? 
+【response】
+code: 0
+answer: Open the Aosu app Tap the 3 lines in the upper left corner Other Settings Toggle off "Enable recommendations" Choose either "Ads? No! Turn them off! Or "Not interested! Turn them off!" -Aosu Team
+uuid: 89eb4d41d4950254
+
+
+【request】
+uuid: c09f96f0-140e-4684-a17d-2848963f0144
+timestamp: 1726214272388
+No.41 question: How do you charge the battery? 
+【response】
+code: 0
+answer: The solar panel must be placed where there is continuous sunlight all the year round. A direct sunlight for several hours a day can suffice for the camera’s power needs
+
+Note: The solar panel may be susceptible to weather conditions, seasonable change, geographic location and other factors.
+1. The provided screws are used to secure the mounting base to the desired position. If the surface of the mounting location is soft, a hole may be drilled on the wall by a φ6.0 bit and with an anchor bolt being inserted, and then the mounting base is secured by screws.
+2. First of all, install a screw cap to the universal joint, and then screw the round head nut into the universal joint.
+3. Screw the universal joint into the back of the solar panel, and secure it with provided nuts.
+4. Screw the tightened screw cap into the mounting base. Make sure that the universal joint faces upward.
+5. Adjust the solar panel toward left or right, loosen the screw cap, rotate the screw rod, and then tighten the screw cap after the solar panel is properly installed.
+6. The angle of the solar panel may be adjusted upward or downward, even up to 90°.
+
+Note: After installation, please check whether all connections are tight. Keep the solar panel in a mounting angle of 30-45° from the horizontal plane
+
+Connect the solar panel to the camera, as shown in the picture below (open the silica gel cover at the bottom of the camera, plug the power wire in the USB-C charge port, and then close the cover and loosen the power wire on the solar panel).
+uuid: 2e9b0c1d5bba59fc
+
+
+【request】
+uuid: cc28b175-1f08-4161-8465-9e6e01e54a4d
+timestamp: 1726214277819
+No.42 question: 68 degrees panel has direct sunlight and nothing is blocking the sun 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! For us to better assist you, kindly answer the following questions 
+1.) Does the solar panel have direct heat from the sun?
+2.) Is there something blocking the solar panel from receiving heat from the sun?
+3.) Have you already tried charging the camera using a different charging cable?
+uuid: 67de56343e5caeb4
+
+
+【request】
+uuid: 5c36602e-a1e4-42f2-9b79-479e99dc96d8
+timestamp: 1726214280186
+No.43 question: Hi I bought the Aosu model V8S1Ax11 September of 2022
+【response】
+code: 0
+answer: 1. How many videos are recorded every day, and whether the video content meets the requirements.
+2. Whether there is a long time to watch the live feed, if not necessary, it is not recommended to watch live for a long time. It will lead to increased power consumption.
+3. Whether the device connects to Smart devices, such as Alexa and Google Home, remember to exit manually if you use a smart speaker to watch the live feed. Otherwise, it will bring increased power consumption.
+4. Whether the device is directly facing the dense crowd and traffic, if so, you can adjust the detection distance to exclude the interference on the road.
+5. Check for the firmware update. Settings ---- Firmware Updates.
+uuid: 80f097fe80fafe43
+
+
+【request】
+uuid: 096d588c-d57f-49c2-b822-f256b529dd39
+timestamp: 1726214283394
+No.44 question: battery drains in 3 weeks, one of the reasons we bought it for was during absense to see and talk if necessary- lifetime battery is advertised as 6 months !!!!, we dont make 3 weeks !!! 
+【response】
+code: -4
+answer: ""
+uuid: bff2778f0d659e0d
+
+
+【request】
+uuid: 8fac383c-a0b1-47a6-90e5-ee7b59f31c5a
+timestamp: 1726214285588
+No.45 question: No recording at night 
+【response】
+code: 0
+answer: The sensitivity of the PIR Sensor decreases at night, so we recommend increasing the sensitivity and disabling human detection to see if motion can be detected.If it still does not work, we suggest provide us with the SN information of your device and let us know the specific time when the device did not record.
+uuid: 6a5bca26f912555d
+
+
+【request】
+uuid: c269f68c-4f0c-4a1e-8bc0-fb22bd55d721
+timestamp: 1726214288563
+No.46 question: How do i set up activity zones 
+【response】
+code: 0
+answer: Kindly follow these steps on how to add a detection zones  
+Open the Aosu app Settings- Detection Zone- Click the blue font Edit the Detection Zone on the live video.
+uuid: 1acda4154788742e
+
+
+【request】
+uuid: aa357542-b2d3-461f-bb17-fc6f07713a39
+timestamp: 1726214291201
+No.47 question: Hi
+【response】
+code: 0
+answer: Can I help you?
+uuid: 243b2f84d6264a33
+
+
+【request】
+uuid: 8d53c9f1-07b2-4196-b8f0-da66522c2742
+timestamp: 1726214293092
+No.48 question: what is the PIR 
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. PIR stands for Passive Infra-Red. It is a technology used in security systems to detect movement or intruders by recognizing light emitted from nearby objects.-Aosu Team
+uuid: 341daa362b286a82
+
+
+【request】
+uuid: 5cfd8525-b5a7-4b3e-9c57-84407a1129a3
+timestamp: 1726214295406
+No.49 question: I just wanted to know, is there a way to turn off the camera manually? 
+【response】
+code: 0
+answer: You can go to the device settings to shut it down, or manually operate the device to shut it down.
+uuid: a09a32fd02f082b6
+
+
+【request】
+uuid: 4aafeb48-1eae-4053-ac32-e2342934a5f6
+timestamp: 1726214297640
+No.50 question: How to retake panorama picture? 
+【response】
+code: 0
+answer: There are two ways to reset the panorama.1) Please access the live footage and hold press the panorama image for a few seconds, then you will find the buttons '' Reset '' and ''Delete''2) Please enter the settings page, find '' auto cruise'', then cut into the page to reset the panorama images.
+uuid: 8d6e4fa6b8e878f4
+
+
+【request】
+uuid: 67cb5e9c-86fe-4b2f-b14c-c1402fcd09f9
+timestamp: 1726214299794
+No.51 question: How about turning the beeps off? 
+【response】
+code: 0
+answer: You can turn off the alarm sound via settings-- auto alarm--disable this feature.
+uuid: 19b06d67c735f0f6
+
+
+【request】
+uuid: 1d947d61-6f91-4d22-8542-77721f8d7366
+timestamp: 1726214301934
+No.52 question: Is it possible to run 2 hubs on the same aosu phone app? 
+【response】
+code: 0
+answer: Yes, you can. All aosu cameras work with the same app. You can add two more Hubs to the app.
+uuid: d29cb15d3bed972a
+
+
+【request】
+uuid: 151c85fa-1a75-4acd-aab6-d791cf1d8267
+timestamp: 1726214304018
+No.53 question: How long is the cord from camera to solar panel? 
+【response】
+code: 0
+answer: Thank you for your message. The cable on the solar panel is around 3 meters (9.8 feet).
+uuid: 7f5c5fba8da8ff37
+
+
+【request】
+uuid: fffe594d-62e3-4d33-bba7-fd1c1a67deaa
+timestamp: 1726214307014
+No.54 question: hi keep getting notifications constantly is there not supposed to be smart detection? it's saying someone is there every time the wind blows 
+【response】
+code: 0
+answer: 1. You can increase the sensitivity in "Settings - Motion Detection - Detection Sensitivity" according to the surrounding environment of the home to receive more event notifications.
+2. You can view the message notification mode in “Settings-Notification Settings”, and if you are in smart notification mode, you can enable all message notification types.
+3. If you turned on the Snooze mode, then during your setting period you won’t be receive any notifications, check your Snooze mode status on your App main page.
+confirm that the mobile phone is not on “DND” (Do Not Disturb) mode (this mode should be turned off).
+uuid: 4cc5b88d9b936ad8
+
+
+【request】
+uuid: 1c155a2b-e319-4b4d-be3a-ed88fdd9a55c
+timestamp: 1726214311106
+No.55 question: Can I set a boundary where the camera won’t turn past a specific area? 
+【response】
+code: 0
+answer: Open the Aosu and go to Settings Privacy Settings Privacy Area Settings. After editing, the area is blocked and cannot be viewed when you watch the real-time video to protect the privacy of your neighbors.-Aosu Team
+uuid: 05379c6a3250c6c6
+
+
+【request】
+uuid: 53597240-ea85-477f-b241-4ab881c161ac
+timestamp: 1726214313468
+No.56 question: what does the tone button on the app do 
+【response】
+code: 0
+answer: The tone button in the app allows you to modify and disguise your voice in two ways Uncle and Clown. This feature safeguards your voice privacy when communicating with someone in front of a camera. It can change your voice to resemble either a man's voice or a clown's voice. -Aosu Team
+uuid: ecfe3fbf3c3e7864
+
+
+【request】
+uuid: e96d4a7b-a20c-400c-90c7-5d1f887a7905
+timestamp: 1726214315901
+No.57 question: follow movement
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Motion-tracking is a function that allows the camera to follow the actions when the movement occurs. You can turn it onoff by going to the camera's Settings Motion Detection Toggle On "Motion-tracking" or "Track Motion"-Aosu Team
+uuid: 6f5bd0c1e75e7ca8
+
+
+【request】
+uuid: b590434a-ba96-47c7-a557-3029b705899c
+timestamp: 1726214318158
+No.58 question: C9C2CA110006117
+【response】
+code: 0
+answer: - Ensure that the device is in a pairing status before network configuration 
+- Confirm that the router can be connected to network normally (the phone in the same network can access to the Internet) 
+- Check whether the distance from the router is appropriate
+- Please check if the device is powered on. For non-HomeBase products, ensure that the Wi-Fi information entered is correct when connecting the device to the network.
+- If the issue is still not resolved, please notify our customer service team in this chat window.
+uuid: ee7df8f26e9aad47
+
+
+【request】
+uuid: 99ea2a6a-6a0e-41ff-a0f8-da95fcecb8f8
+timestamp: 1726214321158
+No.59 question: range for camera to pick up events 
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Most of our cameras' detection range during daytime is 10M and 10-15M at night time, depending on the model of the camera.- Aosu Team
+uuid: 56b3e0b7d43966c4
+
+
+【request】
+uuid: 112c4126-19a9-4f8b-8230-386c921222f9
+timestamp: 1726214323535
+No.60 question: how dobI access my video content 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!To access your camera's recordings, open the Aosu appEvents tab Cloud (If you have an active cloud storage plan) Local (If you have an SD card installed or your camera has the HomeBase).-Aosu Team
+uuid: 57983eb739639fc0
+
+
+【request】
+uuid: 2ac8b116-f94b-4965-9e8b-48ae47d588d9
+timestamp: 1726214325800
+No.61 question: I will try 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to check and isolate the problemOpen the Aosu app click Settings Video Audio Two-way talk speaker Increase the volume.-Aosu Team
+uuid: 1f4fc2509ec36965
+
+
+【request】
+uuid: 4e570c0b-e6ea-437a-9d7d-180da78c7662
+timestamp: 1726214327917
+No.62 question: Bad sound quality 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to check and isolate the problemEnsure that the audio on the app is not muted (Look for the Mute button under the live video screen)If the audio isnt muted and still has no sound, kindly open the Aosu app click Settings VideoAudioToggle On "Record Sound"
+uuid: eba4b7dc82576bcf
+
+
+【request】
+uuid: 8c359113-0387-4878-9959-a31c3c9a26c2
+timestamp: 1726214330517
+No.63 question: I would like to retrieve footage from the past day 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Unfortunately, we do not have an option to recover videos or photos that have already been deleted from the cloud or memory card. Once they are deleted, it is unlikely that they can be recovered. We recommend regularly backing up your important files to prevent any potential data loss in the future.-Aosu Team
+uuid: 87adf31fca1f8731
+
+
+【request】
+uuid: 1b6e82de-a907-49e2-9249-e0352d55991d
+timestamp: 1726214333111
+No.64 question: It is not detecting from a medium distance
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! 
+uuid: 0fbd92c279630205
+
+
+【request】
+uuid: d7ec6902-191a-4aab-9d18-40a586c7ae33
+timestamp: 1726214337302
+No.65 question: Videos from today are gone 
+【response】
+code: 0
+answer: There are a few things you can check to fix this problem Make sure the network connection of the camera is normal. Check if the camera is offline. Meanwhile, ensure the wifi signal strength is over 80. If not, the camera always goes offline and misses some events.Check if the motion detection function is turned on. Also, increase the detection sensitivity to the farmax level and disable the "Adjust Automatically". Ensure an SD card is inserted or a cloud storage service is enabled. Without storage, the camera cannot save any recorded events. Check if the camera has a good view. Check if the device's view is wide without closing to a tree or wall, or facing a busy road and crowd. If you have a battery-powered camera (cameras w solar panels), ensure the battery is charged and functioning properly.If you have checked all of these factors and the camera still isn't recording events, please provide a screenshot to show the events page to us. We will resolve the issue for you.- Aosu Team
+uuid: 6956433cd248c4aa
+
+
+【request】
+uuid: 1e8ab30a-3ae4-4f49-a9a5-8bc43ea1bbb3
+timestamp: 1726214340976
+No.66 question: does Aosu app supports cameras from different brand? 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Unfortunately, non-Aosu camera brands are not supported by the Aosu app.
+uuid: 566719bcec91d713
+
+
+【request】
+uuid: ec8a8cca-1602-4299-bde1-5505daadff86
+timestamp: 1726214344121
+No.67 question: Hi how to lower the sound of the Wifi Hub 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Open the Aosu app Settings Chime Settings Pull towards the "" sign to adjust the volume of the Wi-Fi HomeBase alarm volume
+uuid: ac24455c428c8153
+
+
+【request】
+uuid: 38498f35-3fcd-4d04-9e4f-95231c9830c6
+timestamp: 1726214346213
+No.68 question: Human only tracking keeps turning on by itself
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that the possible reason for this is due to network speed, there might be delays when changing hardware-related settings. Kindly follow the steps below to isolate the problemKindly refresh the pageTry also reinstalling the appTry to reconfigure the cameraIf it still doesn't change after these steps, kindly send us a short video showing the reported problem. Rest assured we will help you sort this out.-Aosu Team
+uuid: 8fb5e300710bff19
+
+
+【request】
+uuid: d14dad94-2cab-48d3-b506-bf084222184c
+timestamp: 1726214348834
+No.69 question: Add extra device ? 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Feel free to download and install the Aosu app to the second phone and login using the same email address and password (the email address and password you used on the first phone). You can log in to up to 3 devices, and you can also share the device with your family members.
+uuid: 814a3447ef42b240
+
+
+【request】
+uuid: 09198992-a04f-4f72-86dd-bb329adfd82e
+timestamp: 1726214351177
+No.70 question: My name is Steve and I’m looking for installation instructions 
+【response】
+code: 0
+answer: Kindly open the Aosu app Settings FAQSelect your deviceOnline Manual
+uuid: 36d44a86ded8d63a
+
+
+【request】
+uuid: aa35bcc3-b792-4805-b4df-61ee6fd03362
+timestamp: 1726214353031
+No.71 question: How can I connect with google home 
+【response】
+code: 0
+answer: Kindly follow the steps below on how to connect the camera to Google HomeStep 1 Download and setup the cameras to the Aosu appStep 2 Download and setup the Google Home and Assistant appsStep 3 Open the Aosu app, go to the camera's Settings, tap "OK Google", then follow the on-screen instructions.NOTE The camera cannot display on the Google Home App, but it will only show the live stream on the Google Nest Hub device.
+uuid: fc9c2a3fb7690acc
+
+
+【request】
+uuid: 9e554c5b-8f60-42f7-9992-4bc5e8daba44
+timestamp: 1726214355729
+No.72 question: how to connect to alexa 
+【response】
+code: 0
+answer: To add Alexa, please follow the steps below:  
+Step 1 Download and setup the cameras to the Aosu app  
+Step 2 Download and login to the Alexa app, then tap "MORE" at the bottom of the page.  
+Step 3 Tap "SKILLS GAMES", then SEARCH for AOSU  
+Step 4 Tap "ENABLE TO USE", then you will be prompted to login to the Aosu app  
+Step 5 Go to the Settings of the camera on the Aosu app, then tap "Amazon Alexa"  
+Step 6 Tap "Sign In With Amazon", then tap "LINK" (All installed and supported devices will be linked to the Alexa app automatically)
+uuid: b9b9a8ce273a4c59
+
+
+【request】
+uuid: dd0fc74e-0dd6-4533-b74c-2a20aa4f7820
+timestamp: 1726214359000
+No.73 question: Human 
+【response】
+code: 0
+answer: Unfortunately, Google Nest Hub doesn't support this option yet. We are working hard to provide convenience to our customers and this is one of our plans for improvements.-Aosu Team
+uuid: 5538709053b607d3
+
+
+【request】
+uuid: d812aebb-3a05-44e1-9b76-0aa105f81ff4
+timestamp: 1726214362475
+No.74 question: Alexa
+【response】
+code: 0
+answer: To add Alexa, please follow the steps below:
+Step 1 Download and setup the cameras to the Aosu app
+Step 2 Download and login to the Alexa app, then tap "MORE" at the bottom of the page.
+Step 3 Tap "SKILLS GAMES", then SEARCH for AOSU
+Step 4 Tap "ENABLE TO USE", then you will be prompted to login to the Aosu app
+Step 5 Go to the Settings of the camera on the Aosu app, then tap "Amazon Alexa"
+Step 6 Tap "Sign In With Amazon", then tap "LINK" (All installed and supported devices will be linked to the Alexa app automatically)
+uuid: c3f9f536a0f4316f
+
+
+【request】
+uuid: 1ced10a9-6c31-4322-9596-1af7e3c5561c
+timestamp: 1726214365652
+No.75 question: How to add more cameras? 
+【response】
+code: 0
+answer: You can go to the aosu app, head to the home page, and click on the "+" button in the upper right corner. Follow the on-screen instructions to complete the device addition. If you encounter any issues during the network configuration process, you can maintain communication with us at any time in this chat window.
+uuid: f8365ab8d84281d8
+
+
+【request】
+uuid: afcce9fd-fd68-4254-a515-3f6c0464a5d5
+timestamp: 1726214368332
+No.76 question: hello, I’d like to cancel my cloud subscription 
+【response】
+code: 0
+answer: You can go to the device settings - Cloud Recording to visit the service page and cancel the subscription.
+uuid: d99f2f3dd3e9c80b
+
+
+【request】
+uuid: 03f45b64-9907-4833-8f6d-e0db86a8f970
+timestamp: 1726214370485
+No.77 question: How to delete local cloud clips 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Open the Aosu app Events CloudLocal Click the edit icon (as shown in the screenshot) Select the video that you want deleted Tap the Delete icon (trash can) Confirm by clicking "Delete" in the prompt page.-Aosu Team
+uuid: 665bcf41abf8f8be
+
+
+【request】
+uuid: 7f0a0512-4901-42a2-a525-545c2df539ea
+timestamp: 1726214373117
+No.78 question: how do I stop/close  the split screen 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Open the Aosu applong-press the panoramic view, then you will see the resetdelete button display as shown in the screenshot below-Aosu Team
+uuid: 5e1fa23498d07ef6
+
+
+【request】
+uuid: 0371761a-165f-43db-8ee1-8bf20dcef871
+timestamp: 1726214375356
+No.79 question: Hi, I was wondering if it's possible to change the alarm sound in the cameras? 
+【response】
+code: -4
+answer: ""
+uuid: 9dd3056ba95a5f13
+
+
+【request】
+uuid: 2ac87efa-7b3b-4619-8a68-bd95cde6ced7
+timestamp: 1726214377196
+No.80 question: hi, I am wanting to change locations of the camera
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Please be guided that if the camera is compatible with the 2.4 GHz, you can connect it to the mobile hotspot with a 2.4 GHz frequency.-Aosu Team
+uuid: 960cb361d7455253
+
+
+【request】
+uuid: c0cd02b4-8462-48ca-9f48-2a69dc4cd7e0
+timestamp: 1726214379387
+No.81 question: home base usb port 
+【response】
+code: 0
+answer: For charging the camera, you can either directly connect it to the Homebase for charging, or use a 5V1A2A charger.
+uuid: 27b5f45af8cf8106
+
+
+【request】
+uuid: c54d8281-a774-45f7-99a2-44d0a7bb3258
+timestamp: 1726214381387
+No.82 question: Will these work without a router  Because my dish is star link 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Unfortunately, our current product models require a Wi-Fi connection to work. If you are looking for a camera that does not require a Wi-Fi connection, you can search for 4G cameras in the market. These cameras do not need Wi-Fi and instead work with SIM card data. We hope this information is helpful.-Aosu Team
+uuid: 333dfd2a59cfaef0
+
+
+【request】
+uuid: f1adfc80-fba0-4253-80b7-badb0d366932
+timestamp: 1726214383729
+No.83 question: how do you change the internet connection with model H1L 
+【response】
+code: 0
+answer: To change the wifi connection of the HomeBase, connectplug the other end of the Ethernet cable from the HomeBase to your new router's Ethernet or Internet port.-Aosu Team
+uuid: 471e89f83d25764c
+
+
+【request】
+uuid: 08c3fef0-2dbd-4ca5-82b4-d0f3e9e85b3d
+timestamp: 1726214385857
+No.84 question: how many cameras does the home-based support 
+【response】
+code: 0
+answer: Unfortunately, the Homebase can only support up to 4 cameras with the same models or supported models.-Aosu Team
+uuid: 7b285e47b8b4096b
+
+
+【request】
+uuid: c447c253-33d7-4492-b6f0-b0192e871686
+timestamp: 1726214388219
+No.85 question: I have powered up the base and connected it to my router (a plume pod)
+【response】
+code: 0
+answer: In theory, the Wi-Fi HomeBase can be 12m/40ft from the WI-Fi router. The actual range will vary depending on a number of factors, such as the thickness of walls, obstacles inside the house, and the location of the router.
+
+
+uuid: 30d030cc862f6024
+
+
+【request】
+uuid: af645a91-4eee-4708-a587-75145d8c76ae
+timestamp: 1726214390502
+No.86 question: Trying to switch my internet WiFi to the extender how do I change the internet 
+【response】
+code: -4
+answer: ""
+uuid: 634f4ab87cfce2f3
+
+
+【request】
+uuid: a894d282-3676-45b8-88d5-a3f34810534a
+timestamp: 1726214392576
+No.87 question: My doorbell camera was acting up so  I removed a device not knowing I needed the QR code to add it back
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow these steps to isolate the problem Kindly adjust the distance between the camera lens and the QR code on your phone. Ensure that the screen brightness is not too dark nor too bright. Try placing the phone screen horizontally about 10-15cm in front of the camera and slowly move it away at a distance of 10-15cm. Once scanned successfully, you will hear a "beep" sound. REMINDER Make sure to show the FULL PICTURE of the QR code
+uuid: 904db21a7ab3598f
+
+
+【request】
+uuid: f5c339a4-c654-42a3-9661-b4f0f2de63b3
+timestamp: 1726214395514
+No.88 question: Xfinity
+【response】
+code: -4
+answer: ""
+uuid: 6e1d239c2a2c5fba
+
+
+【request】
+uuid: e8ca4615-3f3a-47e0-9041-ce1be12b525b
+timestamp: 1726214397171
+No.89 question: how do I reconnect? 
+【response】
+code: 0
+answer: If your wifi camera's wifirouter changes, please navigate to settings and select "Reconnect Wifi." Choose your new wifi network and enter the password.
+uuid: 37b5e774a46b97af
+
+
+【request】
+uuid: 09c302c1-fe20-4b78-88a7-754f10ba694f
+timestamp: 1726214399180
+No.90 question: Does the model C4L work with the home base? 
+【response】
+code: 0
+answer: Theoretically, a camera can be placed within 12 meters (40 feet). But in practice, it varies depending on various factors, such as, but not limited to: wall thickness, barriers in the house, and location of the HomeBase.
+uuid: bbe49d3da156d442
+
+
+【request】
+uuid: c70b3640-258a-47ec-96dc-e6fad6ec9b06
+timestamp: 1726214402347
+No.91 question: My doorbell is great except when I’m away from home, when I’m home alerts are instant and I can two-way call and everything but when I’m on my phone and anywhere else it acts like it doesn’t even connect to the doorbell
+【response】
+code: 0
+answer: Currently, Google Nest Hub does not support receiving doorbell call notifications.
+uuid: 0661da6ea0fe8fab
+
+
+【request】
+uuid: dfdb970f-18b0-42c9-a663-b2af390dfaac
+timestamp: 1726214404491
+No.92 question: The light turns from green to blue but wont connect 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to isolate and fix the problemCheck the Wi-Fi frequency (2.4GHz or 5GHz)NOTE Only C2E and C4L models support 5GHz. If unsure, kindly check your router settings or contact your internet service provider for assistance.If the network is not on 2.4GHz, kindly pause the 5G wifi first, then configure again OR contact your network provider and request to split the WiFi into two channels 5GHz and 2.4GHz. This will allow the camera to connect to the appropriate frequency. If the network is on a 2.4GHz frequency but still has no internet connection, kindly try with the mobile phone's hotspot connection.Additional StepsEnsure that the camera is in pairing mode before attempting network configuration by pressing and holding down the RESET button for at least 5 seconds until a blue light starts flashing.Check if the router has a stable internet connection by checking if other devices can access the internet successfully.Check if there is any significant distance between the camera and router which could impact signal strength and connectivity. Consider moving either device closer or using a WiFi extender if necessary.-Aosu Team
+uuid: 1122a4d8b63967d6
+
+
+【request】
+uuid: f7151cd1-5edf-4eed-bcdf-43a1d7b3ec92
+timestamp: 1726214409937
+No.93 question: Purchased a aosu solarcamD1 Lite 2
+【response】
+code: 0
+answer: Kindly check if your router is on Automatic-Switching mode. If yes, you can pause the 5G connection or contact your internet service provider and ask to separate the 2.4GHz and the 5GHz wifi bands.
+
+Please also confirm that your device supports the 5G network connection, and that the Wi-Fi information you entered during the network configuration process is correct. If you still have issues after trying, please feel free to keep in touch with us through this chat window at any time.
+uuid: dcd0720fbfdce3df
+
+
+【request】
+uuid: 2f684581-7514-406c-8fc2-0c34bd15a037
+timestamp: 1726214413470
+No.94 question: Our video doorbell is not working
+【response】
+code: -4
+answer: ""
+uuid: e9c7027f73a0711e
+
+
+【request】
+uuid: 3d232dc0-ef9b-4147-a429-3222c5714e24
+timestamp: 1726214415450
+No.95 question: This should still be under warranty the camera I
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Please be advised that all Aosu products are entitled to a 1-Year replacementrefund warranty. On the other hand, please note that all devices are also entitled to a lifetime warranty for technical support.-Aosu Team.
+uuid: b02115f56300c49b
+
+
+【request】
+uuid: 3f3514c6-e82a-4056-b638-72ec2242a093
+timestamp: 1726214417701
+No.96 question: hi can I connect my cameras to a hot spot 
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Please be guided that if the camera is compatible with the 2.4 GHz, you can connect it to the mobile hotspot with a 2.4 GHz frequency.-Aosu Team
+uuid: 34bd93b62f22caaf
+
+
+【request】
+uuid: 67d385a6-8c25-4c05-bf3c-47f97450a81d
+timestamp: 1726214420158
+No.97 question: Cloud storage cost for Canadian clients? 
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Please be advised that the prices that you're seeing on the app for the cloud subscription plans are in US dollars. We are still working on converting the prices according to the local currency.-Aosu Team
+uuid: 97dff34422bf1fb2
+
+
+【request】
+uuid: b69dc6ac-c407-40df-bd37-345a17cfd07a
+timestamp: 1726214422401
+No.98 question: Hi I just want to know if my alarm was hacked this morning between 1am and 6 am 
+【response】
+code: -4
+answer: ""
+uuid: 023f4ed4fbfe2376
+
+
+【request】
+uuid: ce0530c8-ee1e-4408-be12-85f5d888f54f
+timestamp: 1726214424493
+No.99 question: thank you 3much that absolutely worked 
+【response】
+code: 0
+answer: Hello,Thank you for patronizing our products! We are a company dedicated to providing excellent products and services to our customers. We continue to strive to improve what needs improving and we're committed to helping our customers.Please don't hesitate to contact us again should you have other concerns.All the best,The Aosu Team
+uuid: fce2a16446294829
+
+
+【request】
+uuid: b1e92858-c097-486f-843e-2977d51b51fc
+timestamp: 1726214427158
+No.100 question: Show me how far I can install my cameras 
+【response】
+code: 0
+answer: Hang wire-free security camera 7-10 ft (2-3 m) above the ground. This height maximizes the detection range of the motion sensor of the security camera.
+uuid: 41f934d92fb7ea08
+
+
+【request】
+uuid: c0271564-761c-4eac-916e-fbde2bfff26d
+timestamp: 1726214429267
+No.101 question: What is the USB cord used for 
+【response】
+code: 0
+answer: The USB-C cord that's included in the package is used to charge the camera to a power source.
+uuid: c71c20b3ee03e1e5
+
+
+【request】
+uuid: 2a2e2ce0-b734-4291-aef3-76103435e708
+timestamp: 1726214431300
+No.102 question: Where is the settings menu? 
+【response】
+code: 0
+answer: If you're on the main page of the Aosu app, the Settings is just below the camera's live video screen. However, if you're on the camera's live video screen, tap the gear icon on the upper right corner of the screen as shown in the screenshot below.
+uuid: 72cbcaa0cb8ccbaa
+
+
+【request】
+uuid: 9bb6dc80-633f-4dcd-8ac0-5a901e980f2c
+timestamp: 1726214433845
+No.103 question: Hello guys I’m a contractor and I offer security system installs to costumers 
+【response】
+code: -4
+answer: ""
+uuid: f41fdb507c5c4f64
+
+
+【request】
+uuid: 9e3421cf-107a-4df8-acc0-da9674ea5c88
+timestamp: 1726214435885
+No.104 question: Where can I purchase 2
+【response】
+code: -4
+answer: ""
+uuid: bfa4e1e51d16fd08
+
+
+【request】
+uuid: 60cb1ffb-4d4a-4481-86bb-31257745aadc
+timestamp: 1726214438511
+No.105 question: Is there a way to allow for a small camera screen to be placed in the corner of my device? 
+【response】
+code: 0
+answer: Our engineers are working hard to create features for the convenience of our customers. This isn't available yet, but rest assured we will take note of this.
+uuid: 2cc77c53d1754bc3
+
+
+【request】
+uuid: fb6dfdb0-d5e2-4de7-bdb1-d65df61bd063
+timestamp: 1726214440605
+No.106 question: what does usd and sd mean 
+【response】
+code: -4
+answer: ""
+uuid: 65b3f4fcd58723d5
+
+
+【request】
+uuid: c54e05bd-5a01-4272-a906-6b2692ed8b24
+timestamp: 1726214444804
+No.107 question: Is it possible to turn off the blue ring on doorbell cam? 
+【response】
+code: 0
+answer: Kindly open the Aosu app Settings (Toggle off the) Doorbell Circular Light.
+uuid: 41715ae7959abda1
+
+
+【request】
+uuid: cb160f3a-27f8-4ce6-b1fc-6db6cf1af6f9
+timestamp: 1726214446904
+No.108 question: The storage is tiny? 
+【response】
+code: 0
+answer: Video events may be recorded in a card or on cloud. The card record will be used by default; in order to use the cloud record function simultaneously, you must activate it first. 
+
+Card Recording: Video events are recorded in the memory of the camera, with an encrypted circular storage, and supporting watch on Aosu App only.
+
+Cloud Recording: Video events are recorded in cloud servers. You will be offered with the services such as privacy encryption, unlimited storage space and remote access at anytime.
+
+Cloud recording services can be used only after payments. Payment process: Settings-Cloud Recording-Activate Now-Buy.
+
+The subscription payment packages are categorized according to the storage period and package duration as: 14-day monthly, 14-day yearly, 30-day monthly and 30-day yearly, 3 device premium plan 30 monthly, 3 device premium plan yearly, 5 device premium plan monthly and 5 device premium plan yearly. 
+
+All users are qualified for a “7 days free trial (14-day monthly, 3 device premium plan, 5 device premium plan are not included)”.
+uuid: 05593d8771f5b4dd
+
+
+【request】
+uuid: a761ca6c-fe10-481f-9311-e2eba47d0d1e
+timestamp: 1726214452151
+No.109 question: How do i send you a photo 
+【response】
+code: 0
+answer: Kindly follow these steps to attach a file to the live chat. Tap the Online Support tab. Type your message first and send If the "" icon is not available. After sending the first message, the "" icon should now appear - Tap on it. Tap either the "Albums" or "File" icons You will be routed to the Screenshots folder by default. Tap on the photo that you want to attachThen, tap OK to sendHere's a video tutorial for your reference  https://youtu.be/ypyLz_0yUqw
+uuid: d1dd491d231f1fde
+
+
+【request】
+uuid: 1837701f-d93e-4785-adba-fc9274132144
+timestamp: 1726214455134
+No.110 question: I need a release key
+【response】
+code: 0
+answer: If you wish to unmount the doorbell from the mounting bracket, please use the doorbell detaching pin provided or any pointed object as long as it fits the hole. Insert the pin into the hole at the bottom of the doorbell, then press and hold and lift its bottom to remove it. Here's a video tutorial for your reference https://youtu.be/6csN-lCU1l8
+uuid: 17456f086d0bb763
+
+
+【request】
+uuid: be3baa02-c99d-49d2-acd5-2d9725610e00
+timestamp: 1726214457606
+No.111 question: The app is asking to intser memory card where should insert it 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! To insert the SD card, ensure that the gold contacts are facing down. Press in to secure. An "audible click" is heard when securely inserted.
+uuid: 916a79d80e729b79
+
+
+【request】
+uuid: 0609e3b0-7e6e-455d-8f79-c9b1616233c7
+timestamp: 1726214460070
+No.112 question: hello!!  I bought one more camera thinking I could add it to my other 4, but I see that the smart base only allows 4
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!If you've added cameras to the app already, kindly tap on the "" sign at the upper right corner of the screen as shown in the screenshot below. Just follow the on-screen instructions after tapping the plus sign.Let us know if you need further assistance.
+uuid: 6d8bf7bfcb92b836
+
+
+【request】
+uuid: 76c0f971-d9ff-4d6f-ba2d-6bce9fd01453
+timestamp: 1726214462780
+No.113 question: do yall offer 24 hour recording 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that Battery-Powered cameras and doorbells do not support continuous recording. These cameras can only record events that are triggered by motions. However, if you are looking for a camera with a continuous recording capability, you may check and consider our Power-Plug cameras. Please check the settings for "all-day recording" or "247 recording" on the Power Plug camera.-Aosu Team
+uuid: d1f3cc0a25b719f6
+
+
+【request】
+uuid: 19da02f7-83aa-4c6f-ae88-0dd6fb2ab80f
+timestamp: 1726214466348
+No.114 question: Print 
+【response】
+code: -4
+answer: ""
+uuid: 56ef673195337998
+
+
+【request】
+uuid: e3db68c9-1adf-4598-bfd7-1d2ee0909693
+timestamp: 1726214468404
+No.115 question: I need help and I am not able to call 
+【response】
+code: 0
+answer: Thanks for reaching us, we sincerely apologize for what happened and will help you.
+
+Based on your case, would you please remove the device from your app first, then follow the steps below to see if the doorbell can be connected?
+
+Step 1: Please plug the white color homebase to a power socket.
+
+Step 2: Turn on wifi on your phone and turn off the mobile data.
+
+Step 3: Use your phone, turn on the AOSU app, click the + button on the upper right corner, and scan the QR code on the white color homebase. Then enter the wifi name and password correctly as notified on the app.
+
+Step 4: Press the Sync button on the doorbell for 3S until the blue circular light flashing.
+
+Step 5: When the light is flashing on the white color homebase, press the Sync button on the homebase for more than 5S, until a beep sounds and the green light flashes.
+
+Step 6: Ring the doorbell and you will see the circular light is flashing. At the same time, you will hear the “Dingdong“ from both the doorbell and homebase.
+
+Also, when the doorbell is scanning the QR code on your phone, please do not click the next step too fast until you hear a Beep sound clearly. Otherwise, it may fail.
+
+If the connection fails again, please send us a short video of your connection process and send us the SN no on the white color home. Please do not worry, if the device is defective, we will help you replace it.
+
+Thank you for your cooperation.
+uuid: 60593e0ad2e900be
+
+
+【request】
+uuid: c5f60f60-cea0-457e-a778-feb7f89ea560
+timestamp: 1726214473697
+No.116 question: Is there a specific way to snap in the doorbell when using the 15 degree wedge?  I am unable to get mine to lock in
+【response】
+code: 0
+answer: Align the doorbell on top and then snap it in on the bottom. Press it down until it clicks into place. indicating it is securely in place. Here's a video tutorial on how to mount the doorbell for your reference:  https://youtu.be/dZVrb_Oc0oQ  - Aosu Team
+uuid: cfc5f302f2f7ad76
+
+
+【request】
+uuid: 6312805a-ae72-4d53-90f7-1dd23f7d0552
+timestamp: 1726214475967
+No.117 question: Do you have any camera that doesn’t need a wifi connection that the battery is solar? 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Unfortunately, our current product models require a Wi-Fi connection to work. If you are looking for a camera that does not require a Wi-Fi connection, you can search for 4G cameras in the market. These cameras do not need Wi-Fi and instead work with SIM card data. We hope this information is helpful.-Aosu Team
+uuid: 73b5a43037e0dc5a
+
+
+【request】
+uuid: c9418550-ad8b-4d3f-a19f-f30b602b6836
+timestamp: 1726214478901
+No.118 question: Hi
+【response】
+code: 0
+answer: Can I help you?
+uuid: 7d92aa5fe909d147
+
+
+【request】
+uuid: f818e6e2-c531-4318-845b-42aa4e6c9331
+timestamp: 1726214480516
+No.119 question: I want to watch live footage outside my front door
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly open the Aosu app, then tap the screen of the camera or the play icon as shown in the screenshot below-Aosu Team
+uuid: 102ce362bdd23412
+
+
+【request】
+uuid: 9afb8839-3388-4219-9ca2-d81785a8f90d
+timestamp: 1726214482588
+No.120 question: Can I add a second doorbell camera to my base station? 
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Unfortunately, the Homebase can only be paired with the doorbell that came with the package. Adding another doorbell camera to the HomeBase is not possible.-Aosu Team
+uuid: 612eb250f04e09dd
+
+
+【request】
+uuid: 31653915-82ea-43f6-9667-ac41dd73f79c
+timestamp: 1726214484886
+No.121 question: what's the local storage capacity 
+【response】
+code: 0
+answer: Video events may be recorded on a card or on cloud. The card record will be used by default; to use the cloud record function simultaneously, you must activate it first. Card Recording: Video events are recorded in 32GB memory of HomeBase, encrypted circular storage, and only supports viewing in the Aosu App. Cloud Recording: Video events are recorded on cloud servers. You will be offered services such as privacy encryption, unlimited storage space, and remote access at any time. Cloud recording services can be used only after payments. Payment process: Settings-Cloud Recording-Activate Now-Buy. The payment packages are categorized according to the storage period and package duration as 14-day monthly, 14-day yearly, 30-day monthly, and 30-day yearly, 3 device premium plan 30 monthly, 3 device premium plan yearly, 5 device premium plan monthly, and 5 device premium plan yearly. All users are qualified for a "7 days free trial (14-day monthly, 3 device premium plan, 5 device premium plan are not included)."
+uuid: 796e80e10583a516
+
+
+【request】
+uuid: 1734f514-cd89-402d-8247-6211a379def3
+timestamp: 1726214489039
+No.122 question: Can I make the lights turn off when it detects someone during the daytime? 
+【response】
+code: 0
+answer: Kindly follow the steps below to configure the Auto Alarm function of your camera Open the Aosu, then go SettingsTap Auto Alarm (ensure it's enabled), then tap "Add" and set up the following functions 1. Setup the "time period" (Start End time) 2. Choose "Smart Alarm" under Alarm Method to enable the default functions of the light and sound 3. Choose "Customer Alarm" to customize the functions 4. Choose also the days when this configuration should be activatedThen, click Save to save your settings.
+uuid: 7cce575c83d230ee
+
+
+【request】
+uuid: 8224b48f-1577-44fb-9808-4393bfd94540
+timestamp: 1726214492091
+No.123 question: How do I zoom in 
+【response】
+code: 0
+answer: To zoom in, pinch in with 2 fingers and pinch out to zoom out. Please be advised that not all cameras have the capability to zoom in from the default view. Kindly check the specifications features of your cameras.-Aosu Team
+uuid: 21e84946cf47739b
+
+
+【request】
+uuid: 9a25525b-1f24-4082-b5f4-fd8293dd5d41
+timestamp: 1726214494792
+No.124 question: Hi I’m installing my cameras and notice I’m missing screws pack 1 and the base for the camera that gets screwed into wall
+【response】
+code: 0
+answer: This camera can be installed by ceiling-mounted and wall mounted
+uuid: 0e07e0316f3fdb05
+
+
+【request】
+uuid: 4579b2f6-7027-4036-954a-6d32f20b8e55
+timestamp: 1726214496920
+No.125 question: My new Solar Security wireless outdoor camera will not pan completely to 360
+【response】
+code: 0
+answer: Kindly follow the steps below to isolate the problem Check the camera's WiFi signal percentage on the App, preferably greater than 85.Kindly check for firmware updates (Go to Camera settings Firmware updates, then Update)Check if the camera motor makes a sound when running PTZCalibration in the App.Kindly shake the camera, listen carefully to abnormal sounds caused by loose parts, and let us know if there are any.Kindly turn the camera manually to see if there is any resistance.Try also to re-calibrate the camera on the appIf the problem is the same, kindly send us a video showing the reported problemRest assured, we will help you resolve this.
+uuid: a35ec18b567b3c8d
+
+
+【request】
+uuid: 77f5998a-d3a4-44d2-a6e2-1a2d1f6ef1f6
+timestamp: 1726214500116
+No.126 question: how to connect to
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Please be advised that the cameras with Homebase are connected wirelessly to the network via the HomeBase Wi-Fi connection capability. Connecting these cameras to an extender or repeater is not possible.-Aosu Team
+uuid: 9ff9b59aa2838dcd
+
+
+【request】
+uuid: 303b09dc-7b7c-4fdb-9ff5-9ae90af172d3
+timestamp: 1726214503015
+No.127 question: Do u have an adjustable wall mount for the doorbell? 
+【response】
+code: 0
+answer: You may purchase the adjustable 30 to 55-degree doorbell Angle Mount compatible with the doorbell on Amazon or by clicking this link.
+uuid: bbdd078eb82fcf1c
+
+
+【request】
+uuid: da30e1bc-281d-408a-8068-600625ffbb5c
+timestamp: 1726214505135
+No.128 question: Un México the cámaras work ?? 
+【response】
+code: 0
+answer: Our cameras can work anywhere as long as an internet connection is available and the Aosu app can be installed on a phone for configuration.
+uuid: 3babc42104d1834d
+
+
+【request】
+uuid: 22e953ab-e1b2-4ade-b8bb-4521d613a7c5
+timestamp: 1726214507284
+No.129 question: Hi do you sell the home base by itself 
+【response】
+code: 0
+answer: Unfortunately, HomeBase and cameras are sold in a package and we are not selling the HomeBase alone at the moment.
+uuid: 56a2a011e61cdeb2
+
+
+【request】
+uuid: 4a422edf-ac5c-4dc4-904f-d29211488337
+timestamp: 1726214509306
+No.130 question: Do you have external solar panels I can purchase 
+【response】
+code: 0
+answer: Please be advised that our battery cameras use a charger supporting 5V1A-2A. You may use or purchase any solar panel from Amazon or any store as long as it meets your camera's input requirements (3W, 5W, or 6W).
+uuid: df18737003251b29
+
+
+【request】
+uuid: 7200ce6a-bed9-4e5a-b52b-654e8a2cf8d8
+timestamp: 1726214511793
+No.131 question: the cameras take a long time to load live feed
+【response】
+code: 0
+answer: To isolate the problem, kindly follow the steps below and provide feedbackAdvise changing the Streaming Quality to Smooth ModeKindly check the Wi-Fi signal strength of the camera on the app (at least 85 is recommended)Kindly check for Firmware Updates (including HomeBase, if applicable)Kindly switch connection to mobile data if connected to Wi-Fi and vice versaIf connected to Mobile Data Kindly open a browser on the phone, go to  speedtest.net , and send us a screenshot of the resultsKindly ensure that the phone has a good signal If connected to Mobile DataSend us a sample video showing the reported problemRest assured, I will help you sort this out.
+uuid: 088ab4a2c970b6e8
+
+
+【request】
+uuid: 37133510-3ec5-4da9-bfcc-08cf2aa0cd59
+timestamp: 1726214515066
+No.132 question: how can I get the external solar panel
+【response】
+code: 0
+answer: Please be advised that our battery cameras use a charger supporting 5V1A-2A. You may use or purchase any solar panel from Amazon or any store as long as it meets your camera's input requirements (3W, 5W, or 6W).
+uuid: 0e4caed528ca6926
+
+
