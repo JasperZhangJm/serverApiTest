@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717035433132,4787,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,228,825,4,4,null,0,0,1
+1717035433133,4786,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,228,825,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4786,0,1
+1717035432662,5257,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,419,826,4,4,null,0,0,15
+1717035432744,5175,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,419,826,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,5175,0,15
+1717035433385,5044,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,424,790,4,4,null,0,0,1
+1717035433386,5043,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,424,790,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,5043,0,1
+1717035437989,1559,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,228,816,4,4,null,0,0,0
+1717035437989,1559,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,228,816,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,1559,0,0
+1717035438433,1265,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,314,808,4,4,null,0,0,0
+1717035438434,1264,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,314,808,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,1263,0,0
+1717035437989,2497,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,507,786,4,4,null,0,0,0
+1717035437989,2497,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,507,786,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,2497,0,0
+1717035439701,1393,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,228,807,4,4,null,0,0,0
+1717035439702,1392,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,228,807,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,1392,0,0
+1717035439552,2484,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,604,784,4,4,null,0,0,0
+1717035439552,2484,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,604,784,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,2484,0,0
+1717035441095,1388,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-4,,false,,228,801,4,4,null,0,0,0
+1717035441095,1388,IM-GPT HTTP请求,200,OK,线程组 1-4,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",228,801,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,1388,0,0
+1717035440489,1995,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,415,798,4,4,null,0,0,0
+1717035440489,1995,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,415,798,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,1995,0,0
+1717035432895,9984,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,356,816,4,4,null,0,0,2
+1717035432896,9983,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,356,816,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9983,0,2
+1717035442038,2489,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,565,784,4,4,null,0,0,0
+1717035442038,2489,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,565,784,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,2489,0,0
+1717035442484,4232,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,228,822,4,4,null,0,0,0
+1717035442484,4232,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,228,822,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4232,0,0
+1717035442882,8831,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-2,,false,,226,783,4,4,null,0,0,0
+1717035442882,8831,IM-GPT HTTP请求,200,OK,线程组 1-2,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,783,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,8831,0,0
+1717035444530,7682,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-3,,false,,226,837,4,4,null,0,0,0
+1717035444530,7682,IM-GPT HTTP请求,200,OK,线程组 1-3,text,false,"Test failed: text expected to contain /""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}/",226,837,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,7682,0,0
+1717035442484,10678,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,628,805,4,4,null,0,0,0
+1717035442484,10678,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,628,805,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10678,0,0
+1717035453164,3818,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,514,817,4,4,null,0,0,0
+1717035453164,3818,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,514,817,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,3818,0,0
+1717035446717,10414,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-4,,false,,226,820,4,4,null,0,0,0
+1717035446717,10414,IM-GPT HTTP请求,200,OK,线程组 1-4,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,820,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10414,0,0
+1717035452213,9390,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-3,,false,,226,831,4,4,null,0,0,0
+1717035452213,9390,IM-GPT HTTP请求,200,OK,线程组 1-3,text,false,"Test failed: text expected to contain /""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}/",226,831,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9389,0,0
+1717035457134,4470,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,228,834,4,4,null,0,0,0
+1717035457134,4470,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,228,834,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4470,0,0
+1717035451715,10029,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-2,,false,,226,801,4,4,null,0,0,0
+1717035451715,10029,IM-GPT HTTP请求,200,OK,线程组 1-2,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,801,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10029,0,0
+1717035461748,4749,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,228,834,4,4,null,0,0,0
+1717035461748,4749,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,228,834,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4748,0,0
+1717035456986,9794,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,226,784,4,4,null,0,0,0
+1717035456986,9794,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,784,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9794,0,0
+1717035466499,5648,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,367,815,4,4,null,0,0,0
+1717035461605,10542,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-4,,false,,226,790,4,4,null,0,0,0
+1717035466500,5647,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,367,815,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,5647,0,0
+1717035461606,10541,IM-GPT HTTP请求,200,OK,线程组 1-4,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,790,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10541,0,0
+1717035461605,10542,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-3,,false,,226,830,4,4,null,0,0,0
+1717035461606,10541,IM-GPT HTTP请求,200,OK,线程组 1-3,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,830,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10541,0,0
+1717035466782,9562,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,226,787,4,4,null,0,0,0
+1717035472154,4190,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,419,826,4,4,null,0,0,0
+1717035466783,9561,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,787,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9561,0,0
+1717035472154,4190,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,419,826,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4190,0,0
+1717035472149,9355,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-3,,false,,226,828,4,4,null,0,0,0
+1717035472154,9350,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-4,,false,,226,816,4,4,null,0,0,0
+1717035472150,9354,IM-GPT HTTP请求,200,OK,线程组 1-3,text,false,"Test failed: text expected to contain /""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}/",226,828,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9354,0,0
+1717035472154,9350,IM-GPT HTTP请求,200,OK,线程组 1-4,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,816,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9350,0,0
+1717035476346,5596,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,424,790,4,4,null,0,0,0
+1717035476346,5596,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,424,790,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,5596,0,0
+1717035481943,4542,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,406,808,4,4,null,0,0,0
+1717035481943,4542,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,406,808,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4542,0,0
+1717035476346,10815,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-2,,false,,226,825,4,4,null,0,0,0
+1717035476346,10815,IM-GPT HTTP请求,200,OK,线程组 1-2,text,false,"Test failed: text expected to contain /""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}/",226,825,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10815,0,0
+1717035481507,9624,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-3,,false,,226,786,4,4,null,0,0,0
+1717035481507,9624,IM-GPT HTTP请求,200,OK,线程组 1-3,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,786,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9624,0,0
+1717035481507,9659,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-4,,false,,226,816,4,4,null,0,0,0
+1717035481507,9659,IM-GPT HTTP请求,200,OK,线程组 1-4,text,false,"Test failed: text expected to contain /""code"":-4,""data"":\[\],""desc"":""answer not found"",""flag"":false,""time"":[\d]{13}/",226,816,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,9659,0,0
+1717035487162,4085,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,228,807,4,4,null,0,0,0
+1717035487163,4084,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,228,807,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,4084,0,0
+1717035491132,5203,事务IM-GPT,200,,线程组 1-3,,true,,415,798,4,4,null,0,0,0
+1717035491133,5202,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,415,798,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,5202,0,0
+1717035486486,10064,事务IM-GPT,200,,线程组 1-1,,false,,226,784,3,3,null,0,0,0
+1717035486487,10063,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,784,3,3,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10063,0,0
+1717035491168,10320,事务IM-GPT,200,,线程组 1-4,,false,,226,801,2,2,null,0,0,0
+1717035491168,10320,IM-GPT HTTP请求,200,OK,线程组 1-4,text,false,"Test failed: text expected to contain /""code"":0,""data"":\[\{""type"":0,""id"":-1,""content"":"".+"",""score"":0\}\],""desc"":""success"",""flag"":true,""time"":[\d]{13}/",226,801,2,2,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,10320,0,0
+1717035491248,13261,事务IM-GPT,200,,线程组 1-2,,true,,832,784,1,1,null,0,0,0
+1717035491248,13261,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,832,784,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=968407be-6c28-4e8e-912f-f8c5bc59bf02&t=1717035432395,13261,0,0
