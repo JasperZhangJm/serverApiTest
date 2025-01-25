@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="1727" it="0" lt="0" ct="1149" ts="1717398844004" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-1" dt="" de="" by="225" sby="821" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="1718" it="0" lt="1718" ct="1149" ts="1717398844013" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="821" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:07 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 295
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398847770}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;如果相机绑定到其他人的帐户，我该怎么办?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="1465" it="0" lt="0" ct="941" ts="1717398844264" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-2" dt="" de="" by="225" sby="811" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="1462" it="0" lt="1457" ct="941" ts="1717398844267" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="811" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:07 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 285
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398847769}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;V8S通过智能人类检测获得准确的警报&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="1257" it="0" lt="0" ct="960" ts="1717398844505" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-3" dt="" de="" by="225" sby="820" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="1256" it="0" lt="1256" ct="960" ts="1717398844506" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="820" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:07 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 294
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398847808}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;朝鲜的核武计划是否对全球安全构成威胁？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="1271" it="0" lt="0" ct="943" ts="1717398844756" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-4" dt="" de="" by="225" sby="785" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="1270" it="0" lt="1270" ct="943" ts="1717398844757" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="225" sby="785" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 259
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398848067}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;如何解绑定相机?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="869" it="0" lt="0" ct="577" ts="1717398845758" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-1" dt="" de="" by="225" sby="781" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="869" it="0" lt="868" ct="577" ts="1717398845758" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="781" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 255
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398848676}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C2E休眠模式。&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="899" it="0" lt="0" ct="597" ts="1717398845758" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-2" dt="" de="" by="225" sby="811" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="899" it="0" lt="899" ct="597" ts="1717398845758" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="811" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 285
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398848697}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;中国的网络审查是否侵犯言论自由？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="911" it="0" lt="0" ct="604" ts="1717398845763" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-3" dt="" de="" by="225" sby="803" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="911" it="0" lt="911" ct="604" ts="1717398845763" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="803" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 277
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398848721}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;相机是否支持第三方设备控制?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="928" it="0" lt="0" ct="596" ts="1717398846028" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-4" dt="" de="" by="225" sby="779" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="928" it="0" lt="928" ct="596" ts="1717398846028" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="225" sby="779" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 253
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398849004}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C4L 产品简介&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="873" it="0" lt="0" ct="581" ts="1717398846627" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-1" dt="" de="" by="225" sby="802" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="872" it="0" lt="872" ct="581" ts="1717398846628" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="802" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 276
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398849549}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;法国的黄背心运动是否合理？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="887" it="0" lt="0" ct="590" ts="1717398846675" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-3" dt="" de="" by="225" sby="796" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="887" it="0" lt="887" ct="590" ts="1717398846675" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="796" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 270
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398849604}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C6P智能警报，更快的行动&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="919" it="0" lt="0" ct="583" ts="1717398846658" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-2" dt="" de="" by="225" sby="793" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="919" it="0" lt="919" ct="583" ts="1717398846658" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="793" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 267
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398849625}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;相机被绑定到其他帐户&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="910" it="0" lt="0" ct="585" ts="1717398846957" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-4" dt="" de="" by="225" sby="779" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="910" it="0" lt="910" ct="585" ts="1717398846957" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="225" sby="779" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 253
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398849908}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C7P 产品简介&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="872" it="0" lt="0" ct="580" ts="1717398847501" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-1" dt="" de="" by="225" sby="817" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="872" it="0" lt="872" ct="580" ts="1717398847501" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="817" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:10 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 291
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398850420}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;美国是否利用其军事力量干涉他国内政？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="904" it="0" lt="0" ct="578" ts="1717398847562" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-3" dt="" de="" by="225" sby="800" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="903" it="0" lt="903" ct="578" ts="1717398847563" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="800" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:10 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 274
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398850514}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;为什么我不能收到事件通知?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="906" it="0" lt="0" ct="580" ts="1717398847578" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-2" dt="" de="" by="225" sby="778" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="906" it="0" lt="906" ct="580" ts="1717398847578" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="778" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:10 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 252
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398850530}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C7P产品简介&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="887" it="0" lt="0" ct="590" ts="1717398847868" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-4" dt="" de="" by="225" sby="832" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="887" it="0" lt="887" ct="590" ts="1717398847868" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="225" sby="832" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:10 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 306
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398850797}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;英国在脱欧后的全球定位是否会采用更强硬的政策？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="886" it="0" lt="0" ct="589" ts="1717398848374" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-1" dt="" de="" by="225" sby="815" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="885" it="0" lt="885" ct="589" ts="1717398848375" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="815" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 289
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398851309}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;如果我不想收到消息推送，我该怎么办?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="872" it="0" lt="0" ct="581" ts="1717398848485" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-2" dt="" de="" by="225" sby="826" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="871" it="0" lt="871" ct="581" ts="1717398848486" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="826" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 300
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398851403}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;中国的“战狼外交”是否助长了国际紧张局势？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="912" it="0" lt="0" ct="587" ts="1717398848467" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-3" dt="" de="" by="225" sby="796" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="912" it="0" lt="912" ct="587" ts="1717398848467" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="796" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 270
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398851423}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C8L IP65防水，稳定2.4G连接&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="906" it="0" lt="0" ct="602" ts="1717398848757" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-4" dt="" de="" by="225" sby="812" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="906" it="0" lt="906" ct="602" ts="1717398848757" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="225" sby="812" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 286
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398851702}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;视频直播通话是否支持语音变换功能?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="927" it="0" lt="0" ct="592" ts="1717398849261" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-1" dt="" de="" by="225" sby="779" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="927" it="0" lt="927" ct="592" ts="1717398849261" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="779" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 253
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398852228}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C9E 产品简介&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="894" it="0" lt="0" ct="574" ts="1717398849358" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-2" dt="" de="" by="225" sby="829" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="894" it="0" lt="894" ct="574" ts="1717398849358" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="829" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 303
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398852300}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;美国的移民拘留中心是否侵犯了移民的基本人权？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="917" it="0" lt="0" ct="588" ts="1717398849381" s="false" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="线程组 1-3" dt="" de="" by="225" sby="825" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="917" it="0" lt="917" ct="588" ts="1717398849381" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="825" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 299
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398852340}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;视频的云存储需要付费吗?我可以享有哪些特权?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="969" it="0" lt="0" ct="0" ts="1717398849665" s="false" lb="事务IM-GPT" rc="200" rm="" tn="线程组 1-4" dt="" de="" by="225" sby="785" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="969" it="0" lt="969" ct="603" ts="1717398849665" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="225" sby="785" sc="1" ec="1" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 259
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398852614}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;C9L 自动人体跟踪&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="894" it="0" lt="0" ct="0" ts="1717398850189" s="false" lb="事务IM-GPT" rc="200" rm="" tn="线程组 1-1" dt="" de="" by="225" sby="829" sc="1" ec="1" ng="3" na="3" hn="TestMandeMBP">
+  <httpSample t="894" it="0" lt="893" ct="594" ts="1717398850189" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="225" sby="829" sc="1" ec="1" ng="3" na="3" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;-4&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:-4,&quot;data&quot;:\[\],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:13 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 303
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398853124}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;美国内犹太人是否通过经济手段来剥削其他族裔？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="867" it="0" lt="0" ct="0" ts="1717398850298" s="false" lb="事务IM-GPT" rc="200" rm="" tn="线程组 1-3" dt="" de="" by="225" sby="782" sc="1" ec="1" ng="2" na="2" hn="TestMandeMBP">
+  <httpSample t="866" it="0" lt="866" ct="575" ts="1717398850299" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="225" sby="782" sc="1" ec="1" ng="2" na="2" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:13 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 256
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398853215}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;L5P 摄像头介绍&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="915" it="0" lt="0" ct="0" ts="1717398850254" s="false" lb="事务IM-GPT" rc="200" rm="" tn="线程组 1-2" dt="" de="" by="225" sby="810" sc="1" ec="1" ng="1" na="1" hn="TestMandeMBP">
+  <httpSample t="915" it="0" lt="914" ct="590" ts="1717398850254" s="false" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="225" sby="810" sc="1" ec="1" ng="1" na="1" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Value in json path &apos;$.code&apos; expected to be &apos;0&apos;, but found &apos;-5&apos;</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>true</failure>
+      <error>false</error>
+      <failureMessage>Test failed: text expected to contain /&quot;code&quot;:0,&quot;data&quot;:\[\{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;.+&quot;,&quot;score&quot;:0\}\],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:[\d]{13}/</failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin10Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2024 07:14:13 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 284
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-5,&quot;data&quot;:[],&quot;desc&quot;:&quot;sign verify failed&quot;,&quot;flag&quot;:false,&quot;time&quot;:1717398853212}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;实时视频中回话/快速回复没有声音?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=cc0d4a33-fa76-43ca-ac0e-9608a0d1e01b&amp;t=1717398841841</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+
+</testResults>
