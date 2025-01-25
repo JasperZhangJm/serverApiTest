@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1717413964513,2250,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,223,820,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,1235
+1717413964514,2249,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,223,820,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2249,utf-8,1,0,TestMandeMBP,0,1235
+1717413964265,2585,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,351,811,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,1223
+1717413964266,2584,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,351,811,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2584,utf-8,1,0,TestMandeMBP,0,1223
+1717413964017,3236,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,414,821,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,1376
+1717413964019,3234,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,414,821,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,3234,utf-8,1,0,TestMandeMBP,0,1376
+1717413964767,2675,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,419,785,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,1182
+1717413964767,2675,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,419,785,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2674,utf-8,1,0,TestMandeMBP,0,1182
+1717413966853,1991,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,223,811,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,832
+1717413966853,1991,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,223,811,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,1991,utf-8,1,0,TestMandeMBP,0,832
+1717413966766,2562,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,502,781,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,831
+1717413966767,2561,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,502,781,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2560,utf-8,1,0,TestMandeMBP,0,831
+1717413967255,2295,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,401,803,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,848
+1717413967255,2295,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,401,803,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2295,utf-8,1,0,TestMandeMBP,0,848
+1717413968846,1863,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,223,802,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,829
+1717413968846,1863,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,223,802,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,1862,utf-8,1,0,TestMandeMBP,0,829
+1717413967444,3492,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,616,779,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,830
+1717413967444,3492,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,616,779,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,3492,utf-8,1,0,TestMandeMBP,0,830
+1717413969329,2296,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,410,793,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,859
+1717413969329,2296,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,410,793,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2295,utf-8,1,0,TestMandeMBP,0,859
+1717413969551,2899,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,582,796,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,853
+1717413969552,2898,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,582,796,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,2897,utf-8,1,0,TestMandeMBP,0,853
+1717413970711,3787,事务IM-GPT,200,,线程组 1-2,,true,,813,779,4,4,null,,0,UTF-8,1,0,TestMandeMBP,0,0
+1717413970711,3787,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,813,779,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,3787,utf-8,1,0,TestMandeMBP,0,894
+1717413970940,5430,事务IM-GPT,200,,线程组 1-4,,true,,223,817,3,3,null,,0,UTF-8,1,0,TestMandeMBP,0,0
+1717413970940,5430,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,223,817,3,3,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,5429,utf-8,1,0,TestMandeMBP,0,866
+1717413972454,8735,事务IM-GPT,200,,线程组 1-1,,false,,227,778,2,2,null,,0,UTF-8,1,1,TestMandeMBP,0,0
+1717413972454,8735,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to be '0', but found '-7'",227,778,2,2,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,8735,utf-8,1,1,TestMandeMBP,0,914
+1717413971628,10970,事务IM-GPT,200,,线程组 1-3,,false,,623,800,1,1,null,,0,UTF-8,1,1,TestMandeMBP,0,0
+1717413971628,10970,IM-GPT HTTP请求,200,OK,线程组 1-3,text,false,,623,800,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=13f7b821-70a9-4dfa-bcdc-2198f0eff178&t=1717413963866,,10970,utf-8,1,1,TestMandeMBP,0,835
