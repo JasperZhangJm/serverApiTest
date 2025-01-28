@@ -1,0 +1,1713 @@
+
+
+question:
+The camera's tied to a family account
+
+
+respons:
+code:-4
+0
+
+
+question:
+How can I use another account to bind the camera under my own account?
+
+
+respons:
+code:0
+To bind a camera to your account, you will need the current account owner to unbind the camera. With their permission, the camera can then be added to your account. Please contact the current account owner to proceed with unbinding the camera. If you need further assistance, feel free to reach out to us at support@aosulife.com.
+
+
+question:
+How do I unbind the camera?
+
+
+respons:
+code:0
+You can unbind your camera in “Settings-Unbind Device-Unbind Now”. You can choose to clear cloud recording and card recording playback when unbinding the device.
+
+
+question:
+How do I unstrap the camera
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to unbind
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to unbind
+
+
+respons:
+code:-4
+0
+
+
+question:
+Does the camera support third-party device control?
+
+
+respons:
+code:0
+After binding your App account with your Amazon / Google account, you can control the device through the Amazon Echo / Google Home smart assistant.
+
+
+question:
+Does the camera support Google Sound
+
+
+respons:
+code:-4
+0
+
+
+question:
+Does the camera support Amazon
+
+
+respons:
+code:-4
+0
+
+
+question:
+Does the camera support other speakers
+
+
+respons:
+code:-4
+0
+
+
+question:
+The camera is tied to another account
+
+
+respons:
+code:-4
+0
+
+
+question:
+What if the camera is tied to someone else
+
+
+respons:
+code:0
+A camera can be bound to only one account, and can be unbound by the administrator. You should contact the account owner to unbind the camera.
+
+
+question:
+My camera has been stolen and tied. What should I do
+
+
+respons:
+code:-4
+0
+
+
+question:
+Why do I always fail to configure the network?
+
+
+respons:
+code:-4
+0
+
+
+question:
+When I bind the camera
+
+
+respons:
+code:-4
+0
+
+
+question:
+What if the network keeps failing when I pair my phone with my camera?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to unbind an account from the system?
+
+
+respons:
+code:0
+You may, in “Settings-HomeBase Information-Unbind Device”, unbind the account and the System.
+
+This operation will unbind your account from the system, but without removing the device pairing within the system; for adding devices again, the system can be automatically paired with your account.
+
+
+question:
+When I bind the camera
+
+
+respons:
+code:-4
+0
+
+
+question:
+How do I check the binding relationship between my camera and HomeBase?
+
+
+respons:
+code:0
+You can view all devices bound to the HomeBase in "Settings-HomeBase Information".
+
+
+question:
+Where can I see the camera and homebase bindings
+
+
+respons:
+code:0
+You can view all devices bound to the HomeBase in "Settings-HomeBase Information."
+
+
+question:
+What devices are bound to homebase
+
+
+respons:
+code:-4
+0
+
+
+question:
+How do I configure the network for my camera?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How do I set up the camera network?
+
+
+respons:
+code:-4
+0
+
+
+question:
+What if the camera doesn't connect to the Internet?
+
+
+respons:
+code:-4
+0
+
+
+question:
+What can I do if the network connection fails during device binding?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Why can't I get an event notification?
+
+
+respons:
+code:0
+1. First of all, confirm that Whether to Receive Message Push is enabled in and Do Not Disturb function is disabled in “Settings-Notification Settings” ;
+2. Then, allow reminding in “Phone - Settings - Notification Settings - Whether to Allow Aosu APP to send Notification Settings” ;
+3. Finally, confirm whether the smartphone disables the “Do Not Disturb Mode”."
+
+
+
+
+question:
+Why was I not notified after the event?
+
+
+respons:
+code:-4
+0
+
+
+question:
+My camera won't give me push notifications anymore
+
+
+respons:
+code:-4
+0
+
+
+question:
+The camera stopped sending notifications
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing (Notification Settings-Intelligent mode).
+3. Try to pull up the camera detection sensitivity to the MAX (Motion detection- Detection sensitivity).
+
+
+question:
+My camera didn't notify me when someone passed by
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the event type-Passing(Notification Settings-Intelligent mode).
+3. Try to adjust the camera detection sensitivity to the highest level (Motion Detection - Detection sensitivity).
+
+
+question:
+Why can't I receive notification of events?
+
+
+respons:
+code:0
+1. First of all, confirm that Whether to Receive Message Push is enabled in and Do
+
+Not Disturb function is disabled in “Settings-Notification Settings” ;
+2. Then, allow reminding in “Phone - Settings - Notification Settings - Whether to
+
+Allow Aosu APP to send Notification Settings” ;
+3. Finally, confirm whether the smart phone disables the “Do Not Disturb Mode”.
+
+
+question:
+The camera did not notify me when an event occurred
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing( Notification Settings-Intelligent mode).
+3. Try to pull up the camera detection sensitivity to the MAX.(Motion detection- Detection sensitivity)
+
+
+question:
+My notification message doesn't work. What should I do?
+
+
+respons:
+code:-4
+0
+
+
+question:
+No motion detection notification was received
+
+
+respons:
+code:0
+1. Please click in aosu app -- events page -- check if there is recorded event video.
+2. If there is no video, please give us your camera’s SN number? You can find the SN number at the bottom of the camera.
+
+3. If there is video for the motion detection event, please check if your phone authorized the aosu app with notifications. You can click in phone setting -- notification -- find the aosu app then authorize the notifications.
+
+
+question:
+I'm not getting push notifications on my phone
+
+
+respons:
+code:0
+Firstly, please make sure if your phone has been set with allowing to receive the push notification from the AOSU APP.
+1. Android users: please enter the phone settings page, find the Apps button and click it, and cut into the page to select the AOSU app, there you could enable the notifications.
+2. iOS users: Please enter the phone settings page, and select the notifications, in the page, you will find the AOSU app and turn on the Allow notifications button.
+
+
+question:
+When an event occurs
+
+
+respons:
+code:0
+Intelligent Mode: when events were recorded, send you notification. (if you want more precise events)
+
+Immediate Mode: when events happened, you will be notified at once.
+
+
+question:
+What if there is no notification after motion detection?
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing( Notification Settings-Intelligent mode)
+3. Try to pull up the camera detection sensitivity to the MAX.(Motion detection- Detection sensitivity)
+
+
+question:
+How do I switch the message notification mode?
+
+
+respons:
+code:0
+The message notification modes can be switched within the app. You can change between fast notification mode and smart notification mode in the "Settings - Notification Settings - Message Notification Mode" section. 
+
+Fast notification mode:
+- Sends a message notification immediately upon event detection.
+- Does not analyze event types in the notification, detailed event information can be viewed in the event playback.
+- Suitable for users who need quick information about the situation at their door.
+
+Smart notification mode:
+- Sends a message notification after the event recording is complete.
+- Utilizes AI intelligence for event analysis, providing more accurate event types.
+- Ideal for users looking for precise information.
+
+You can adjust the message notification mode according to your preference in "Settings - Notification Settings".
+
+
+question:
+How do I switch message notifications
+
+
+respons:
+code:0
+The message notification modes are divided into fast notification mode and smart notification mode. You can switch in "Settings - Notification Settings - Message Notification Mode".
+
+Fast notification mode:
+- When an event is detected, a message notification is sent immediately.
+- There is no event type analysis when the notification is sent, and more event information can be viewed in the event playback
+- It is suitable for users who need to know the situation before the door quickly
+
+Smart notification mode:
+- Send a message notification immediately after the event recording is complete
+- Perform AI intelligent algorithm analysis on complete events and push more accurate event types
+- It is suitable for users who want accurate information
+
+You can switch the message notification mode in "Settings - Notification Settings".
+
+
+question:
+How to use other message notification modes?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to switch the message notification mode?
+
+
+respons:
+code:0
+The message notification modes are divided into fast notification mode and smart notification mode. You can switch in "Settings - Notification Settings - Message Notification Mode".
+
+Fast notification mode:
+- When an event is detected, a message notification is sent immediately.
+- There is no event type analysis when the notification is sent, and more event information can be viewed in the event playback.
+- It is suitable for users who need to know the situation before the door quickly.
+
+Smart notification mode:
+- Send a message notification immediately after the event recording is complete.
+- Perform AI intelligent algorithm analysis on complete events and push more accurate event types.
+- It is suitable for users who want accurate information.
+
+You can switch the message notification mode in "Settings - Notification Settings".
+
+
+question:
+What if the event is not notified in time?
+
+
+respons:
+code:0
+You can switch to the extremely fast notification mode in "Settings - Notification Settings".
+
+
+question:
+After the event occurred
+
+
+respons:
+code:-4
+0
+
+
+question:
+Message notification has a lag
+
+
+respons:
+code:0
+1. Please ensure the wifi signal is good. Because signal strength will greatly affect the notification push speed.
+2. Please enter the device settings page, find the button 'Notification settings', and then turn on the 'Immediate mode'.
+3. In the device settings page, click 'Motion Detection', then adjust the Detection Sensitivity to the MAX.
+
+If the above information does not work for you, could you take several photos to show the camera’s location and camera’s view? I will offer a good solution for you.
+
+
+question:
+The event has been generated for some time
+
+
+respons:
+code:-4
+0
+
+
+question:
+What should I do if I don't want to receive notifications?
+
+
+respons:
+code:0
+You may choose either of the following two methods to stop receiving notifications:
+
+1. You can set “Do Not Disturb-Select Duration”. Mobile detection will record without pushing messages after setting. (Recommended).
+2. You can disable the push of all messages in “Settings- Notification Settings- Whether to enable message push- Disable”.
+
+If you don't want a specified kind of Notifications, Please click Settings-Notification Settings- By event type, and turn off that option.
+
+
+question:
+I don't want to receive notifications at night
+
+
+respons:
+code:0
+1. Click the Snooze button (the moon icon).
+2. Set the Snooze duration.
+3. Save the settings.
+
+This way, you will not receive push notifications at night.
+
+
+question:
+How do I turn off notifications
+
+
+respons:
+code:0
+1. Click Snooze
+
+2. Please click Settings-Notification Settings, turn off “Receive Push Notification”
+3. If you don’t want a specified kind of Notifications, Please click Settings-Notification Settings- By event type, turn off that option.
+
+
+question:
+How to make a fixed period of time before pushing messages
+
+
+respons:
+code:0
+You can set a fixed period of time before pushing messages by using the "Do Not Disturb-Select Duration" feature. This way, mobile detection will record without pushing messages after the set duration. It is recommended to use this method for controlling when messages are pushed.
+
+
+question:
+How do I not get a message
+
+
+respons:
+code:-4
+0
+
+
+question:
+What should I do if I receive too little notification of events?
+
+
+respons:
+code:0
+You can increase the sensitivity in "Settings - Motion Detection - Detection Sensitivity" according to the surrounding environment of your home to receive more event notifications. You can also check the message notification mode in “Settings - Notification Settings” and enable all message notification types if you are in smart notification mode. Lastly, make sure that your mobile phone is not on “DND” (Do Not Disturb) mode.
+
+
+question:
+I get too few messages every day. What should I do?
+
+
+respons:
+code:0
+1. You can increase the sensitivity in "Settings - Motion Detection - Detection Sensitivity" according to the surrounding environment of your home to receive more event notifications.
+2. You can check the message notification mode in “Settings - Notification Settings.” If you are in smart notification mode, make sure to enable all message notification types.
+3. Make sure you haven't turned on the Snooze mode, as this may prevent notifications. Check your Snooze mode status on your App main page.
+4. Confirm that your mobile phone is not on “DND” (Do Not Disturb) mode; ensure that this mode is turned off to receive notifications effectively.
+
+
+question:
+My camera is not sensitive and I get too few notifications
+
+
+respons:
+code:-4
+0
+
+
+question:
+I only receive a few messages per day
+
+
+respons:
+code:0
+1. You can increase the sensitivity in "Settings - Motion Detection - Detection Sensitivity" according to the surrounding environment of the home to receive more event notifications.
+2. You can view the message notification mode in “Settings-Notification Settings”, and if you are in smart notification mode, you can enable all message notification types.
+3. If you turned on the Snooze mode, then during your setting period you won’t be receive any notifications, check your Snooze mode status on your App main page.
+confirm that the mobile phone is not on “DND” (Do Not Disturb) mode (this mode should be turned off).
+
+
+question:
+What should I do if I receive too many error messages?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to reduce camera push error notifications
+
+
+respons:
+code:-4
+0
+
+
+question:
+Receive a lot of wrong message push every day
+
+
+respons:
+code:0
+1. You can reduce the sensitivity in "Settings - Motion Detection - Detection Sensitivity" according to the surrounding environment of your home to avoid receiving too many incorrect notifications.
+2. You can also select the smart notification mode in “Settings - Notification Settings - Notification Mode” and disable undesired message types in Message Notification Type.
+
+If you need further assistance or have any other questions, feel free to ask!
+
+
+question:
+How do I avoid getting a lot of wrong notifications
+
+
+respons:
+code:0
+1. You can reduce the sensitivity in "Settings - Motion Detection - Detection Sensitivity" according to the surrounding environment of the home to avoid too much misinformation.
+2. You can select the smart notification mode in “Settings-Notification Settings-Notification Mode”, and disable the undesired message types in Message Notification Type.
+
+
+question:
+The camera can't send a notification when someone walks by.
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.  
+2. Ensure that you don’t disable the events type-Passing (Notification Settings - Intelligent mode).  
+3. Try to pull up the camera detection sensitivity to the MAX. (Motion detection - Detection sensitivity)
+
+
+question:
+My camera didn't work and it didn't notify me when someone passed by.
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing( Notification Settings-Intelligent mode)
+3. Try to pull up the camera detection sensitivity to the MAX.(Motion detection- Detection sensitivity)
+
+
+question:
+My camera didn't tell me when someone was passing by
+
+
+respons:
+code:0
+1. Please try to turn on the 'Human Only' button in the motion detection settings.
+2. Ensure that you haven't disabled the event type 'Passing' in Notification Settings under Intelligent mode.
+3. Try increasing the camera's detection sensitivity to the maximum level in the Motion Detection settings.
+
+
+question:
+No notice
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to turn off notifications
+
+
+respons:
+code:0
+1. Click Snooze
+
+2. Please click Settings-Notification Settings, turn off “Receive Push Notification”
+
+3. If you don’t want a specified kind of Notifications, Please click Settings-Notification Settings- By event type, turn off that option.
+
+
+question:
+What do I do if I don't want to use notifications
+
+
+respons:
+code:0
+1. Click Snooze
+
+2. Please click Settings-Notification Settings, turn off “Receive Push Notification”
+
+3. If you don’t want a specified kind of Notifications, Please click Settings-Notification Settings- By event type, turn off that option.
+
+
+question:
+How do I use Do Not Disturb?
+
+
+respons:
+code:0
+You may choose either of the following two methods to use the Do Not Disturb feature:
+
+1. Set “Do Not Disturb-Select Duration” to record mobile detection without pushing messages. This can be done by selecting the duration in the settings. (Recommended)
+2. Disable the push of all messages in “Settings- Notification Settings- Whether to enable message push- Disable”.
+3. If you want to reject a specific type of message push, you can select the smart notification mode in “Settings- Notification Settings- Message Notification Mode” and disable the undesired message types under Message Notification Type.
+
+
+question:
+How do I set Do Not Disturb
+
+
+respons:
+code:0
+You may choose either of the following two methods:
+1. You can set “Do Not Disturb-Select Duration”. Mobile detection will record without pushing messages after setting. (Recommended)
+2. You can disable the push of all messages in “Settings- Notification Settings- Whether to enable message push- Disable”.
+3. If you want to reject a certain type of message push, you can select the smart notification mode in “Settings- Notification Settings- Message Notification Mode”, and disable the undesired message types in Message Notification Type.
+
+
+question:
+How do I use the Do Not Disturb function
+
+
+respons:
+code:0
+You may choose either of the following two methods:
+1. You can set “Do Not Disturb-Select Duration”. Mobile detection will record without pushing messages after setting. (Recommended)
+2. You can disable the push of all messages in “ Settings- Notification Settings- Whether to enable message push- Disable”.
+3. If you want to reject a certain type of message push, you can select the smart notification mode in “Settings- Notification Settings- Message Notification Mode”, and disable the undesired message types in Message Notification Type.
+
+
+question:
+How do I set the DND function
+
+
+respons:
+code:0
+You may choose either of the following two methods to set the Do Not Disturb (DND) function:
+
+1. You can set “Do Not Disturb-Select Duration”. Mobile detection will record without pushing messages after setting. (Recommended)
+2. You can disable the push of all messages in “Settings- Notification Settings- Whether to enable message push- Disable”.
+3. If you want to reject a certain type of message push, you can select the smart notification mode in “Settings- Notification Settings- Message Notification Mode”, and disable the undesired message types in Message Notification Type.
+
+
+question:
+There was a big delay in the announcement. (Delayed notification)
+
+
+respons:
+code:0
+1. Please ensure the wifi signal is good. Because signal strength will greatly affect the notification push speed.
+2. Please enter the device settings page, find the button 'Notification settings', and then turn on the 'Immediate mode'.
+3. In the device settings page, click 'Motion Detection', then adjust the Detection Sensitivity to the MAX.
+
+If the above steps do not resolve the delayed notification issue, please provide photos showing the camera’s location and view so I can offer further assistance.
+
+
+question:
+The phone was notified long after the incident
+
+
+respons:
+code:-4
+0
+
+
+question:
+Message notification is not timely
+
+
+respons:
+code:0
+You can switch to the extremely fast notification mode in "Settings - Notification Settings".
+
+
+question:
+The time of the message is not accurate
+
+
+respons:
+code:-4
+0
+
+
+question:
+What type of event will be sent a message
+
+
+respons:
+code:0
+Intelligent Mode: when events were recorded, send you notification. (if you want more precise events)
+
+Immediate Mode: when events happened, you will be notified at once.
+
+
+question:
+What types of events are sent by notifications
+
+
+respons:
+code:0
+Intelligent Mode: when events were recorded, send you notification.
+
+Immediate Mode: when events happened, you will be notified at once.
+
+
+question:
+What types of notifications are they
+
+
+respons:
+code:-4
+0
+
+
+question:
+There are several types of message notifications
+
+
+respons:
+code:0
+The message notification modes are divided into fast notification mode and smart notification mode. You can switch between them in "Settings - Notification Settings - Message Notification Mode". 
+
+Fast notification mode:
+- Send a message notification immediately when an event is detected.
+- No event type analysis in the notification, more details can be viewed in the event playback.
+- Suitable for users who need quick updates about the situation.
+
+Smart notification mode:
+- Send a message notification after the event recording is complete.
+- Utilizes AI algorithm analysis to push more accurate event types.
+- Suitable for users who want more precise information.
+
+You can manage these modes in "Settings - Notification Settings".
+
+
+question:
+Can the camera give you push notifications when your camera is offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Will there be push notifications when the camera is no longer online?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Can I still receive notifications when my camera is offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Do you still send notifications when your camera is offline?
+
+
+respons:
+code:0
+No. When the camera is offline, it will not push notifications to your phone. But the AOSU app will show that the camera is offline.
+
+
+question:
+Talk back/Quick reply in live video No sound?
+
+
+respons:
+code:0
+You can control sound volume by pressing “+” or “-” in “Settings-Video Audio-Talk-back Speaker”.
+
+
+question:
+Live video
+
+
+respons:
+code:-4
+0
+
+
+question:
+When I turn on the live video
+
+
+respons:
+code:-4
+0
+
+
+question:
+I can't hear the sound on the live video page. What should I do?
+
+
+respons:
+code:0
+In the live streaming interface, turn on the volume button in the bottom right corner to play the sound. You can control the sound level by adjusting the volume of your phone system.
+
+
+question:
+Is there no sound when I'm watching live video?
+
+
+respons:
+code:0
+In the live streaming interface, turn on the volume button in the bottom right corner to play the sound; you can control the sound level by adjusting the volume of your phone system.
+
+
+question:
+No sound on the live video page?
+
+
+respons:
+code:0
+In the live streaming interface, please ensure that the volume button is turned on in the bottom right corner to play sound. You can control the sound level by adjusting the volume of your phone system.
+
+
+question:
+How do I get sound on my live video page
+
+
+respons:
+code:0
+In the live streaming interface, turn on the volume button in the bottom right corner to play the sound; you can control the sound level by adjusting the volume of your phone system.
+
+
+question:
+Live video page. I can't hear my family
+
+
+respons:
+code:0
+Please check if the audio in the app is muted. You can find the Mute button under the live video screen. Also, ensure that your phone volume is not adjusted to the lowest. Adjust the volume on your phone system to make sure you can hear your family during the live video feed.
+
+
+question:
+How do I record while watching live video?
+
+
+respons:
+code:0
+You can record while watching the real-time video by clicking the record button below the video. After recording, the video will be saved to the phone album.
+
+
+question:
+How do I record on the Live video page?
+
+
+respons:
+code:0
+You can click the record button below the video to record when watching the real-time video. After recording, the video will be saved to the phone album.
+
+
+question:
+I want to record a video of the live video page
+
+
+respons:
+code:0
+You can click the record button below the video to record while watching the real-time video. After recording, the video will be saved to your phone's album.
+
+
+question:
+How can I record a video for a live video page?
+
+
+respons:
+code:0
+You can click the record button below the video to record when watching the real-time video. After recording, the video will be saved to the phone album.
+
+
+question:
+Does live video call support voice conversion?
+
+
+respons:
+code:0
+Supported. You can click the Tone button at the bottom of the page when watching the real-time video. The Tone button will change your voice into middle-aged immediately. After clicking this button, you can speak lively in a voice like a middle-aged man.
+
+
+question:
+Can you change your voice during a video call?
+
+
+respons:
+code:0
+Yes, you can change your voice during a video call. You can click the Tone button at the bottom of the page when watching the real-time video. The Tone button will change your voice into a middle-aged man immediately. After clicking this button, you can speak lively in a voice like a middle-aged man.
+
+
+question:
+Live video page
+
+
+respons:
+code:-4
+0
+
+
+question:
+What if I don't want people to hear my original voice when I'm on a video call with someone?
+
+
+respons:
+code:0
+When you don't want people to hear your original voice during a video call, you can utilize the voice changer feature. By clicking the Tone button at the bottom of the page while watching the real-time video, your voice will be transformed into that of a middle-aged man. This feature allows you to speak in a lively manner without revealing your real voice.
+
+
+question:
+What should I do if the live video is not clear?
+
+
+respons:
+code:0
+You can improve the resolution of live videos in “Settings-Video Audio-Streaming Quality-2K Mode”.
+
+
+question:
+Real-time video page
+
+
+respons:
+code:-4
+0
+
+
+question:
+How do I adjust the sharpness of the live video?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to make live video clearer?
+
+
+respons:
+code:0
+You can improve the resolution of live videos by selecting “2K Mode” in the “Settings-Video Audio-Streaming Quality” section on the camera's settings. This will enhance the clarity of the live video feed.
+
+
+question:
+Where are the recordings and snapshots captured while watching live video saved?
+
+
+respons:
+code:0
+All recordings and snapshots saved and videos downloaded through the Aosu APP are saved in the local album of the phone; before use for the first time, APP requires authorization to access the album of the phone.
+
+
+question:
+I am in the live video page
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to find recorded videos and saved screenshots on the Live video page?
+
+
+respons:
+code:0
+To find recorded videos and saved screenshots on the Live video page, you can follow these steps:
+
+1. When you play the live video on the Aosu App, look for a record button below the video.
+2. Click on the record button to start recording while watching the live video.
+3. After recording, the video will be saved to your phone's local album.
+4. Similarly, you can take screenshots by using the screenshot function on the Aosu App.
+
+This way, you can easily capture and save recordings and snapshots while watching live videos on the Aosu App.
+
+
+question:
+Recording video delay.
+
+
+respons:
+code:0
+1. Adjust the detection distance to a suitable range, but also to avoid covering the streets and other scenes, bringing power consumption impact.
+2. Improve the detection sensitivity. Please make sure there are no barriers in front of the doorbell.
+3. For V8S model, ensure the Wifi signal strength is above 85%.
+
+
+question:
+What if the time of the video recording is not the time of the incident?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Last night
+
+
+respons:
+code:-4
+0
+
+
+question:
+Logging problems (not always logging events
+
+
+respons:
+code:0
+1. Please enter the device settings page, find out 'Motion Detection', and turn off 'Human only'. Meanwhile, adjust the Detection sensitivity to the Max;
+2. Please click 'About Device' to check if the wifi signal is under 80%. If yes, please try to shorten the distance between the camera and wifi signal base, or please restart the camera and router to ensure the wifi signal becomes better.
+3. Please check if the Scheduled Sleep is enabled. If yes, please disable it.
+4. If Firmware Updates is available, please try to update it to the latest version.
+
+BTW, if the camera is installed in a position that faces a crowded road or narrow view, it may not detect the motion properly.
+
+If the above information does not work for you, could you take several photos to show the camera’s location and camera’s view? I will offer a good solution for you.
+
+
+question:
+Last night
+
+
+respons:
+code:-4
+0
+
+
+question:
+Events are often missed
+
+
+respons:
+code:-4
+0
+
+
+question:
+My camera doesn't work
+
+
+respons:
+code:-4
+0
+
+
+question:
+My camera alerted me that someone was passing by
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing (Notification Settings-Intelligent mode).
+3. Try to pull up the camera detection sensitivity to the MAX. (Motion detection- Detection sensitivity).
+
+
+question:
+Can I export locally stored video events?
+
+
+respons:
+code:0
+You can view native videos on the AOSU App and you can also download the video to the photo album in "Event - Cloud Record / Card Record" to view.
+
+
+question:
+Can locally stored videos be downloaded?
+
+
+respons:
+code:0
+1. You can view native videos on Aosu App.
+   This is to protect your privacy, if the memory card is stolen and installed on other devices, others will not be able to view the video in the card.
+2. You can also download the video to the photo album in “Event - Cloud Record / Card Record” to view.
+
+
+question:
+Can I export the recorded video?
+
+
+respons:
+code:0
+1. You can view native videos on the Aosu App.
+   This is to protect your privacy; if the memory card is stolen and installed in other devices, others will not be able to view the video on the card.
+2. You can also download the video to the photo album in the “Event - Cloud Record / Card Record” to view.
+
+
+question:
+What if I want to export my recorded video?
+
+
+respons:
+code:0
+1. You can view native videos on Aosu App.
+   This is to protect your privacy, if the memory card is stolen and installed in other devices, others will not be able to view the video in the card.
+2. You can also download the video to the photo album in “Event - Cloud Record / Card Record" to view.
+
+
+question:
+Motion detection is too sensitive
+
+
+respons:
+code:0
+1. Could you please check if the firmware for the cameras is the newest? If not, please try to update the firmware for your cameras.
+
+You can click in camera setting -- firmware updates -- check updates -- update new firmware.
+
+2. If the camera still not detect after updating the firmware, may I have your camera’s SN number? You can find the SN number at the bottom of the camera.
+3. Could you please photo the installation place? And please screenshot the living stream video.
+
+Our technician will check the problem soon.
+
+4. Have you turned the humanoid detection only on? And please max the motion detection sensitivity.
+
+You can click in camera’s setting -- motion detection -- turn on “humanoid detection only”.
+
+Click in Motion detection -- set the motion detection sensitivity to ‘Far’ level.
+
+
+question:
+My camera generates too many events every day
+
+
+respons:
+code:-4
+0
+
+
+question:
+Sometimes
+
+
+respons:
+code:-4
+0
+
+
+question:
+My camera alerted me that someone was passing by
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing( Notification Settings-Intelligent mode)
+3. Try to pull up the camera detection sensitivity to the MAX.(Motion detection- Detection sensitivity)
+
+
+question:
+Do I need to pay for cloud storage of videos? What privileges can I enjoy?
+
+
+respons:
+code:0
+The cloud storage for videos can be used only after payments. Payment process: Settings-Cloud Recording-Activate Now-Buy.
+
+The payment packages are categorized according to the storage period and package duration as: 14-day monthly, 14-day yearly, 30-day monthly, and 30-day yearly, 3 device premium plan 30 monthly, 3 device premium plan yearly, 5 device premium plan monthly, and 5 device premium plan yearly. All users are qualified for a “7 days free trial (14-day monthly, 3 device premium plan, 5 device premium plan are not included)” .
+
+
+question:
+Do I need to pay for cloud storage of videos? What privileges can I enjoy?
+
+
+respons:
+code:0
+The cloud storage for videos can be used only after payments. Payment process: Settings-Cloud Storage-Activate Now- Buy.
+
+The payment packages are categorized according to storage period and package duration: 14-day monthly, 30-day monthly, 14-day yearly, and 30-day yearly.
+
+All users are qualified for a “one-month free trial”.
+
+If you activate cloud storage, you can enjoy privileges such as secure storage, recording retrieval even if the device is offline or lost, double privacy encryptions, access on multiple terminals, storage at will without worrying about inadequate storage space, AI intelligent algorithm for event categorization.
+
+
+question:
+Do you charge for cloud services? What are its advantages
+
+
+respons:
+code:0
+Yes, we do charge for cloud services. You can check the price in the settings by navigating to Cloud Recording and then Subscribe. The advantages of our cloud service include storing events in the cloud, which allows users to access videos anytime and anywhere. Additionally, our cloud service offers more accurate event recording.
+
+
+question:
+Camera offline
+
+
+respons:
+code:0
+Hello, Customer,
+
+1. May I have your camera’s SN number? You can find the SN number at the bottom of the camera.
+2. What’s the status of your camera’s indicator light? Flashing blue or always blue light?
+3. It may be because the WLAN signal is too weak, can you please place the camera closer to the router for use, the signal of the WiFi should be kept above 85%.
+
+
+question:
+Can the video still be recorded when the camera is offline
+
+
+respons:
+code:0
+No. When the camera is offline, it will not be able to record videos.
+
+
+question:
+Camera's offline. There's an incident. Is it recording
+
+
+respons:
+code:-4
+0
+
+
+question:
+Camera's offline. Someone's passing by. Is it recording
+
+
+respons:
+code:0
+1. Please try to turn on ‘Human Only’ button on the motion detection settings.
+2. Please ensure that you don’t disable the events type-Passing( Notification Settings-Intelligent mode)
+3. Try to pull up the camera detection sensitivity to the MAX.(Motion detection- Detection sensitivity)
+
+
+question:
+Camera offline
+
+
+respons:
+code:0
+Hello, Customer,
+
+1. May I have your camera’s SN number? You can find the SN number at the bottom of the camera.
+2. What’s the status of your camera’s indicator light? Flashing blue or always blue light?
+3. It may be because the WLAN signal is too weak, can you please place the camera closer to the router for use, the signal of the WiFi should be kept above 85%.
+
+
+question:
+Why is the camera offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Why is the camera offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Under what circumstances does the camera go offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+What should I do in case the camera goes offline?
+
+
+respons:
+code:0
+If the camera goes offline, you should check the following:
+1. Make sure the camera is powered on and connected to a power supply.
+2. Ensure the camera is placed close to the router and there are no barriers like walls obstructing the signal.
+3. Reconnect the camera to Wi-Fi if the network name or password has been changed.
+4. Verify that the router is functioning properly.
+5. If the issue persists, check if the camera is faulty and contact customer service for assistance.
+
+
+question:
+Camera offline
+
+
+respons:
+code:0
+Hello, Customer,
+
+1. May I have your camera’s SN number? You can find the SN number at the bottom of the camera.
+2. What’s the status of your camera’s indicator light? Flashing blue or always blue light?
+3. It may be because the WLAN signal is too weak, can you please place the camera closer to the router for use, the signal of the WiFi should be kept above 85%.
+
+
+question:
+How do I get the camera online?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How do I keep my camera from going offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+What should I do if my camera suddenly goes offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+What should I do if the camera appears offline?
+
+
+respons:
+code:0
+If the camera appears offline, you should check a few things:
+1. Make sure the camera is powered on and connected to a power supply.
+2. Check if the camera is placed near the router and there are no barriers such as walls causing interference.
+3. Reconnect the camera to Wi-Fi if the Wi-Fi name or password has been changed.
+4. Verify that the router is working properly.
+5. If the issue persists, inspect the camera for any faults, and if needed, contact customer service for further assistance.
+
+
+question:
+How do I get my camera online?
+
+
+respons:
+code:-4
+0
+
+
+question:
+The camera is offline
+
+
+respons:
+code:0
+Hello, Customer,
+
+1. May I have your camera’s SN number? You can find the SN number at the bottom of the camera.
+2. What’s the status of your camera’s indicator light? Flashing blue or always blue light?
+3. It may be because the WLAN signal is too weak, can you please place the camera closer to the router for use, the signal of the WiFi should be kept above 85%.
+
+
+question:
+The doorbell is off.
+
+
+respons:
+code:-4
+0
+
+
+question:
+Why is the doorbell offline?
+
+
+respons:
+code:0
+First check if the doorbell is out of power.
+
+Try to remove the doorbell and reconnect it again. If you still have trouble connecting, please check the color light showing on the home base and contact us through the AOSU app online service for further assistance. Remember to send us details so that we can provide you with a better solution tailored to your specific problem.
+
+
+question:
+What if the doorbell is offline?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How do I get the doorbell online?
+
+
+respons:
+code:-4
+0
+
+
+question:
+Firmware Upgrade Description
+
+
+respons:
+code:-4
+0
+
+
+question:
+What is a firmware upgrade
+
+
+respons:
+code:0
+Firmware upgrades are updates to the software system running on the camera. Users can manually check for updates in Camera Settings - Firmware Updates to upgrade. It is recommended to ensure the camera is powered on and the system is running normally during the update process, which might take a few minutes to complete. Upgrading firmware to the latest version is crucial to maintaining the camera's performance and security.
+
+
+question:
+How to upgrade firmware
+
+
+respons:
+code:0
+Firmware updates can be done by manually checking for updates in the Camera Settings - Firmware Updates section. It may take a few minutes to download the installation package, so please be patient. Ensure the camera is powered on and running normally during the update process to maintain system stability and the best user experience.
+
+
+question:
+How to install solar panels?
+
+
+respons:
+code:-4
+0
+
+
+question:
+How to install solar panels
+
+
+respons:
+code:0
+The installation steps for solar panels are as follows:
+
+1. Ensure the solar panel is placed in an area with continuous sunlight throughout the year.
+2. Use the provided screws to secure the mounting base in the desired position. If the surface is soft, drill a hole and insert an anchor bolt before securing the base.
+3. Attach the universal joint to the back of the solar panel using the round head nut.
+4. Secure the universal joint to the mounting base.
+5. Adjust the solar panel angle as needed. It can be adjusted up to 90 degrees.
+6. Connect the solar panel to the camera by plugging the power wire into the USB-C charge port.
+
+Remember to check all connections after installation and keep the solar panel at an angle of 30-45 degrees from the horizontal plane for optimal performance.
+
+
+question:
+How to use solar panels
+
+
+respons:
+code:-4
+0
+
+
+question:
+APP requirements
+
+
+respons:
+code:0
+- Internet upload speed of at least 2Mbps.
+- The mobile operating system is Android 5.0+ or iOS 10+ version.
+
+
+question:
+How do I choose a country when registering and logging in?
+
+
+respons:
+code:0
+Since different regions correspond to different online servers, you need to select the country where you are when registering and logging in.
+
+For example, if you select the United States when registering, you should also select the United States when you log in to the same account again; if you select another country, it will default to an unregistered account.
+
+
+question:
+Application manual
+
+
+respons:
+code:0
+1. Account Management: Email information, change password, and delete your account.
+2. Share users: Share the connected devices with your family's account, and manage the shared devices.
+3. Cloud recording: View the records stored in the Cloud if you've subscribed to a plan or want to subscribe.
+4. FAQ: Frequently Asked Questions and Answers.
+5. Feedback: Report any device-related issues.
+6. Call us: Phone center for quick responses.
+7. About: Check the APP information, including APP Version, serial numbers for all devices, terms and privacy notice.
+8. Other settings: Enable Recommendations and receive emails.
+9. Terms and privacy notice: AOSU APP users terms and privacy notice.
+10. Log out: Log out of the account.
+11. The Cloud icon on the top right corner is for quick access to the cloud storage service.
+12. Click the icon ‘+’ to add a device in the APP.
+13. The bottom icons: Devices, Cloud, Online Support. On the Devices page, you can view all connected devices.
+14. Every device's bottom has 3 icons: Snooze, Events, Settings.
+- Snooze: Set a snooze period where the camera does not notify you but continues recording.
+- Events: Access all recorded videos for playback.
+- Settings: Configure device settings.
+
+
+question:
+Is multi-terminal login allowed?
+
+
+respons:
+code:0
+Multi-terminal login is allowed, maximum support 3 different phone devices (Android or iOS) login from three different places (same country).
+
+
+question:
+Can I download stored recorded events
+
+
+respons:
+code:0
+Yes, please click Events, choose the event you need to download, and click the “download symbol” on the right side picture.
+
+
+question:
+How do I download the app
+
+
+respons:
+code:0
+If you are using an Android phone, search for Aosu on Google Play Store. If you are using an iPhone, search for Aosu on the Apple Store.
+
+
+question:
+How do I manage shared users
+
+
+respons:
+code:0
+To manage shared users, please click on the left menu, then select "Share Devices," and finally click on "Shared" to check or remove a user.
+
+
+question:
+How can I share my device with my family?
+
+
+respons:
+code:0
+Before sharing, please ensure that another phone has been installed with the same APP-AOSU and created the same region account. Then, there are two ways for sharing a device to other members. 1) Please open the AOSU app, click the button at the left-up corner, find the 'Share Devices' button, and click it; 2) Click the settings button at the right-bottom of the device and enter the device settings page. Find 'Share device' to share the device.
+
+
+question:
+What should I do if I forget my password?
+
+
+respons:
+code:0
+1. You can click the Forgot Password button at the bottom of the login page
+2. Enter the email address you used to register your account on the reset password page, and click Submit
+3. Then, you will receive an email from Aosu, please click the "Reset Password" button in the email.
+4. Enter a new password and reset successfully. You can return to Aosu app to login again
+
+
+question:
+How do I delete your Osu account?
+
+
+respons:
+code:0
+You need to unbind the device first, and then delete your Aosu account in "Left Menu Bar - Account Management - Delete Account".
+
+Note: Your account will be deleted in the Aosu system and you will not be able to log in to the app and use all of its functions.
+
+
+question:
+How do I choose my country of login and registration?
+
+
+respons:
+code:0
+You need to select the country for login and registration based on your location. Different online services are available in different regions. For example, if you register with the USA, you should also log in from the USA. If you choose a different country, it will be treated as an unregistered account by default.
+
+
+question:
+How do I view the current app version of Osu?
+
+
+respons:
+code:0
+1. Click on the menu bar in the upper left corner of the Aosu app
+2. Click “About”
+3. The APP software version can be found
+
+If you need to update the app version, please download it in Apple Store or Google Play.
+
+
+question:
+Unable to receive registration email
+
+
+respons:
+code:0
+1. check spam on your email.
+2. give us your email address, we are going to check it out for you.
+3. Try to use another email address to see if it is working or not.
+
+Note: Be sure to mark down the email address where you cannot receive the registration email.
+
+
+question:
+Where are the recordings and snapshots captured while watching live video saved?
+
+
+respons:
+code:0
+All recordings and snapshots saved and videos downloaded through the Aosu APP are saved in the local album of the phone; before use for the first time, APP requires authorization to access the album of the phone

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="智能客服三期（功能问答测试）">
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="用户定义的变量">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+    </TestPlan>
+    <hashTree>
+      <TestFragmentController guiclass="TestFragmentControllerGui" testclass="TestFragmentController" testname="测试片段-问答" enabled="false"/>
+      <hashTree>
+        <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP信息头管理器">
+          <collectionProp name="HeaderManager.headers">
+            <elementProp name="" elementType="Header">
+              <stringProp name="Header.name">sign</stringProp>
+              <stringProp name="Header.value">641bcbe113b1bedf6a380b31c044d491</stringProp>
+            </elementProp>
+          </collectionProp>
+        </HeaderManager>
+        <hashTree/>
+        <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="读取question data">
+          <stringProp name="delimiter">.</stringProp>
+          <stringProp name="fileEncoding">UTF-8</stringProp>
+          <stringProp name="filename">/Users/testmanzhang/Documents/doc/test/test_plan_save/IM_chatGPT/question/17_similar_132_question_en.txt</stringProp>
+          <boolProp name="ignoreFirstLine">false</boolProp>
+          <boolProp name="quotedData">false</boolProp>
+          <boolProp name="recycle">false</boolProp>
+          <stringProp name="shareMode">shareMode.all</stringProp>
+          <boolProp name="stopThread">true</boolProp>
+          <stringProp name="variableNames">question</stringProp>
+        </CSVDataSet>
+        <hashTree/>
+        <JSR223PreProcessor guiclass="TestBeanGUI" testclass="JSR223PreProcessor" testname="生成uuid和时间戳">
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="parameters">uuid_request, timestamp</stringProp>
+          <stringProp name="script">import java.util.UUID
+
+// 生成 UUID
+String uuid_request = UUID.randomUUID().toString();
+
+// 生成时间戳
+String timestamp = System.currentTimeMillis().toString();
+
+// 将 UUID 和时间戳保存到 JMeter 变量中
+vars.put(&quot;uuid_request&quot;, uuid_request);
+vars.put(&quot;timestamp&quot;, timestamp);
+</stringProp>
+          <stringProp name="scriptLanguage">groovy</stringProp>
+          <stringProp name="TestPlan.comments">生成uuid和时间戳</stringProp>
+        </JSR223PreProcessor>
+        <hashTree/>
+        <JSR223PreProcessor guiclass="TestBeanGUI" testclass="JSR223PreProcessor" testname="生成请求序号">
+          <stringProp name="scriptLanguage">groovy</stringProp>
+          <stringProp name="parameters">requestNumber</stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="script">// 初始化或获取全局计数器
+if (vars.get(&quot;requestCounter&quot;) == null) {
+    vars.put(&quot;requestCounter&quot;, &quot;1&quot;);  // 第一次请求时，初始化为1
+} else {
+    // 递增计数器
+    int currentCount = Integer.parseInt(vars.get(&quot;requestCounter&quot;));
+    currentCount++;
+    vars.put(&quot;requestCounter&quot;, Integer.toString(currentCount));
+}
+
+// 设置编号变量，作为请求的标识
+vars.put(&quot;requestNumber&quot;, &quot;第&quot; + vars.get(&quot;requestCounter&quot;) + &quot;条请求&quot;);
+</stringProp>
+          <stringProp name="TestPlan.comments">查看结果树中显示递增序号</stringProp>
+        </JSR223PreProcessor>
+        <hashTree/>
+        <CounterConfig guiclass="CounterConfigGui" testclass="CounterConfig" testname="生成问题序号">
+          <stringProp name="CounterConfig.start">1</stringProp>
+          <stringProp name="CounterConfig.end"></stringProp>
+          <stringProp name="CounterConfig.incr">1</stringProp>
+          <stringProp name="CounterConfig.name">sequenceNum</stringProp>
+          <stringProp name="CounterConfig.format"></stringProp>
+          <boolProp name="CounterConfig.per_user">false</boolProp>
+          <stringProp name="TestPlan.comments">当前是第几个问题，例如，No.1</stringProp>
+        </CounterConfig>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="${requestNumber}">
+          <stringProp name="TestPlan.comments">每次请求发送一个问题，例如，第7个请求就是第7个问题</stringProp>
+          <stringProp name="HTTPSampler.domain">api-test-us.aosulife.com</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
+          <stringProp name="HTTPSampler.path">/v1/im/getService?uuid=${uuid_request}&amp;t=${timestamp}</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;${question}&quot;,&#xd;
+    &quot;userId&quot;: &quot;6653f834ca30792e5d9391ec&quot;,&#xd;
+    &quot;appFlag&quot;: &quot;forceGPT&quot;,&#xd;
+    &quot;serverEnv&quot;: &quot;test&quot;&#xd;
+}</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <JSONPathAssertion guiclass="JSONPathAssertionGui" testclass="JSONPathAssertion" testname="JSON断言">
+            <stringProp name="JSON_PATH">$.code</stringProp>
+            <stringProp name="EXPECTED_VALUE">0</stringProp>
+            <boolProp name="JSONVALIDATION">true</boolProp>
+            <boolProp name="EXPECT_NULL">false</boolProp>
+            <boolProp name="INVERT">false</boolProp>
+            <boolProp name="ISREGEX">true</boolProp>
+          </JSONPathAssertion>
+          <hashTree/>
+        </hashTree>
+        <JSONPostProcessor guiclass="JSONPostProcessorGui" testclass="JSONPostProcessor" testname="提取答案 业务code uuid" enabled="true">
+          <stringProp name="JSONPostProcessor.referenceNames">content;code;uuid_response</stringProp>
+          <stringProp name="JSONPostProcessor.jsonPathExprs">$.data[0].content;$.code;$.uuid</stringProp>
+          <stringProp name="JSONPostProcessor.match_numbers">1</stringProp>
+          <boolProp name="JSONPostProcessor.compute_concat">true</boolProp>
+          <stringProp name="JSONPostProcessor.defaultValues">&quot;&quot;;-1000;&quot;&quot;</stringProp>
+        </JSONPostProcessor>
+        <hashTree/>
+        <JSR223PostProcessor guiclass="TestBeanGUI" testclass="JSR223PostProcessor" testname="将response中需要的字段写入本地">
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="parameters"></stringProp>
+          <stringProp name="script">import org.apache.jmeter.util.JMeterUtils;
+import java.io.*;
+
+// 指定本地文件路径
+String filePath = &quot;/Users/testmanzhang/Documents/doc/test/test_plan_save/IM_chatGPT/response/17_similar_132_response_en_5.txt&quot;;
+
+// 打开文件用于追加
+FileWriter fstream = new FileWriter(filePath, true);
+BufferedWriter out = new BufferedWriter(fstream);
+
+try {
+    // 获取提取的值
+    String currentSeq = vars.get(&quot;sequenceNum&quot;);
+    String timestamp = vars.get(&quot;timestamp&quot;);
+    String questionData = vars.get(&quot;question&quot;);
+    String responseData = vars.get(&quot;content&quot;);
+    String responseCode = vars.get(&quot;code&quot;);
+    String uuid_request = vars.get(&quot;uuid_request&quot;);
+    String uuid_response = vars.get(&quot;uuid_response&quot;);
+
+    // 写入文件
+    String outputContent = &quot;&quot;;
+    String systemLineSepa = System.getProperty(&quot;line.separator&quot;);
+    outputContent = &quot;【request】&quot; + systemLineSepa + &quot;uuid: &quot; + uuid_request + systemLineSepa + &quot;timestamp: &quot; + timestamp + systemLineSepa + &quot;No.&quot; + currentSeq + &quot; question: &quot; + questionData + systemLineSepa + &quot;【response】&quot; + systemLineSepa + &quot;code: &quot; + responseCode + systemLineSepa + &quot;answer: &quot; + responseData + systemLineSepa + &quot;uuid: &quot; + uuid_response + systemLineSepa + systemLineSepa + systemLineSepa;
+    
+    out.write(outputContent);
+
+} catch (Exception e) {
+    e.printStackTrace();
+} finally {
+    // 关闭写入器
+    if (out != null) {
+        out.close();
+    }
+}
+</stringProp>
+          <stringProp name="scriptLanguage">groovy</stringProp>
+        </JSR223PostProcessor>
+        <hashTree/>
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="查看结果树">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename">/Users/testmanzhang/Documents/doc/test/test_plan_save/IM_chatGPT/response/result.csv</stringProp>
+        </ResultCollector>
+        <hashTree/>
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="调试过程--禁用 即可" enabled="false">
+          <boolProp name="TransactionController.includeTimers">false</boolProp>
+        </TransactionController>
+        <hashTree>
+          <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="正则表达式提取器" enabled="false">
+            <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+            <stringProp name="RegexExtractor.refname">response_code</stringProp>
+            <stringProp name="RegexExtractor.regex">&quot;code&quot;:&quot;(.*?)&quot;</stringProp>
+            <stringProp name="RegexExtractor.template">$1$</stringProp>
+            <stringProp name="RegexExtractor.default"></stringProp>
+            <boolProp name="RegexExtractor.default_empty_value">false</boolProp>
+            <stringProp name="RegexExtractor.match_number">0</stringProp>
+          </RegexExtractor>
+          <hashTree/>
+          <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="获取上一个取样器的结果_JSR223 Sampler" enabled="false">
+            <stringProp name="cacheKey">true</stringProp>
+            <stringProp name="filename"></stringProp>
+            <stringProp name="parameters"></stringProp>
+            <stringProp name="script">//导入json包
+import org.json.JSONObject;
+import org.json.JSONArray;
+import org.apache.jmeter.samplers.SampleResult
+SampleResult rsp =ctx.getPreviousResult()       
+String response_data = rsp.getResponseDataAsString()  //获取上一个接口返回数据，此处是String类型
+log.info(&quot;\n&quot; + response_data)
+//将String类型的返回值构造成JSONObject对象
+JSONObject jsonstring=new JSONObject(response_data);  //放进json对象里
+String cost_time=jsonstring.get(&quot;cost_time&quot;).toString();        //取出cost_time对应的value值
+String score=jsonstring.get(&quot;emotion_class&quot;).get(&quot;score&quot;).toString();        //取出score对应的value值
+vars.put(&quot;cost_time&quot;,cost_time);
+vars.put(&quot;score&quot;,score);
+log.info(cost_time);
+log.info(score);
+//写入文件
+FileWriter fstream=new FileWriter(&quot;E:/gongju/jmeter/pc.csv&quot;,true);//本地存储文件路径
+BufferedWriter out = new BufferedWriter(fstream);
+out.write(cost_time);//提取出来的cost_time
+out.write(&quot;,&quot;);//换列
+out.write(score);//提取出来的score
+out.write(System.getProperty(&quot;line.separator&quot;));//换行
+out.close();
+fstream.close();
+</stringProp>
+            <stringProp name="scriptLanguage">groovy</stringProp>
+          </JSR223Sampler>
+          <hashTree/>
+          <JSONPostProcessor guiclass="JSONPostProcessorGui" testclass="JSONPostProcessor" testname="question__JSON提取器" enabled="false">
+            <stringProp name="JSONPostProcessor.referenceNames">content</stringProp>
+            <stringProp name="JSONPostProcessor.jsonPathExprs">$.data[0].content</stringProp>
+            <stringProp name="JSONPostProcessor.match_numbers">1</stringProp>
+            <boolProp name="JSONPostProcessor.compute_concat">true</boolProp>
+          </JSONPostProcessor>
+          <hashTree/>
+          <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="正则表达式提取器" enabled="false">
+            <stringProp name="RegexExtractor.useHeaders">request_headers</stringProp>
+            <stringProp name="RegexExtractor.refname">question_hd</stringProp>
+            <stringProp name="RegexExtractor.regex">&quot;question&quot;: &quot;(.*?)&quot;</stringProp>
+            <stringProp name="RegexExtractor.template">$1$</stringProp>
+            <stringProp name="RegexExtractor.default"></stringProp>
+            <boolProp name="RegexExtractor.default_empty_value">false</boolProp>
+            <stringProp name="RegexExtractor.match_number">0</stringProp>
+          </RegexExtractor>
+          <hashTree/>
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="IM ChatGPT 问题  HTTP请求" enabled="false">
+            <stringProp name="HTTPSampler.domain">api-test-us.aosulife.com</stringProp>
+            <stringProp name="HTTPSampler.port">443</stringProp>
+            <stringProp name="HTTPSampler.protocol">https</stringProp>
+            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
+            <stringProp name="HTTPSampler.path">/v1/im/getService</stringProp>
+            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+            <stringProp name="HTTPSampler.method">POST</stringProp>
+            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+            <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+            <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+              <collectionProp name="Arguments.arguments">
+                <elementProp name="" elementType="HTTPArgument">
+                  <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                  <stringProp name="Argument.value">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;${content}&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;6653f834ca30792e5d9391ec&quot;&#xd;
+}</stringProp>
+                  <stringProp name="Argument.metadata">=</stringProp>
+                </elementProp>
+              </collectionProp>
+            </elementProp>
+          </HTTPSamplerProxy>
+          <hashTree/>
+          <ResultSaver guiclass="ResultSaverGui" testclass="ResultSaver" testname="保存响应到文件" enabled="false">
+            <stringProp name="FileSaver.filename">C:\Users\L\Desktop\apache-jmeter-5.6.3\bin\test_plan_save\IM_chatGPT\reponse_result</stringProp>
+            <boolProp name="FileSaver.errorsonly">false</boolProp>
+            <boolProp name="FileSaver.successonly">false</boolProp>
+            <boolProp name="FileSaver.skipsuffix">false</boolProp>
+            <boolProp name="FileSaver.skipautonumber">false</boolProp>
+          </ResultSaver>
+          <hashTree/>
+        </hashTree>
+      </hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="线程组">
+        <intProp name="ThreadGroup.num_threads">1</intProp>
+        <intProp name="ThreadGroup.ramp_time">1</intProp>
+        <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="循环控制器">
+          <intProp name="LoopController.loops">-1</intProp>
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+        </elementProp>
+      </ThreadGroup>
+      <hashTree>
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="模块控制器">
+          <collectionProp name="ModuleController.node_path">
+            <stringProp name="869052411">测试计划</stringProp>
+            <stringProp name="63142743">智能客服三期（功能问答测试）</stringProp>
+            <stringProp name="-1624385189">测试片段-问答</stringProp>
+          </collectionProp>
+        </ModuleController>
+        <hashTree/>
+      </hashTree>
+      <ResultSaver guiclass="ResultSaverGui" testclass="ResultSaver" testname="保存响应到文件" enabled="false">
+        <stringProp name="FileSaver.filename">C:\Users\L\Desktop\apache-jmeter-5.6.3\bin\test_plan_save\IM_chatGPT\reponse_result\reponse_result</stringProp>
+        <boolProp name="FileSaver.errorsonly">false</boolProp>
+        <boolProp name="FileSaver.successonly">false</boolProp>
+        <boolProp name="FileSaver.skipsuffix">false</boolProp>
+        <boolProp name="FileSaver.skipautonumber">true</boolProp>
+      </ResultSaver>
+      <hashTree/>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>

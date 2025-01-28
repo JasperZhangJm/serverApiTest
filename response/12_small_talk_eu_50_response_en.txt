@@ -1,0 +1,500 @@
+【request】
+uuid: 5536e30f-5d78-495f-9f42-da05ac13aa65
+timestamp: 1726109514708
+No.1 question: Hello, I need assistance with my order
+【response】
+code: 0
+answer: Can I help you?
+uuid: cc35b7ba9f57d63f
+
+
+【request】
+uuid: 51947726-e809-4ef6-b6e5-bfa783f42789
+timestamp: 1726109517511
+No.2 question: Good day, I’m having an issue with a purchase
+【response】
+code: 0
+answer: Can I help you?
+uuid: d3f001769f5cc7b4
+
+
+【request】
+uuid: 8fdf179b-f687-4a50-8a8a-d3f6797838d0
+timestamp: 1726109519646
+No.3 question: Hi there, I’d like to inquire about a refund
+【response】
+code: -4
+answer: ""
+uuid: 896a7bca42f90947
+
+
+【request】
+uuid: 93fc213d-b86d-49eb-8e7e-caf9cc13227a
+timestamp: 1726109521263
+No.4 question: Hello, I have a question about my recent order
+【response】
+code: 0
+answer: Can I help you?
+uuid: 46fdd3f4e5c47096
+
+
+【request】
+uuid: d6a776f1-5f8c-4bec-9b48-c3904c2ac3e5
+timestamp: 1726109522789
+No.5 question: Good morning, could you assist me with a return?
+【response】
+code: 0
+answer: Can I help you?
+uuid: 551b583f1050dba5
+
+
+【request】
+uuid: 26e9980f-2646-4152-9052-f160d8158184
+timestamp: 1726109525195
+No.6 question: Hello, I’m having trouble with a product
+【response】
+code: 0
+answer: Can I help you?
+uuid: 8ce5c229107581f8
+
+
+【request】
+uuid: 8155124b-7a64-441c-8aea-5dd76042df8b
+timestamp: 1726109527280
+No.7 question: Hi, I’d like to check the status of my delivery
+【response】
+code: -4
+answer: ""
+uuid: 78ccc8d985e6d7c7
+
+
+【request】
+uuid: 80926a34-661d-4c17-8552-aae52b77cdab
+timestamp: 1726109529164
+No.8 question: Good afternoon, I need help with a billing issue
+【response】
+code: -4
+answer: ""
+uuid: d116f9ce9e0794cd
+
+
+【request】
+uuid: 819ca924-fe47-42b2-b5d8-e78fdc4c603a
+timestamp: 1726109531382
+No.9 question: Hello, could you provide information on a charge?
+【response】
+code: 0
+answer: Please be advised that you won't be charged for anything if you subscribe to the free trial (7 days). If you see a charge in your account, it can be a preauthorization charge. A preauthorization charge is a temporary hold on a specific amount of the available balance on a credit or debit card. This charge checks that the card is valid and has sufficient funds to cover the transaction. The amount is set aside by the card issuer but not actually transferred to the business.
+uuid: 28e803c51d5f705b
+
+
+【request】
+uuid: 67c1d9f0-fd9e-46e7-8930-fcf6e7af268b
+timestamp: 1726109534161
+No.10 question: Hi, I need assistance with a warranty claim
+【response】
+code: 0
+answer: We offer a one-year warranty on our products. May I please know what specific issue you are experiencing with your product?
+uuid: 9a06ce0899188024
+
+
+【request】
+uuid: c2ae16cf-3091-4766-bd9a-2696ba18edda
+timestamp: 1726109537525
+No.11 question: Hello, I’d like to discuss a recent purchase
+【response】
+code: 0
+answer: Can I help you?
+uuid: e017a18f6ee6fc4e
+
+
+【request】
+uuid: 7ee443bb-c154-4535-b4b7-6aaada45a5d4
+timestamp: 1726109539114
+No.12 question: Good evening, I need help with a product defect
+【response】
+code: -4
+answer: ""
+uuid: fd87ffe3a97c09a9
+
+
+【request】
+uuid: f99dca70-71a7-4708-877b-cd06f60fccf9
+timestamp: 1726109541729
+No.13 question: Hi, I’m experiencing issues with my account
+【response】
+code: 0
+answer: Can I help you?
+uuid: ee1330bdbe32c9cc
+
+
+【request】
+uuid: 7577a836-3adb-4564-81a8-501208caf24f
+timestamp: 1726109544026
+No.14 question: Hello, I’d like to report a problem with my order
+【response】
+code: 0
+answer: We offer a one-year warranty on our products. May I please know what specific issue you are experiencing with your product?
+uuid: 62b84ae22cf49cb8
+
+
+【request】
+uuid: 38bd2210-0a07-4851-a069-a24065a79ba6
+timestamp: 1726109546020
+No.15 question: Good morning, I need to cancel an order
+【response】
+code: 0
+answer: Please follow the steps below to cancel the subscription step by step: Open the Aosu app > Settings > Cloud Recording > My Service > Select the cloud storage service you wish to cancel > Click on "Unsubscribe", then confirm by clicking "OK". -Aosu Team
+uuid: f1f54c2542af72a9
+
+
+【request】
+uuid: 9f30304d-bd45-4ae1-bec4-a878a710ae0a
+timestamp: 1726109549012
+No.16 question: Hi there, could you help me with a product exchange?
+【response】
+code: 0
+answer: Can I help you?
+uuid: 8e4008208d189bcb
+
+
+【request】
+uuid: 4772b9af-03ac-43e8-82eb-49d9f692bc1e
+timestamp: 1726109550737
+No.17 question: Hello, I have a question about a delivery delay
+【response】
+code: 0
+answer: Can I help you?
+uuid: 354afc97eb1dc8c7
+
+
+【request】
+uuid: 09959790-f3cd-46af-9879-2ffcc865eff4
+timestamp: 1726109552506
+No.18 question: Good day, I need assistance with a transaction issue
+【response】
+code: 0
+answer: Can I help you?
+uuid: d8e7c85a7107e384
+
+
+【request】
+uuid: acac5eba-8ecf-4d70-94a0-e22eb44285bf
+timestamp: 1726109554337
+No.19 question: Hi, I’m having trouble with a promo code
+【response】
+code: -4
+answer: ""
+uuid: 0ad6df39ed5e5b06
+
+
+【request】
+uuid: 7cfa2151-8e3a-4f79-a10c-bc78223adc14
+timestamp: 1726109556320
+No.20 question: Hello, could you help me with a shipping issue?
+【response】
+code: -4
+answer: ""
+uuid: b8793cd1ae65728c
+
+
+【request】
+uuid: 7d9aae71-a3de-4866-8976-cb605fd1097a
+timestamp: 1726109558073
+No.21 question: Good afternoon, I need to update my shipping address
+【response】
+code: -4
+answer: ""
+uuid: 88e681606d5df4ad
+
+
+【request】
+uuid: ee2e01f5-a2a9-4472-8ac7-645eb4137e03
+timestamp: 1726109560901
+No.22 question: Hi, I’d like to verify my order details
+【response】
+code: 0
+answer: Please provide a clear and specific question so that I can assist you.
+uuid: d860dc1f572765a0
+
+
+【request】
+uuid: 4cf116a9-96fb-4bbf-8d19-0f8072fee2ad
+timestamp: 1726109562802
+No.23 question: Hello, I’m having issues with a subscription service
+【response】
+code: 0
+answer: Can I help you?
+uuid: 503342b8a39f9213
+
+
+【request】
+uuid: f724025c-8129-4e7e-8e6f-abe86ad7d07d
+timestamp: 1726109564722
+No.24 question: Good evening, I need help with a payment problem
+【response】
+code: 0
+answer: You can update your cloud payment by canceling your current subscription and subscribing to a new plan with your updated payment information. Kindly check the FAQ on how to cancel your subscription.-Aosu Team
+uuid: 0281cf7e64634e07
+
+
+【request】
+uuid: 66943c42-39b6-40b1-a131-1e8bd26fe93a
+timestamp: 1726109567187
+No.25 question: Hi, I’d like to request a replacement for a damaged item
+【response】
+code: -4
+answer: ""
+uuid: 1d68e0dc12e686e6
+
+
+【request】
+uuid: 6b8d9ca1-2b81-496a-8b50-7888c4141459
+timestamp: 1726109568920
+No.26 question: Hello, I need support with a refund request
+【response】
+code: -4
+answer: ""
+uuid: dce6ab48389a9e67
+
+
+【request】
+uuid: ebcc7599-5dcc-4bf9-b3a6-61183c90cf52
+timestamp: 1726109570561
+No.27 question: Good day, I have a question about a product feature
+【response】
+code: 0
+answer: Can I help you?
+uuid: 9ea8b13be458e91b
+
+
+【request】
+uuid: 5e780dc2-4d56-4152-b000-dccc42a46af2
+timestamp: 1726109572660
+No.28 question: Hi there, I’d like to discuss a problem with a service
+【response】
+code: 0
+answer: Can I help you?
+uuid: 494f4ef9493a415e
+
+
+【request】
+uuid: cd92aff0-e56c-496c-a963-839b247ac53f
+timestamp: 1726109575150
+No.29 question: Hello, could you assist me with an order modification?
+【response】
+code: 0
+answer: Can I help you?
+uuid: e187beac57c413f3
+
+
+【request】
+uuid: 91ad74e1-7884-4e3a-8877-64c0a3699634
+timestamp: 1726109579153
+No.30 question: Good morning, I need help with a product return
+【response】
+code: -4
+answer: ""
+uuid: 2c9778513232f2ee
+
+
+【request】
+uuid: 7d2e449d-b679-4167-95a4-739844b97fac
+timestamp: 1726109581040
+No.31 question: Hi, I’m experiencing issues with a gift card
+【response】
+code: 0
+answer: Please provide a clear and specific question so that I can assist you.
+uuid: a9117165c00adeb4
+
+
+【request】
+uuid: cde36cfb-6855-40cd-99a1-97c804301879
+timestamp: 1726109583005
+No.32 question: Hello, I’d like to get an update on my order status
+【response】
+code: 0
+answer: Can I help you?
+uuid: 34bcfb24e5244992
+
+
+【request】
+uuid: 7a01eb17-040b-427e-b838-357b4abd8bc7
+timestamp: 1726109585389
+No.33 question: Good afternoon, I’m having trouble with an online purchase
+【response】
+code: -4
+answer: ""
+uuid: 7bb64f0f51fd1ad3
+
+
+【request】
+uuid: 0fa3228e-f484-4661-ab2a-7d363bee7c99
+timestamp: 1726109589076
+No.34 question: Hi, could you help me with a billing discrepancy?
+【response】
+code: -4
+answer: ""
+uuid: 2ac12da0f8c173b8
+
+
+【request】
+uuid: c7137f16-8c40-4830-b66b-498716707ccf
+timestamp: 1726109591001
+No.35 question: Hello, I need assistance with a transaction error
+【response】
+code: 0
+answer: Can I help you?
+uuid: 36215a93c361f862
+
+
+【request】
+uuid: 419093ef-43ad-4cdf-9f09-ec553733f864
+timestamp: 1726109593173
+No.36 question: Good day, I’d like to inquire about the status of my refund
+【response】
+code: -4
+answer: ""
+uuid: d469154607cca6b1
+
+
+【request】
+uuid: ffb6c746-e0ac-4840-9c13-0c24444916e0
+timestamp: 1726109594945
+No.37 question: Hi, I need support with a purchase issue
+【response】
+code: -4
+answer: ""
+uuid: 3b16449ce897e76b
+
+
+【request】
+uuid: 6270bedf-7404-48d1-8a3b-c21899d43240
+timestamp: 1726109596861
+No.38 question: Hello, I’d like to discuss a product return process
+【response】
+code: 0
+answer: Can I help you?
+uuid: 108931b58085ac52
+
+
+【request】
+uuid: 9fbe7a66-bbfa-4ab2-9d41-fe6204a07574
+timestamp: 1726109598788
+No.39 question: Good evening, I need help with a product defect
+【response】
+code: -4
+answer: ""
+uuid: 35b5bb159a74c770
+
+
+【request】
+uuid: 5199dc28-d8cd-4113-a99e-25ee335b82a4
+timestamp: 1726109600365
+No.40 question: Hi there, I’d like to inquire about a shipping charge
+【response】
+code: -4
+answer: ""
+uuid: 57e689df198c6f51
+
+
+【request】
+uuid: e3523f31-b6c7-4394-bafa-d8b6cd961392
+timestamp: 1726109602185
+No.41 question: Hello, I need to address a concern about my account
+【response】
+code: 0
+answer: Can I help you?
+uuid: 8177ada198b1f7d7
+
+
+【request】
+uuid: 1612df25-b067-4f7e-90d7-f1006d3cc955
+timestamp: 1726109604026
+No.42 question: Good morning, I’m having trouble with a recent transaction
+【response】
+code: -4
+answer: ""
+uuid: 45f0c7546167dcdf
+
+
+【request】
+uuid: d21ab731-fd05-4b23-ad7d-a8e73518c221
+timestamp: 1726109606024
+No.43 question: Hi, I’d like to get more information about a product
+【response】
+code: 0
+answer: Can I help you?
+uuid: ee2e583cda0ce498
+
+
+【request】
+uuid: 97cc4111-4c2b-4e40-8444-8775cf186d68
+timestamp: 1726109607544
+No.44 question: Hello, I’m having difficulty with a promo code
+【response】
+code: -4
+answer: ""
+uuid: b885c00c4a78480a
+
+
+【request】
+uuid: cf23eb95-3394-40f9-baab-9a5c1fdb7297
+timestamp: 1726109609393
+No.45 question: Good day, I need support with a product exchange
+【response】
+code: 0
+answer: Can I help you?
+uuid: 42ddd7369e683eed
+
+
+【request】
+uuid: 702d2c9e-26b1-408b-bb06-b5871d42369a
+timestamp: 1726109611064
+No.46 question: Hi there, I’d like to report an issue with a service
+【response】
+code: 0
+answer: Can I help you?
+uuid: d711af8bb618591d
+
+
+【request】
+uuid: 263c9ee9-d909-4e68-99b7-d9d388c05616
+timestamp: 1726109612933
+No.47 question: Hello, I need assistance with a delivery issue
+【response】
+code: -4
+answer: ""
+uuid: 0e44d17fc67394e6
+
+
+【request】
+uuid: 49e72d4f-d5ca-467d-a7bd-23a76b10511d
+timestamp: 1726109614886
+No.48 question: Good afternoon, I’m experiencing a problem with a product feature
+【response】
+code: 0
+answer: Can I help you?
+uuid: eca9be91cebcd5b1
+
+
+【request】
+uuid: 05cd062e-81c5-4972-9cee-5499d7217d71
+timestamp: 1726109616898
+No.49 question: Hi, I’d like to request an update on my order
+【response】
+code: -4
+answer: ""
+uuid: 04765f838208b67e
+
+
+【request】
+uuid: 84076f55-4dd0-4dbf-aa0c-b1df66d96e0d
+timestamp: 1726109618668
+No.50 question: Hello, I’m having an issue with a subscription renewal
+【response】
+code: -4
+answer: ""
+uuid: b2733a8024049f1d
+
+

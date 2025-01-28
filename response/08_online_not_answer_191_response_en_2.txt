@@ -1,0 +1,1936 @@
+【request】
+uuid: 1e4252d9-889e-4681-ae3d-357397dcab23
+timestamp: 1725876214685
+No.1 question: Nobody ever answers your phone
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 9fc22da6-c656-4ff9-a991-fb8dd0ab0293
+timestamp: 1725876216459
+No.2 question: the Driveway camera is still not recording
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 35fde9bb-e0c0-4954-9a09-2cc1770d4da2
+timestamp: 1725876218178
+No.3 question: still don't work
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 608e0ef7-6e9e-4655-8d05-4f99253ceebe
+timestamp: 1725876220044
+No.4 question: I am unable to  set up my device due to wifi problem
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: dedd279f-0854-49cb-a264-03c6c0b2bcd8
+timestamp: 1725876222096
+No.5 question: No I didn’t mean to call you
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ece3f5af-e885-41fe-af16-f2ad17c30a2c
+timestamp: 1725876224036
+No.6 question: how to add another phone number for notifications?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 857f5848-f1f3-4205-9202-27c303890de6
+timestamp: 1725876226110
+No.7 question: Hi does the camera send notifications?
+【response】
+code: 0
+answer: The camera does send notifications.
+
+
+【request】
+uuid: 9181b41a-0f80-42ae-95cf-84fd6fde6a1b
+timestamp: 1725876227997
+No.8 question: La homebase no se conecta ha interne
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: c27171fb-0787-455f-be2e-e131eeb98868
+timestamp: 1725876230204
+No.9 question: Hola
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: c846ea36-c5f4-45b6-b864-9e4dccca3e6d
+timestamp: 1725876232655
+No.10 question: Where is the memory card slot
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: eb660407-7239-457d-b6e2-c9ccbfdfb8e4
+timestamp: 1725876234685
+No.11 question: WHEN/HOW TO CHARGE THE CAMERA?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ff653a5c-6ab0-403e-b03d-7ca5db6dc737
+timestamp: 1725876236641
+No.12 question: Why is it asking me to charge the camera? If it’s a solar camera?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 58dc93fd-c8e9-47a6-8641-e6baabfd413f
+timestamp: 1725876238560
+No.13 question: Hello
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 7e2e7e1e-fd38-4486-bc8b-cef49d113332
+timestamp: 1725876240633
+No.14 question: Ronald 7063323213
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 9538d006-991b-4883-9359-a59a77f5bd83
+timestamp: 1725876242983
+No.15 question: How can I enable 2FA or see what devices are logged in? for security purposes
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 43723a39-7767-4a19-a922-95a0b9b4711d
+timestamp: 1725876245031
+No.16 question: hello my device keeps stating there is no sd card when there is and also it's not connecting to watch video when there is an good connection
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 982871d6-bca4-49cd-91ac-9160116888df
+timestamp: 1725876247080
+No.17 question: I need more help
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 128ba57c-ca31-449b-a8f0-c116cdcdbc22
+timestamp: 1725876250780
+No.18 question: will not scan code
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow these steps to isolate the problem:
+
+1. Adjust the distance between the camera lens and the QR code on your phone.
+2. Ensure that the screen brightness is not too dark or too bright.
+3. Try placing the phone screen horizontally about 10-15cm in front of the camera and slowly move it away at a distance of 10-15cm. Once scanned successfully, you will hear a "beep" sound.
+
+REMINDER: Make sure to show the FULL PICTURE of the QR code as shown below - WRONG - CORRECT
+
+If you continue to experience issues scanning the QR code, please feel free to contact us for further assistance.
+
+
+【request】
+uuid: acd4dc6a-9add-4532-b70d-72c302a029f1
+timestamp: 1725876252921
+No.19 question: one camera will not connect
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: c7031326-2cb0-49fb-8db8-2206a16ef081
+timestamp: 1725876255169
+No.20 question: hello
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: a2cf8ed8-aa5e-4559-82d9-29635ee4a07b
+timestamp: 1725876257692
+No.21 question: C9C2CA10036321
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 4afbfcd2-6a06-417e-8a03-e64534663bd8
+timestamp: 1725876259656
+No.22 question: our front camera is not staying in position
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: cb03a543-50fd-4aa7-af67-aeadd78f7631
+timestamp: 1725876262490
+No.23 question: tengo un equipo de 4 camaras , se puede agregar otra cámara ?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! If you already have a 4-camera system, unfortunately, you won't be able to add another camera to the existing system. Each HomeBase from Aosu can only support up to 4 cameras of the same model or supported models. Let me know if you need further assistance.
+
+
+【request】
+uuid: 21002c03-43bd-4e53-861d-bce8384b14de
+timestamp: 1725876264533
+No.24 question: Couldn't get charged
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 7b147502-d3d4-4fbc-b1b8-63f96a65b8f6
+timestamp: 1725876265574
+No.25 question: "C9C2CA110094242
+【response】
+code: 0
+answer: ""
+
+
+【request】
+uuid: ae348b66-0d3a-41a9-ab25-bf1e7a916d08
+timestamp: 1725876266623
+No.26 question: C9C2CA110094168"
+【response】
+code: 0
+answer: ""
+
+
+【request】
+uuid: 344ca416-0644-435e-902d-28c58244ac15
+timestamp: 1725876268604
+No.27 question: 请问一个基站可带多少个摄像头?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 20dad6e6-54e6-47f3-ab3f-f22e3c23b27f
+timestamp: 1725876270503
+No.28 question: How do I send a video?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 768f0eff-66c4-4a46-8a8b-a2b911f39fd8
+timestamp: 1725876275231
+No.29 question: HOW TO ADD AND ADD-ON CAMERA/S?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow these steps on how to add the new cameras manually to the app:
+
+1. Open the Aosu app.
+2. Tap the "+" icon to add the devices, then tap "Ready to Scan."
+3. Tap "Can't Find QR Code? Manually Add Here" on the next page.
+4. On the Select Model page, scroll down and select WirelessCam MaxPro (Camera w 1 picture only), then tap Add Now.
+5. Tap the Serial Number of your HomeBase (NOTE: The Homebase status here should be ONLINE - Not flashing green).
+6. Turn on the new cameras that you want to add to the HomeBase (Press and hold the sync button until you hear "Hello"), then tap "I Hear "Hello."
+7. Follow the on-screen instructions.
+
+Here's also a video tutorial for your reference: [Watch Video Tutorial](https://youtu.be/ngJgQzU9cA?si=4en2ZPC8WVll2NLq)
+
+
+【request】
+uuid: 2ae52028-f553-433b-8b07-ef814fc77226
+timestamp: 1725876279250
+No.30 question: how do I get my 3rd camera on my phone, it says I have 3 devices
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! To add the new camera to your phone, kindly follow these steps:
+
+1. Open the Aosu app.
+2. Tap the "+" icon to add devices.
+3. Tap "Ready to Scan."
+4. Select "Can't Find QR Code? Manually Add Here."
+5. Choose the camera model you want to add.
+6. Enter the serial number of your HomeBase.
+7. Turn on the new camera and follow the on-screen instructions to add it.
+
+If you encounter any issues, feel free to reach out for further assistance.
+
+
+【request】
+uuid: a80515ba-f065-4343-b7e3-4b3ec555bb2c
+timestamp: 1725876281689
+No.31 question: Where do I plug in the charging cable
+【response】
+code: 0
+answer: The USB charging cable should be plugged into the USB-C port located at the back of the camera for charging.
+
+
+【request】
+uuid: 01a8e157-6018-4f51-87e5-268ad468655b
+timestamp: 1725876283744
+No.32 question: Where and how do I plug in the charging cable
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 407dfee5-e37b-40ca-a4f2-b72e1e16dfa6
+timestamp: 1725876286729
+No.33 question: I need to add another phone to access the camera
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Feel free to download and install the Aosu app on the second phone and log in using the same email address and password you used on the first phone. You can configure the camera to the second phone without needing to create a new account.-Aosu Team
+
+
+【request】
+uuid: 3f89bc71-bf3b-4565-82be-3019cf51dd62
+timestamp: 1725876288653
+No.34 question: Not Recording
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f3e256c7-2112-4e72-ac4d-6278dd74f69a
+timestamp: 1725876290506
+No.35 question: Cloud storage not working
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 7d3753ce-ef83-402e-81d1-4d0c4935d466
+timestamp: 1725876292511
+No.36 question: Quisiera cancelar una suscripción
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: d7aad629-99db-4404-bd11-299b843554cd
+timestamp: 1725876294430
+No.37 question: Si
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ca0fd697-2ee6-4cbf-bcdb-9ac8d6689d9f
+timestamp: 1725876296651
+No.38 question: Sn c9c2ca110069562
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: a2d68876-21cc-41d6-ad90-8eafa25181b0
+timestamp: 1725876298540
+No.39 question: Yes I did all that and it won’t work
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f5ddb3e9-d739-4e89-bc3c-f6ab39493b7c
+timestamp: 1725876300840
+No.40 question: My camera won’t track left or right
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: d1876cb4-555f-47d4-b7b9-5f69cc6042fa
+timestamp: 1725876305713
+No.41 question: how do you get the camera to work
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! If your camera is not recording any events, there are a few things you can check:
+
+1. Reinstall the app first (if it was working fine before).
+2. Make sure the power supply and network connection of the camera are normal. Check if the camera is offline.
+3. Check if an SD card is inserted or subscribe to a cloud storage plan. Without storage, the camera cannot save any recorded events.
+4. Ensure that the motion detection function is turned on and the notification reminder is enabled. Check also for any message notifications in the app.
+5. Open the Aosu app Settings, go to Motion Detection, and disable "Adjust Automatically" if it's enabled. Adjust the Detect Sensitivity to Far Max. This will boost the camera's detection capability.
+6. Check if the camera has an available firmware update. Go to Camera settings, Firmware updates, then Update.
+
+If the issue persists, kindly take a screenshot of your Events tab and send it to us for further assistance. We are here to help you resolve this.
+
+Let us know if you need further assistance.
+-Aosu Team
+
+
+【request】
+uuid: 26b94ed9-c8a3-45f7-ad99-7a402025dc16
+timestamp: 1725876310254
+No.42 question: CONFIGURATION ISSUE
+【response】
+code: 0
+answer: Make sure the camera is close to the router. This will ensure a strong and stable Wi-Fi connection. Turn off mobile data and airplane mode on your phone to prevent any interference during the setup process. Confirm that you are using your phone to scan the QR code on the camera correctly. Double-check that you have entered the correct Wi-Fi password without any extra spaces. Reset the camera by pressing and holding the SYNC button for 10-20 seconds until you hear a beep sound and see the green light flashing. Scan the QR code generated in the app and make sure you hear a beep and see the red light flashing more quickly. Finally, check if the indicator light on the camera changes from red to blue. If you're still unable to connect the camera to your Wi-Fi after following these steps, please let me know which step you're stuck on or provide more details about the issue you're facing.
+
+
+【request】
+uuid: 27d90792-47ef-4a0d-af78-3832c2bd18e4
+timestamp: 1725876312534
+No.43 question: What are the options to add more to a home base?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 4fa55cb6-50a7-497c-a162-daf1fad41e3a
+timestamp: 1725876315193
+No.44 question: HOW MANY CAMERAS CAN BE ADDED TO A HOMEBASE?
+【response】
+code: 0
+answer: Unfortunately, the Homebase can only support up to 4 cameras with the same models or supported models.
+
+
+【request】
+uuid: 2a8d6ebb-1741-43a2-9da3-cac618745f8c
+timestamp: 1725876317428
+No.45 question: How many cameras can connect to a home base?
+【response】
+code: 0
+answer: The Homebase can only support up to 4 cameras with the same models or supported models.
+
+
+【request】
+uuid: a31e4d54-becf-4c22-bf35-ddf5f82aa89b
+timestamp: 1725876319590
+No.46 question: It wont connect
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 2763d0b9-b0a1-49d0-9646-2c036b86be85
+timestamp: 1725876321684
+No.47 question: Its still not resolved
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 2d70dfea-c48f-4ed2-9645-728cd44df821
+timestamp: 1725876323698
+No.48 question: HOMEBASE AND CAMERAS CONFIGURATION
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 54bcb861-76a6-48f0-bfde-ebe9ce997693
+timestamp: 1725876327879
+No.49 question: How do you connect a new camera to the home base?
+【response】
+code: 0
+answer: Hello! Thank you for your question. To connect a new camera to the HomeBase, please follow these steps:
+
+1. Open the Aosu app.
+2. Tap the "+" icon to add devices.
+3. Tap "Ready to Scan."
+4. If you can't find the QR code, tap "Can't Find QR Code? Manually Add Here."
+5. Scroll down and select the model of your camera.
+6. Input the serial number of your HomeBase (make sure it is online).
+7. Turn on the new camera and press and hold the sync button until you hear "Hello."
+8. Tap "I Hear 'Hello.'"
+9. Follow the on-screen instructions to complete the setup.
+
+If you need further assistance, feel free to reach out.
+
+
+【request】
+uuid: d4bfee36-41a3-4f11-abf2-e552462b6294
+timestamp: 1725876329822
+No.50 question: That didn’t work
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 5e89d72f-a346-4ce9-98fa-98e1b3387945
+timestamp: 1725876333255
+No.51 question: I’ve had these cameras less than a month and one of them has a blurred lens
+【response】
+code: 0
+answer: Hello! Thanks for reaching out. Kindly provide a screenshot of the live feed screen of the camera. Have you tried cleaning the camera lens? Also, try switching the resolution on the app to see if the image blur improves. If the issue persists, please check if the lens is faulty and send us a picture for review. Rest assured, we will assist you in resolving this matter promptly. -Aosu Team
+
+
+【request】
+uuid: 93d009e6-706c-4756-b0a0-1cded0947d04
+timestamp: 1725876335452
+No.52 question: 3
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f4887e82-8606-4bd6-93a3-6157f8f80beb
+timestamp: 1725876336627
+No.53 question: "hello
+【response】
+code: 0
+answer: ""
+
+
+【request】
+uuid: ec89261a-47d5-4475-b071-c1163244dcc7
+timestamp: 1725876337810
+No.54 question: how do I connect  the 3ed camera  to the system?"
+【response】
+code: 0
+answer: ""
+
+
+【request】
+uuid: e63d300b-3e3c-437b-b33d-0c64296aa212
+timestamp: 1725876339981
+No.55 question: I have some queries about the Cloud storage service
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 2fd27570-fe10-415f-8a14-37996d7d060c
+timestamp: 1725876345079
+No.56 question: question about the storage in local vs cloud
+【response】
+code: 0
+answer: Video events may be recorded on a card or on the cloud. The card record will be used by default; to use the cloud record function simultaneously, you must activate it first. When it comes to storage methods:
+
+1. **Card Recording**: Video events are recorded on a local SD card, specifically, the 32GB memory of the HomeBase device. The storage is encrypted and uses circular storage, meaning older footage is automatically overwritten. These recordings can only be viewed through the Aosu App.
+
+2. **Cloud Recording**: Video events can be stored on secured cloud servers. Cloud storage offers additional services such as privacy encryption, unlimited storage space, and remote access at any time. You will have the flexibility to access your videos from anywhere with an internet connection.
+
+If you would like to access the cloud storage feature, a payment will be required. You can activate this feature by going to Settings-Cloud Recording-Activate Now-Buy in the app. All users are eligible for a 7-day free trial for the cloud storage service.
+
+
+【request】
+uuid: 4979810a-2234-4237-9a8b-34a40f6026cc
+timestamp: 1725876348540
+No.57 question: how do i get my brother to access the camer
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ea3e80ad-758c-4bb8-8de9-9281b3e0f22a
+timestamp: 1725876350468
+No.58 question: hi
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: be8318e9-704e-47f9-9ab4-1d94bbff0a4a
+timestamp: 1725876352453
+No.59 question: No se conecta mi camara
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 80636317-5567-4de5-bcf9-1c40a7625e17
+timestamp: 1725876354442
+No.60 question: Hola no puedo contactar mis dispositivos
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: eaca82e3-3f83-4a3b-ad51-1263986c8939
+timestamp: 1725876357046
+No.61 question: Live agent
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: db773a4b-b303-4200-a256-49dd28eac7b5
+timestamp: 1725876359106
+No.62 question: Agent
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: b638d7d8-eef2-4c9b-9e38-82621a63ad52
+timestamp: 1725876361154
+No.63 question: Hi
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: a0517381-1e48-40dd-8fbb-39515e660bb8
+timestamp: 1725876363111
+No.64 question: SIM card
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 140f5287-144c-4038-ba69-fdd4a8e5f167
+timestamp: 1725876365571
+No.65 question: HOMEBASE AND CAMERAS CONFIGURATION
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 7d4fa233-b263-47d7-a8e2-f5715d9e876d
+timestamp: 1725876369290
+No.66 question: The home base won’t sync
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow the steps below to isolate or fix the problemEnsure that the HomeBase is not powered offUnplug (1-2 minutes) and re-plug the HomeBaseCheck if the router can access the internet .Try also to restart the routerKindly check if the CameraHomeBase has an available firmware update. Go to CameraHomeBase settings Firmware updates, then Update.Try to reconfigure the HomeBase and the camerasIf the issue is not resolved, kindly provide us with the HomeBase's serial number-Aosu Team
+
+
+【request】
+uuid: 42d21b4c-54a9-4346-b16f-7c9802a20c7e
+timestamp: 1725876373622
+No.67 question: The serial number is attached to the wall now
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 2752b204-423a-4502-b08b-39541c7d08e7
+timestamp: 1725876375480
+No.68 question: I have two cameras
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 5fd9a185-16ea-4590-a704-3fcffd681466
+timestamp: 1725876377277
+No.69 question: HOMEBASE AND CAMERAS CONFIGURATION
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 8a60dc3e-161d-4744-bfe1-946a7ea8d591
+timestamp: 1725876382521
+No.70 question: The camera is on but the home base won’t connect
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow the steps below to isolate or fix the problem:
+
+1. Check the power source: Ensure that the camera is properly connected to a power source and that the power supply is working correctly.
+2. Check the Wi-Fi connection: Ensure that your Wi-Fi network is stable and that the camera is within range of the router. Move the camera closer to the router or HomeBase to see if it improves the connection.
+3. Restart the camera: Try unplugging and re-plugging it from the power source, wait for a few seconds, and try again. This can help refresh the connection.
+4. Reconfigure the camera: If the issue persists, you can try resetting the camera to its factory settings. Remove the camera from the app and add it back.
+5. Check for firmware updates: Go to Camera Settings > Firmware updates, then Update.
+
+If none of these steps resolve the issue, please provide more details about the problem, such as any error messages you're seeing or specific behavior of the camera when the HomeBase won't connect. This will help us further investigate the problem for further assistance. Rest assured we will help you sort this out.
+
+-Aosu Team
+
+
+【request】
+uuid: 363f3eb5-39d7-4cee-a817-f157ba482115
+timestamp: 1725876384510
+No.71 question: Why is it saying the device is offline
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 7a86528f-5419-43b8-a470-fddfe0f67071
+timestamp: 1725876389627
+No.72 question: I follow all the steps to add a device and when it gets to connecting , it just stays there
+【response】
+code: 0
+answer: Thank you for reaching out to AOSU Technical Support. If you have followed all the steps to add a device and it gets stuck at the connecting stage, please ensure that the camera is close to the router for a strong and stable Wi-Fi connection. 
+
+Here are some additional steps you can try:
+1. Turn off mobile data and airplane mode on your phone.
+2. Double-check that you are using a 2.4GHz Wi-Fi network.
+3. Confirm you have entered the correct Wi-Fi password without any extra spaces.
+4. Reset the camera by pressing and holding the SYNC button for 10-20 seconds until you hear a beep and see the green light flashing.
+5. Make sure to scan the QR code generated in the app correctly and listen for a beep and see the red light flashing quickly.
+
+After performing these steps, check if the indicator light on the camera changes from red to blue. If you are still facing issues, please provide more details about the problem you are experiencing so we can assist you further.
+
+-AOSU Team
+
+
+【request】
+uuid: 8115b091-5ffb-47c1-829b-57ad651f5350
+timestamp: 1725876391980
+No.73 question: Just received my security camera and the charging port plug that make it water resistant is missing
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 5e641263-811b-48f3-b291-d8952f5d408e
+timestamp: 1725876393964
+No.74 question: can i get a log in history
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: b214370d-2052-4714-9c18-38710acd66c2
+timestamp: 1725876398688
+No.75 question: NETWORK CONFIGURATION FAILED
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow the steps below to isolate and fix the problem:
+
+1. Check the Wi-Fi frequency (2.4GHz or 5GHz):
+   - Only C2E and C4L models support 5GHz. If unsure, check your router settings or contact your internet service provider for assistance. If on 5GHz, pause the 5G WiFi first, then configure again. Alternatively, request to split the WiFi into two channels 5GHz and 2.4GHz.
+  
+2. Additional Steps:
+   - Ensure the camera is in pairing mode by pressing and holding down the RESET button until a blue light flashes.
+   - Check router internet connection stability.
+   - Ensure no significant distance between camera and router affecting signal strength.
+   - Consider using a WiFi extender if needed.
+
+If the issue persists, consider these troubleshooting steps. If you need further assistance, feel free to reach out to us.
+
+-Aosu Team
+
+
+【request】
+uuid: fdfe086a-b162-48ef-bf6c-a1f32111311d
+timestamp: 1725876400887
+No.76 question: already did
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f9b650b8-9a83-4da0-9265-58b90186fdc3
+timestamp: 1725876404983
+No.77 question: I need to connect my 2nd camera
+【response】
+code: 0
+answer: Thank you for reaching out! To add your second camera to the app, you can follow these steps:
+1. Open the Aosu app.
+2. Click on the "+" icon to add new devices.
+3. Tap "Ready to Scan."
+4. If you cannot find the QR code, select "Can't Find QR Code? Manually Add Here."
+5. Scroll down and choose the model of your camera.
+6. Add the serial number of your HomeBase.
+7. Turn on the new camera you want to add and follow the on-screen instructions.
+
+If you need further assistance, feel free to let us know!
+
+
+【request】
+uuid: 27f8fbb6-d57c-4c0b-9651-3f700fc71b76
+timestamp: 1725876407044
+No.78 question: cashier center not working
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 3bd43827-89a0-4791-9c31-47d8d75439e4
+timestamp: 1725876409937
+No.79 question: Where is the motion sensitivity at in the app
+【response】
+code: 0
+answer: You can find the motion sensitivity setting in the app under the camera's settings. Just navigate to Motion Detection and adjust the sensitivity level to 'Far'.
+
+
+【request】
+uuid: 35f96b30-b554-4f37-8269-25a997afe446
+timestamp: 1725876411976
+No.80 question: Hi why doesn’t the camera follow me or detect me
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 1dfe54f1-a198-44c6-ad14-cf801b2f3191
+timestamp: 1725876413981
+No.81 question: How to connect the iPhone to doorbell camera
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: b4f0210f-9e26-44e7-8fa8-de4c03f71d3c
+timestamp: 1725876417354
+No.82 question: THE DOORBELL CAMERA WON'T SCAN THE QR CODE
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow these steps to isolate the problem:
+
+1. Adjust the distance between the camera lens and the QR code on your phone.
+2. Ensure that the screen brightness is neither too dark nor too bright.
+3. Place the phone screen horizontally about 10-15cm in front of the camera and slowly move it away at a distance of 10-15cm. Once scanned successfully, you will hear a "beep" sound.
+
+Reminder: Make sure to show the FULL PICTURE of the QR code as shown below:
+WRONG
+CORRECT
+
+
+【request】
+uuid: 2591cd7e-5b47-4d5a-ac7e-1cada512070a
+timestamp: 1725876420960
+No.83 question: I can not get my camera to read my qr code
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Kindly follow these steps to isolate the problemKindly adjust the distance between the camera lens and the QR code on your phone.Ensure that the screen brightness is not too dark nor too bright.Try placing the phone screen horizontally about 10-15cm in front of the camera and slowly move it away at a distance of 10-15cm. Once scanned successfully, you will hear a "beep" sound.REMINDER Make sure to show the FULL PICTURE of the QR code as shown below WRONG CORRECT
+
+
+【request】
+uuid: 93747af9-1520-4abb-96ee-7e507257eabf
+timestamp: 1725876422988
+No.84 question: Ok
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ef978b7a-fe22-44a3-a9ac-3ed57dd7952a
+timestamp: 1725876425016
+No.85 question: Hi there
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ff5b72d5-555a-423f-9614-5eb578e9f37f
+timestamp: 1725876427068
+No.86 question: Positioning solar collector
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 44bc8c28-6c12-426d-8e68-21df904ff5f1
+timestamp: 1725876429401
+No.87 question: Can I have recommendations for settings on a camera? It is using too much battery
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 0490102d-08b4-4a4f-a4c3-c929b7270c33
+timestamp: 1725876434065
+No.88 question: One of my cameras consume power too quick
+【response】
+code: 0
+answer: The battery life of the camera after one charging is typically several months under normal use. However, several factors can affect the battery life, leading to frequent charging. Some reasons include:
+
+- **Local weather**: Charging efficiency of lithium-ion batteries is low when the temperature drops below 40°F / 4°C. 
+- **High activity levels**: Frequent triggers such as vehicles and passers-by can lead to more events being captured, reducing battery life.
+- **Excessive live video streaming**: Watching live video for extended periods can drain the battery faster.
+- **Intense activities**: Adjusting the detection sensitivity to capture more events can increase the frequency of battery usage.
+
+If you experience frequent battery drainage, consider the factors mentioned above and adjust settings as needed to optimize battery life.
+
+
+【request】
+uuid: 380efca4-97be-43d8-9424-c9e47ee66e64
+timestamp: 1725876437957
+No.89 question: Having a hard time with the cameras reading the bar code on my phone to add the new device
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow these steps to isolate the problem:
+
+1. Adjust the distance between the camera lens and the QR code on your phone.
+2. Ensure that the screen brightness is not too dark or too bright.
+3. Place the phone screen horizontally about 10-15cm in front of the camera and slowly move it away at a distance of 10-15cm. Once scanned successfully, you will hear a "beep" sound.
+
+REMINDER: Make sure to show the FULL PICTURE of the QR code as shown below. "WRONG" - CORRECT
+
+If you encounter any further issues, feel free to reach out for more assistance.
+
+
+【request】
+uuid: 18c9d912-859e-4172-8df7-8ad2de73b4c2
+timestamp: 1725876439901
+No.90 question: where is the card slot?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 5f48ea25-5b8a-407a-be71-ffb791f7f836
+timestamp: 1725876442445
+No.91 question: where does sd card go in the video doorbell?
+【response】
+code: 0
+answer: Thank you for reaching out. To insert the SD card into the video doorbell, ensure that the gold contacts on the SD card are facing downward. Press the SD card in until you hear an audible click, indicating that it is securely inserted.
+
+
+【request】
+uuid: b13d8429-2bc7-40de-9628-ef2ede73abf3
+timestamp: 1725876444605
+No.92 question: Yes  I going to check today
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 73e6e9b0-39d8-46a9-93ad-c6259b221101
+timestamp: 1725876446573
+No.93 question: Okay
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 3f36a75e-972c-4a66-af4a-e5518e2c07bc
+timestamp: 1725876448726
+No.94 question: Okay they not going to the battery problem
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 01387044-34c6-48c3-87d5-2a95b78e983b
+timestamp: 1725876450800
+No.95 question: Vv8p1ah110079798
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: b8b32647-8520-41bd-9265-b1937968c73c
+timestamp: 1725876454638
+No.96 question: Fully charged won’t turn on
+【response】
+code: 0
+answer: Kindly follow the steps below to isolate and if not, fix the problem:
+- Check if the camera has available firmware updates. If it's not running the latest firmware, it may not be able to communicate with the Solar Panel properly.
+- Make sure to use the cable included in the package to charge the camera.
+- Ensure the cable connection is firm.
+- Use a 5V 1A power adapter.
+- Unplug and re-plug the adapter from the power source and check if the red light under the camera lens is on.
+- Try using a different adapter and cable to charge the camera.
+- If the camera is Solar-Powered, try using the solar panel to recharge another device to isolate the problem.
+- If the issue persists, kindly send us a short video showing the problem.
+
+
+【request】
+uuid: 41ae87b8-f8b8-4454-840e-4f92473bb96d
+timestamp: 1725876456439
+No.97 question: Couldn't get charged
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 1b8b6194-dcc6-454a-9000-416913128ef6
+timestamp: 1725876458552
+No.98 question: Hi…
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 09566426-ffcf-4d7e-b728-4bf0031465dc
+timestamp: 1725876461477
+No.99 question: Calling your US number and no answer!!!
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Feel free to contact our phone support team at 1 866-905-9950 from 9 AM to 5 PM (Daily). If in any case your call won't go through or nobody is answering your call, please dial again or wait for a callback within the day. Rest assured we're always here to help you sort things out.-Aosu Team
+
+
+【request】
+uuid: 9f31ae8e-8979-4c3f-912c-3ba333bd1d03
+timestamp: 1725876463420
+No.100 question: what does the back of the doorbell look like
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 80aa8fd0-1ce4-459f-b829-eafb005284ad
+timestamp: 1725876466160
+No.101 question: how to view 24/7 footage
+【response】
+code: 0
+answer: Thank you for reaching out! If you are looking to view continuous 24/7 footage, it is important to note that Battery-Powered cameras and doorbells do not support continuous recording. These cameras only record events triggered by motions. For continuous recording capability, you may want to consider our Power-Plug cameras, which may offer settings for "all-day recording" or "24/7 recording". Let me know if you need further assistance.
+
+
+【request】
+uuid: ec34aeb5-57eb-4824-a522-aefe5334e6a9
+timestamp: 1725876468063
+No.102 question: if the battery draines when camera receives power does it turn ON automatically?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 6cf5982a-1b21-42dc-8efb-77e6cccd53e5
+timestamp: 1725876470492
+No.103 question: C6p2ah110059577
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 4bfa635f-cfbd-4c46-bf2e-fa51d8a1c639
+timestamp: 1725876472772
+No.104 question: Cameras are down
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: d14fd745-3e3d-4eb6-a03f-72f44f0eb050
+timestamp: 1725876474924
+No.105 question: How to change payment
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 81736174-c4ff-4c7b-80e9-3170e0d315d7
+timestamp: 1725876476869
+No.106 question: I need help with payment
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: a2b3d361-2957-4285-b668-b586a78d3eae
+timestamp: 1725876478028
+No.107 question: "I paid 69
+【response】
+code: 0
+answer: ""
+
+
+【request】
+uuid: f9446587-d1cd-4369-add9-fc456cac8ad4
+timestamp: 1725876479231
+No.108 question: says that I only have 7days and it's not paid! can someone please help?"
+【response】
+code: 0
+answer: ""
+
+
+【request】
+uuid: 471e831d-cd57-4ade-b280-cabbedb6f086
+timestamp: 1725876481171
+No.109 question: my cameras aren't working
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: b4482970-d259-4b8f-8494-a1f726feb0a5
+timestamp: 1725876483494
+No.110 question: C2e2bh110186620
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 0223ff5e-9285-4c1c-8d9e-297cc41e987f
+timestamp: 1725876485586
+No.111 question: I set my camera up now it won’t connect
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: a88c0670-ea12-43a4-be03-c98acdfefa10
+timestamp: 1725876487509
+No.112 question: My camera is not following me
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: c31e76b0-198d-4f4b-b266-836410d873fa
+timestamp: 1725876489330
+No.113 question: i just got charged for my cloud storage
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: c03fe5d3-dd50-4e96-902a-68b91605a3db
+timestamp: 1725876491308
+No.114 question: Scheduled recording solar cameras
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 0c7746d2-8083-4244-b2bf-8e391f3b8494
+timestamp: 1725876493269
+No.115 question: Scheduled recording
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f8221ac7-fca9-40e5-b41f-56d45422e342
+timestamp: 1725876496309
+No.116 question: Can I extend the recording video time?
+【response】
+code: 0
+answer: Thank you for contacting AOSU Technical Support! Please be advised that for Battery-Powered cameras, there is no option to extend the recording video time. The recording duration is set and cannot be modified. If you require longer videos, you may consider our Power-Plugged cameras, which offer different recording options. If you have any further questions or need assistance, feel free to ask.-AOSU Team
+
+
+【request】
+uuid: 9fdee7ef-588a-4669-bd1f-96c831224a45
+timestamp: 1725876498196
+No.117 question: Timed recording?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: ed64cce5-0627-4112-9389-3acf47b0801a
+timestamp: 1725876500158
+No.118 question: Purchase same item again
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 6c18c61f-1181-4865-a6ef-e21314f1cab9
+timestamp: 1725876502268
+No.119 question: Hi I’m signed up to my camera system why it’s signing me out every day
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: e9a625e7-8b85-4f46-afc1-d5aa3f793c98
+timestamp: 1725876505035
+No.120 question: What kinda of cameras do I have?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: dcbba397-a913-49ee-a15e-20bcb3322f9b
+timestamp: 1725876507010
+No.121 question: will a aosu doorbell ultra work with a solar cam set base?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 30bc557d-460f-4e03-b74a-45689440f8ea
+timestamp: 1725876509552
+No.122 question: I will contact you tomorrow
+【response】
+code: 0
+answer: Thank you for reaching out. If you have any questions or need assistance, feel free to contact us at 1 866-905-9950, from 9 AM to 5 PM (Daily). Our team is here to help you. Have a great day!
+
+
+【request】
+uuid: 9a6c70ee-a713-48c8-995e-015706b8480a
+timestamp: 1725876512562
+No.123 question: Home Base
+【response】
+code: 0
+answer: The outdoor cameras with HomeBase have a built-in memory of 32 GB while the Video Doorbell Ultra's HomeBase has an 8 GB built-in memory. Unfortunately, we currently do not sell the HomeBase alone, it is only available in a package with cameras. If you have any further questions or need assistance, feel free to ask!
+
+
+【request】
+uuid: c4f08a30-7e6f-4e72-9075-ecb08130a027
+timestamp: 1725876515883
+No.124 question: Are you available now???
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Feel free to contact our phone support team at 1 866-905-9950 from 9 AM to 5 PM (Daily). If in any case your call won't go through or nobody is answering your call, please dial again or wait for a callback within the day. Rest assured we're always here to help you sort things out. -Aosu Team
+
+
+【request】
+uuid: b3656f9e-cb6b-4bd2-afcd-e1db3bb1df5f
+timestamp: 1725876518104
+No.125 question: Set sensitivity
+【response】
+code: 0
+answer: You can click in camera’s setting -- motion detection -- set the motion detection sensitivity to ‘Far’ level.
+
+
+【request】
+uuid: 9400fefd-4a7c-46ad-9d0b-c429dccf2783
+timestamp: 1725876520024
+No.126 question: UNABLE TO ADJUST SENSITIVITY
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 5b5f2498-f150-4f44-93cd-0cf05f0cabea
+timestamp: 1725876522415
+No.127 question: HOW MANY CAMERAS CAN BE ADDED TO THE APP?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! There are no limits to the number of cameras you can add to the Aosu app.
+
+
+【request】
+uuid: 8b162a75-3292-451c-8881-5aee205875c3
+timestamp: 1725876524477
+No.128 question: HOW MANY CAMERAS CAN BE ADDED TO A HOMEBASE?
+【response】
+code: 0
+answer: Unfortunately, the Homebase can only support up to 4 cameras with the same models or supported models.
+
+
+【request】
+uuid: 5164403a-da6d-4290-87f7-5a91f68480e5
+timestamp: 1725876526893
+No.129 question: On your storage coverage what do you mean when it says cover one device does it only cover one camera?
+【response】
+code: 0
+answer: When it mentions covering one device, it refers to one camera. Each storage plan typically covers a single camera. If you have multiple cameras, you may need a separate storage plan for each one.
+
+
+【request】
+uuid: 5c7202b7-91cf-4e1f-808d-274d15335aaf
+timestamp: 1725876529766
+No.130 question: How much is it for 4 cameras per month
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 64b9c92d-9e82-45c8-a93f-afcbd6b6c251
+timestamp: 1725876531759
+No.131 question: Hi! Is there audio detection?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 378c4a21-0cc3-46d7-a646-4729b589b149
+timestamp: 1725876533702
+No.132 question: I can not play back the recording video or access the live stream
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: d2b196aa-1bbf-4a09-8a21-6a1dc9005e04
+timestamp: 1725876535734
+No.133 question: I bought cloud and it is not showing up on my aosu
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 4e0769d6-09b1-4330-984a-57f75fe78cbe
+timestamp: 1725876537641
+No.134 question: Rest
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: deff913b-750f-4ec6-8c89-9096a88977b4
+timestamp: 1725876539649
+No.135 question: How do I reset my doorbell camera
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 6a3b7dd3-d39c-4700-ba54-f83d068e8281
+timestamp: 1725876541655
+No.136 question: homebase will not connect to wifi
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 60a0cfd2-2a4f-4a6b-8536-c447db798707
+timestamp: 1725876543843
+No.137 question: cannot connect WiFi to base
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: e80b0481-80d9-4a18-95de-0a31be7ec6dc
+timestamp: 1725876545982
+No.138 question: I am having problems adding another device to my account
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 5c42eb36-e012-459d-98f1-c9d02cbbfc93
+timestamp: 1725876548243
+No.139 question: HOMEBASE AND CAMERAS CONFIGURATION
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 6d9d5021-813a-4a0d-8c2a-7f1314ec48dd
+timestamp: 1725876552850
+No.140 question: cannot connect to base
+【response】
+code: 0
+answer: Thank you for reaching out to us. To troubleshoot connection issues with the base, please follow the steps below:
+
+- Check if the base (HomeBase) is powered on and connected to a power source.
+- Ensure that the LAN cable is properly connected to the base.
+- Confirm that the device running the AOSU app is connected to the same Wi-Fi network as the base.
+- Make sure the AOSU app has permission to detect surrounding devices.
+
+If you continue to experience issues, please consider the following additional steps:
+- Check the router settings and ensure DHCP is configured.
+- Ensure that the MAC white list is not enabled on the router.
+- Verify that AP isolation is not enabled on the router.
+
+If the problem persists, you may also reach out to your Internet Service Provider for further assistance.
+
+For further support, please contact us through the AOSU app online service. Thank you for choosing AOSU.
+
+
+【request】
+uuid: 137514f8-e0ee-493d-89a6-b1989c48d546
+timestamp: 1725876554899
+No.141 question: having problems, base cannot find devices
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 742c27c3-aa56-409a-84eb-e009c8c13f65
+timestamp: 1725876560018
+No.142 question: my product won't connect to internet
+【response】
+code: 0
+answer: Thank you for reaching out to Aosu Technical Support! Kindly follow the steps below to isolate and fix the problem with your product not connecting to the internet:
+
+Check the Wi-Fi frequency (2.4GHz or 5GHz). Only C2E and C4L models support 5GHz. If unsure, check your router settings or contact your internet service provider for assistance.
+If the network is not on 2.4GHz, pause the 5GHz wifi first, then configure again or contact your network provider to split the WiFi into two channels 5GHz and 2.4GHz.
+Ensure that the camera is in pairing mode before attempting network configuration by pressing and holding down the RESET button for at least 5 seconds until a blue light starts flashing.
+Check if the router has a stable internet connection by verifying if other devices can access the internet successfully.
+Check if there is significant distance between the camera and the router, which could impact signal strength and connectivity. Consider moving either device closer or using a WiFi extender if necessary.
+
+If the issue persists, please check for the HomeBase disconnection:
+
+Check if HomeBase is powered off.
+Ensure your router has access to the Internet successfully.
+Try restarting the router.
+
+If you have any further questions or need additional assistance, feel free to reach out. We are here to help!
+
+
+【request】
+uuid: 2c5fba31-7551-45f6-be01-68c1278f01ae
+timestamp: 1725876563068
+No.143 question: Can it record 24 hours?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! 
+
+Please be advised that Battery-Powered cameras and doorbells do not support continuous recording and cannot record 24 hours. These cameras only record events triggered by motion. If you need a camera that can record continuously for 24 hours, you may want to consider our Power-Plug cameras. You can check the settings for "all-day recording" or "24/7 recording" on the Power Plug camera.
+
+-Aosu Team
+
+
+【request】
+uuid: cddb2369-9114-4e70-bc7f-d29095715c4b
+timestamp: 1725876565016
+No.144 question: Illumination light is not turning off remain on continuously
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 8b0dcfb5-2c65-433e-92b5-d9e5dfbadb5f
+timestamp: 1725876568461
+No.145 question: HOW TO CHANGE THE DATE/TIME/LANGUAGE
+【response】
+code: 0
+answer: Please be advised that the app is synced to the phone's Date/Time/Language. If you wish to change these details, directly change them in the phone's settings.
+
+
+【request】
+uuid: db5b351c-4511-41da-8d2b-2eda98c8679a
+timestamp: 1725876571765
+No.146 question: HOW TO ACCESS THE RECORDINGS?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! To access your camera's recordings, open the Aosu app, go to the Events tab, and select either Cloud (if you have an active cloud storage plan) or Local (if you have an SD card installed or your camera has the HomeBase). -Aosu Team
+
+
+【request】
+uuid: 00d8da03-e57b-43e5-ac58-5d9913219f1c
+timestamp: 1725876573462
+No.147 question: Couldn't get charged
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 3ead5435-f92e-41a2-8018-1efd5ac14bf6
+timestamp: 1725876576815
+No.148 question: solar camera stopped self charging
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! For us to better assist you, kindly answer the following questions:
+1.) What is the current temperature in the area where the camera is installed?
+2.) Does the solar panel have direct heat from the sun?
+3.) Is there something blocking the solar panel from receiving heat from the sun?
+4.) Have you already tried charging the camera using a different charging cable?
+-Aosu Team
+
+
+【request】
+uuid: f60170e8-2f7f-4368-a9e9-d2bd4e28e53f
+timestamp: 1725876579607
+No.149 question: Can I extend the recording video time?
+【response】
+code: 0
+answer: Thank you for reaching out to AOSU Technical Support! Please note that for AOSU Battery-Powered cameras, there is no option to extend the recording video time. The recording duration is fixed and cannot be changed. If you are looking for longer recordings, you may consider exploring AOSU Power-Plugged cameras that offer different recording options. If you have any further questions or need assistance, feel free to ask. AOSU Team.
+
+
+【request】
+uuid: 3525c1a8-9bb7-4f72-b988-c07263b0e0dc
+timestamp: 1725876581578
+No.150 question: Hi how do you make the camera record longer than 8 sec
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 32bf7387-ffec-4572-8170-e4ee52e2609e
+timestamp: 1725876583518
+No.151 question: Is there other chimes
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f8bfc196-f0ff-43a2-934b-99611d54eee6
+timestamp: 1725876585389
+No.152 question: Couldn't get charged
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 59dca8c5-3c49-4b7e-9f8e-c046a4dac109
+timestamp: 1725876588316
+No.153 question: My camera isn’t saying hello when I start it up
+【response】
+code: 0
+answer: If the camera fails to say "hello" when starting up, it could indicate that the camera is not receiving sufficient power to complete the setup. To resolve this issue, please ensure that the camera is charged for 4-6 hours using the USB cable provided in the package. This should provide enough power for the camera to complete the startup process successfully.
+
+
+【request】
+uuid: d131dd1c-82ed-45b0-bb70-69f325d20d9f
+timestamp: 1725876590342
+No.154 question: Connect to WiFi
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 11fa534f-1b61-4ac2-8f64-f89e0fe61ea8
+timestamp: 1725876592381
+No.155 question: can the image from  my camera be watched with a Roku or SONY bravia smart tv?
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 2c48bcd1-c9de-4add-93a9-d19bd6eae377
+timestamp: 1725876594768
+No.156 question: W8P1AH110101781
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: d395fd19-5602-4791-9fa2-87c892131de9
+timestamp: 1725876596986
+No.157 question: devices connected but keeps saying offline
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: b7bfc088-6b9e-4d37-9313-fd48e1695336
+timestamp: 1725876599035
+No.158 question: HOW MANY CAMERAS CAN BE ADDED TO A HOMEBASE?
+【response】
+code: 0
+answer: Unfortunately, the Homebase can only support up to 4 cameras with the same models or supported models. -Aosu Team
+
+
+【request】
+uuid: 860e31fc-8da7-459d-aff9-7883ee80b70a
+timestamp: 1725876602207
+No.159 question: if I get  2 more cameras can I include them on this plan
+【response】
+code: 0
+answer: Thank you for reaching out to Aosu Technical Support! Unfortunately, the Homebase can only support up to 4 cameras with the same models or supported models. If you wish to add 2 more cameras, you may need an additional Homebase for connection as each Homebase can support up to 4 cameras. If you require further assistance, feel free to let us know!
+
+
+【request】
+uuid: 93c245e9-2e1b-4d17-bf65-872df7497598
+timestamp: 1725876607739
+No.160 question: HOW TO MANUALLY ADD THE VIDEO DOORBELL CAMERA TO THE APP?
+【response】
+code: 0
+answer: Thank you for reaching out to Aosu Technical Support! To manually add the video doorbell camera to the app, kindly follow these steps:
+
+1. Unplug the HomeBase and ensure it is close to the router with the camera (within 2 feet is recommended).
+2. Open the Aosu app and tap on the "+" icon or Add Devices.
+3. Tap "Ready to Scan" and then select "Can't Find QR Code? Manually Add Here."
+4. Choose "Video Doorbell Pro - V8P Ultra-V8S" based on your model.
+5. Connect to the appropriate WiFi network (2.4GHz for V8P, 2.4GHz or 5GHz for V8S).
+6. Plug in the HomeBase and wait for the light to turn GREEN, then tap "Continue."
+7. Follow the on-screen instructions to sync the HomeBase and the doorbell camera.
+8. Once successful, you can start using the video doorbell camera on the app.
+
+For more details, you can refer to the video tutorials on how to configure the camera:
+- For Video Doorbell Pro: [Link](https://youtu.be/szPCwvTS3k?si=FoKZGsbZHyGdsm5i)
+- For Video Doorbell Ultra: [Link](https://youtu.be/5jOIeVe5ijw?si=5PPa-fDzZzEh5U)
+
+Let us know if you need further assistance. Thank you for choosing Aosu!
+
+
+【request】
+uuid: 3157ee05-cd63-45ed-94ac-e45a21022550
+timestamp: 1725876610517
+No.161 question: How do I install a video doorbell device on this app
+【response】
+code: 0
+answer: Thank you for your inquiry! To install a video doorbell device on the AOSU app, please tap on the "+" sign at the upper right corner of the screen. Then, follow the on-screen instructions after tapping the plus sign to add the device. If you encounter any issues during the installation process, feel free to reach out to us for further assistance.
+
+
+【request】
+uuid: 2872a360-d382-4680-99d0-28f098ef7fa1
+timestamp: 1725876612615
+No.162 question: My Wi-Fi won’t show up for connecting
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: cb875d31-d8d5-4ce9-812a-ad66c1c53b50
+timestamp: 1725876614685
+No.163 question: The box says that it is free
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: e8e76945-8da5-4da2-9e8d-049a8bdd1744
+timestamp: 1725876616407
+No.164 question: Hi
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f0be0602-37fa-4593-8904-29b21aa674e6
+timestamp: 1725876618903
+No.165 question: Z u
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: a626303b-ec83-4cc1-aa47-6f08fa5b16ae
+timestamp: 1725876621253
+No.166 question: HOW MANY USERS CAN LOGIN TO THE SAME ACCOUNT SIMULTANEOUSLY?
+【response】
+code: 0
+answer: The Aosu app allows up to 3 users to log in simultaneously using the same login credentials.
+
+
+【request】
+uuid: 0a9e1240-f551-4b62-a2c2-7130bbcdc0b0
+timestamp: 1725876624942
+No.167 question: Hi my homebase has been offline for two days and I can’t figure out why
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Kindly follow the steps below to isolate or fix the problem:
+1. Ensure that the HomeBase is not powered off.
+2. Unplug the HomeBase for 1-2 minutes and then re-plug it.
+3. Check if your router has access to the internet. You may also try restarting the router.
+4. Verify if your CameraHomeBase has an available firmware update. Go to CameraHomeBase settings -> Firmware updates -> Update.
+5. Try to reconfigure the HomeBase and the cameras.
+
+If the issue persists after following these steps, please provide us with the serial number of your HomeBase for further assistance.
+-Aosu Team
+
+
+【request】
+uuid: 1f92f51b-3b6f-4990-abc6-978b2255fabd
+timestamp: 1725876629451
+No.168 question: Thank you
+【response】
+code: 0
+answer: Hello,Thank you for patronizing our products! We are a company dedicated to providing excellent products and services to our customers. We continue to strive to improve what needs improving and we're committed to helping our customers. Please don't hesitate to contact us again should you have other concerns. All the best, The Aosu Team
+
+
+【request】
+uuid: 0d71bcec-d864-4243-ab04-e691c8e66682
+timestamp: 1725876631572
+No.169 question: Hello, do you have any recommendations for a pole to use with the cameras? This is D1 classic kit
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 17d297a1-995c-4d91-9508-a580d4a16c85
+timestamp: 1725876633615
+No.170 question: United states
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 81534429-6540-495a-956e-9059654723c5
+timestamp: 1725876635798
+No.171 question: �
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 26b83d6b-33d1-4060-9c2e-81b238d7a88e
+timestamp: 1725876637785
+No.172 question: VV8p1ah110091228
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 4b684662-0dde-45cd-91f6-9da95c21a718
+timestamp: 1725876639731
+No.173 question: Can you please cancel the 6
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 3511dea5-e10b-4fad-ae7b-c98dbd57752f
+timestamp: 1725876641943
+No.174 question: Home base light will not turn solid blue
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 51f44e0d-a731-4dbf-930b-487ce108276c
+timestamp: 1725876646727
+No.175 question: Won’t connect to my router
+【response】
+code: 0
+answer: Thank you for reaching out to Aosu Technical Support! Kindly follow the steps below to troubleshoot the issue with connecting your device to your router:
+
+1. Check the Wi-Fi frequency (2.4GHz or 5GHz). Note that only specific models support 5GHz. If unsure, verify your router settings or contact your internet service provider for assistance.
+2. Ensure the device is in pairing mode before configuring the network by pressing and holding the RESET button until a blue light flashes.
+3. Verify that the router has a stable internet connection and other devices can access the internet successfully.
+4. Check for any significant distance or obstacles between the device and router that may impact signal strength. Consider moving closer or using a Wi-Fi extender if needed.
+
+If the issue persists, please try pausing the 5GHz Wi-Fi network or contact your network provider to split the Wi-Fi channels into 2.4GHz and 5GHz to allow the device to connect correctly.
+
+If you encounter any further challenges, feel free to contact your internet service provider for additional assistance.
+
+-Aosu Team
+
+
+【request】
+uuid: d590f09b-0e9f-44bd-8bd9-1db493949aee
+timestamp: 1725876648815
+No.176 question: Where is the spot on the camera
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 799f1e2f-da52-47b5-be9c-b1c1b5bae2ed
+timestamp: 1725876650982
+No.177 question: How
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 722bc39a-2a3a-44eb-937c-80e307e38235
+timestamp: 1725876653744
+No.178 question: Where do I inset the SD card for recording
+【response】
+code: 0
+answer: Thank you for reaching out to Aosu Technical Support! To insert the SD card for recording, locate the card slot on the camera. Ensure that the gold contacts on the SD card are facing down. Carefully insert the SD card into the slot until you hear an audible click, indicating that the card is securely inserted. If you need further assistance, feel free to contact us.
+
+
+【request】
+uuid: c5984a71-6830-4231-bd21-64fdeb8ff674
+timestamp: 1725876656733
+No.179 question: is there a way to delete all vs day to day?
+【response】
+code: 0
+answer: Thank you for your question. To delete all recorded videos instead of day by day, you can follow these steps based on Aosu's guidelines:
+
+1. For deleting single event videos: Click on Settings -> Edit Mode -> Choose Event -> Delete.
+2. For deleting 24 hours recorded videos: Click on Settings -> About Device -> Format the SD card. (Please note that shared accounts cannot delete events)
+
+If you have any more questions or need further assistance, feel free to let me know!
+
+
+【request】
+uuid: dcae187f-bbb5-465d-a8c7-97f187354f2e
+timestamp: 1725876659899
+No.180 question: CAN I PURCHASE AN EXTRA SOLAR PANEL FOR THE CAMERA?
+【response】
+code: 0
+answer: Please be advised that our battery cameras use a charger supporting 5V1A-2A. You may use or purchase any solar panel from Amazon or any store as long as it meets your camera's input requirements (3W, 5W, or 6W).
+
+
+【request】
+uuid: 37e5f409-4e4a-48b6-b188-e57f7e71cd5c
+timestamp: 1725876661974
+No.181 question: Hello! Do you sell the solar on its own
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 2a88e60b-aeba-42a4-8621-eb67e2ae521a
+timestamp: 1725876663921
+No.182 question: Why doesn’t the camera pick up the motion earlier
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: 28efef62-414a-497d-a298-45d00e39b101
+timestamp: 1725876666927
+No.183 question: Cancel subscription
+【response】
+code: 0
+answer: Please follow the steps below to cancel your subscription:
+1. Open the Aosu app
+2. Click on 'Settings'
+3. Select 'Cloud Recording'
+4. Choose 'My Service'
+5. Select the service you wish to unsubscribe from
+6. Click on 'Unsubscribe'
+7. Confirm by clicking 'OK'
+
+If you need further assistance, feel free to reach out.
+
+
+【request】
+uuid: 0c970840-2c19-401f-9dda-b5e2b0fb8a44
+timestamp: 1725876671091
+No.184 question: Local storage viewing
+【response】
+code: 0
+answer: You can view the locally stored videos on the Aosu App. This ensures your privacy as the videos can only be viewed on your device. Additionally, you can download the video to your phone's photo album through the "Event - Cloud Record / Card Record" section in the app for easier viewing.
+
+
+【request】
+uuid: a9c81fd4-d7d1-415a-b583-d7747fdf73f0
+timestamp: 1725876673889
+No.185 question: HOW TO INSTALL THE CAMERA TO A SECOND PHONE/DEVICE?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support!Feel free to download and install the Aosu app on the second phone and log in using the same email address and password you used on the first phone. There's no need to configure the camera separately for the second phone anymore to add it.-Aosu Team
+
+
+【request】
+uuid: 10caa80f-e9a4-49f9-b53e-c8625f7529d2
+timestamp: 1725876677437
+No.186 question: WHAT'S THE LOCAL STORAGE CAPACITY?
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! The local storage capacity for the AOSU cameras varies depending on the model. Some models have built-in storage ranging from 8GB to 32GB, while others support removable TFSD cards for memory expansion up to 128GB or 512GB. If the memory card is built-in, it cannot be upgraded, but for models with removable cards, you can upgrade the storage capacity. Let us know if you have any other questions or concerns. -Aosu Team
+
+
+【request】
+uuid: 2487f8da-4cfe-429e-8fa4-05018ce14698
+timestamp: 1725876680155
+No.187 question: local storage
+【response】
+code: 0
+answer: Hello, for local storage, our cameras come equipped with built-in memory cards which typically cannot be upgraded. The amount of memory provided varies depending on the model, with some supporting external SD cards for expandable storage. If you have specific requirements or would like more details on a particular model, please provide further information. Thank you!
+
+
+【request】
+uuid: 941a2629-07db-4759-909c-e54080dcd3ee
+timestamp: 1725876682587
+No.188 question: recording
+【response】
+code: -1000
+answer: ""
+
+
+【request】
+uuid: 62420a3a-22db-43d7-84fa-610614fb5d83
+timestamp: 1725876685360
+No.189 question: how do I hook up the cameras to a second phone
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! Feel free to download and install the Aosu app to the second phone and login using the same email address and password (the email address and password you used on the first phone). Be advised that you need to configure the camera to the second phone anymore to add it. -Aosu Team
+
+
+【request】
+uuid: 98baea6e-5d61-4f70-9c76-36d2622d3204
+timestamp: 1725876687407
+No.190 question: how to I change the bottom button options from cloud to local storage? I was the local to be the first option to view the videos
+【response】
+code: -4
+answer: ""
+
+
+【request】
+uuid: f94f2a6e-4414-4a5c-af1e-c5176a8e2c52
+timestamp: 1725876689944
+No.191 question: I goy 4 camers and i want to add one more
+【response】
+code: 0
+answer: Thank you for contacting Aosu Technical Support! There is no limit to the number of cameras you can add to the Aosu app. You can go ahead and add the fifth camera to your existing setup without any issues. If you need further assistance during the process, please feel free to reach out to us.
+
+
