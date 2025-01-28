@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718097554137,2574,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,414,821,1,1,null,0,0,1188
+1718097554139,2572,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,414,821,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=64ed88b3-9335-4254-a453-013886c3a8a3&t=1718097554136,2571,0,1188
+1718097556718,2492,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,528,811,1,1,null,0,0,856
+1718097556718,2492,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,528,811,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=f10dad01-0aa6-4485-a804-6d890b76c0aa&t=1718097556718,2492,0,856
+1718097559215,1725,事务IM-GPT,Non HTTP response code: org.apache.http.NoHttpResponseException,,线程组 1-1,,false,,2071,0,1,1,null,0,0,0
+1718097559216,1724,IM-GPT HTTP请求,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: api-test-us.aosulife.com:443 failed to respond,线程组 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2071,0,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=6ad1ebe7-027f-416a-b743-bded327a8f17&t=1718097559215,0,0,825

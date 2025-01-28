@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718098418338,2682,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,414,821,1,1,null,0,0,1256
+1718098418339,2681,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,414,821,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=56cca49e-bc32-44cf-b074-7671b98b4df7&t=1718098418337,2680,0,1256
+1718098421023,2163,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,223,811,1,1,null,0,0,1135
+1718098421023,2163,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to be '0', but found '-4'",223,811,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=e269b5ba-83e8-4519-9eb8-bfb97c3490e8&t=1718098421023,2162,0,1135
+1718098423189,1903,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,223,820,1,1,null,0,0,847
+1718098423189,1903,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,223,820,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=d39b293c-1fae-40a5-abc0-37d49e4dd285&t=1718098423189,1903,0,847
+1718098425094,1879,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,223,785,1,1,null,0,0,824
+1718098425094,1879,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to be '0', but found '-4'",223,785,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=f7a6d8a9-42e1-4ca2-9348-320f65a90a34&t=1718098425095,1879,0,824
+1718098426975,2314,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,223,781,1,1,null,0,0,834
+1718098426975,2314,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to be '0', but found '-4'",223,781,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=98f162a6-c1f0-4393-b697-0bb97a652652&t=1718098426976,2313,0,834
+1718098429296,2157,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,223,811,1,1,null,0,0,822
+1718098429297,2156,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,223,811,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=d0a3ddd8-09c4-4f37-a346-37bb13204edf&t=1718098429295,2155,0,822
+1718098431456,1860,事务IM-GPT,200,,线程组 1-1,,false,,223,803,1,1,null,0,0,0
+1718098431456,1860,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to be '0', but found '-4'",223,803,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=60302d48-54c7-4272-b70b-82ca7da7bef9&t=1718098431456,1860,0,848
