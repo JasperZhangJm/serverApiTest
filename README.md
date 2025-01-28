@@ -1,5 +1,5 @@
 # serverApiTest
-接口功能测试和服务性能测试
+接口功能测试
 
 1、整体控件如下：
 <img width="1152" alt="image" src="https://github.com/user-attachments/assets/6730286e-9e7a-47c3-94dc-36a0360db324">
