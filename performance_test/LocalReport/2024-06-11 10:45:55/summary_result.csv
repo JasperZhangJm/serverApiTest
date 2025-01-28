@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1718073955671,30,JSR223 Sampler,200,OK,线程组 1-1,text,true,,112,0,1,1,null,,0,UTF-8,1,0,TestMandeMBP,0,0
+1718073955704,1907,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,223,821,1,1,null,,0,UTF-8,1,1,TestMandeMBP,0,975
+1718073955705,1906,IM-GPT HTTP请求,200,OK,线程组 1-1,text,false,"Value in json path '$.code' expected to be '0', but found '-4'",223,821,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=09e07505-24d3-4233-ac5b-9e1e95568534&t=1718073955670,,1905,utf-8,1,1,TestMandeMBP,0,975
