@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718161830239,2212,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,262,785,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=8f6ee87f-b510-4e4e-943c-dcbc26f02ef2&t=1718161826982,2212,0,960
+1718161830240,2284,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,223,820,3,3,https://api-test-us.aosulife.com/v1/im/getService?uuid=a179affb-daf4-42b8-be2a-5145f2b57416&t=1718161826736,2284,0,985
+1718161830240,2345,IM-GPT HTTP请求,200,OK,线程组 1-2,text,false,"Value in json path '$.code' expected to be '0', but found '-4'",223,811,2,2,https://api-test-us.aosulife.com/v1/im/getService?uuid=a0cfbb10-0900-4c54-9c65-b8cc566cf4c0&t=1718161826484,2344,0,959
+1718161830239,2575,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,414,821,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=0c8694de-6132-40c1-9622-03ec687fd5e6&t=1718161826230,2574,0,986

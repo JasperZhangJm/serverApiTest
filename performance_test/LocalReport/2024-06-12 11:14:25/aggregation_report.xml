@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="2274" it="3507" lt="0" ct="1052" ts="1718162065713" s="true" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="线程组 1-3" dt="" de="" by="223" sby="820" sc="1" ec="0" ng="4" na="4" hn="TestMandeMBP">
+  <httpSample t="2274" it="0" lt="2273" ct="1052" ts="1718162069218" s="true" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-3" dt="text" de="utf-8" by="223" sby="820" sc="1" ec="0" ng="4" na="4" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+      <failureMessage></failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin31Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2024 03:14:31 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 81
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 294
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:-4,&quot;data&quot;:[],&quot;desc&quot;:&quot;answer not found&quot;,&quot;flag&quot;:false,&quot;time&quot;:1718162071420}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;朝鲜的核武计划是否对全球安全构成威胁？&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=c36e69e2-b874-4bd6-b23a-87df3377d5ac&amp;t=1718162065713</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="2584" it="3255" lt="0" ct="1053" ts="1718162065964" s="true" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="线程组 1-4" dt="" de="" by="419" sby="785" sc="1" ec="0" ng="3" na="3" hn="TestMandeMBP">
+  <httpSample t="2584" it="0" lt="2583" ct="1053" ts="1718162069218" s="true" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-4" dt="text" de="utf-8" by="419" sby="785" sc="1" ec="0" ng="3" na="3" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+      <failureMessage></failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin31Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2024 03:14:31 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 276
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 259
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:0,&quot;data&quot;:[{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;You can unbind your camera in “Settings-Unbind Device-Unbind Now”. You can choose to clear cloud recording and card recording playback when unbinding the device.&quot;,&quot;score&quot;:0}],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:1718162071734}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;如何解绑定相机?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=f6ca0e90-c665-4e33-af4b-2cdacb4a3c83&amp;t=1718162065964</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="2637" it="4008" lt="0" ct="1059" ts="1718162065212" s="true" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="线程组 1-1" dt="" de="" by="414" sby="821" sc="1" ec="0" ng="2" na="2" hn="TestMandeMBP">
+  <httpSample t="2637" it="0" lt="2637" ct="1059" ts="1718162069218" s="true" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" de="utf-8" by="414" sby="821" sc="1" ec="0" ng="2" na="2" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+      <failureMessage></failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin31Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2024 03:14:31 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 271
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 295
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:0,&quot;data&quot;:[{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;A camera can be bound to only one account, and can be unbound by the administrator. You had better use after contacting that account owner to unbind the camera.&quot;,&quot;score&quot;:0}],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:1718162071784}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;如果相机绑定到其他人的帐户，我该怎么办?&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=df34ba82-e6bc-42af-bee0-c61992833833&amp;t=1718162065210</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+<sample t="6114" it="3756" lt="0" ct="1080" ts="1718162065463" s="true" lb="事务IM-GPT" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="线程组 1-2" dt="" de="" by="1590" sby="812" sc="1" ec="0" ng="1" na="1" hn="TestMandeMBP">
+  <httpSample t="6114" it="0" lt="6114" ct="1080" ts="1718162069218" s="true" lb="IM-GPT HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" de="utf-8" by="1590" sby="812" sc="1" ec="0" ng="1" na="1" hn="TestMandeMBP">
+    <assertionResult>
+      <name>AssertHttpStatusCodeIs200</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyCodeIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+      <failureMessage></failureMessage>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertResponseBodyIsCorrect</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>AssertContinueTimeWithin31Seconds</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2024 03:14:35 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1446
+Connection: close
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: close
+Host: api-test-us.aosulife.com
+user-agent: apache-jmeter-5.6.3
+content-type: application/json
+x-amzn-trace-id: Root=1-66500c57-2104ba3310f63c70247f48be
+x-forwarded-for: 169.53.22.185, 172.31.43.165, 127.0.0.1
+x-forwarded-host: api-test-us.aosulife.com
+x-forwarded-port: 443
+x-forwarded-proto: https
+x-forwarded-server: api-test-us.aosulife.com
+sign: 641bcbe113b1bedf6a380b31c044d491
+Content-Length: 286
+</requestHeader>
+    <responseData class="java.lang.String">{&quot;code&quot;:0,&quot;data&quot;:[{&quot;type&quot;:0,&quot;id&quot;:-1,&quot;content&quot;:&quot;Intelligent AI analysis settings\n\n1. Human Detection: Turn on. The camera will automatically analyze the detected subject and mark the event is human motion.\n2. Intrusion:\n- Detection Zone: Set a default detection zone. When any of human, pet, or vehicle appears the setting zone, the camera will be triggered and send a notification. The light will be lit up. This event will be recorded, too.\n- sound Alarm: Set a default sound to caution.\n3. Detection Period: Set a time to detect.\n4. Pet Detection: Turn on. The camera will automatically analyze the detected subject and mark the event is pet motion.\n5. Vehicle detection: Turn on. The camera will automatically analyze the detected subject and mark the event is vehicle motion.\n6. Parking Guard: Monitoring the Parking area. It will issue warnings, record videos, turn on lights, and send notification messages when someone is approaching.\n7. Detection Zone: Set a parking zone, light up when detects humans at night.\n8. sound Alarm: set a sound to caution.\n9. Detection Period: Set a time to detect.\n\nFriendly Reminder:\n\nThis skill belongs to the AI laboratory skill and is limited to different complex usage scenarios, which may cause missing alarms and false alarms, such as dark, backlight, and object&apos;s high-speed movement will also reduce the detection rate.&quot;,&quot;score&quot;:0}],&quot;desc&quot;:&quot;success&quot;,&quot;flag&quot;:true,&quot;time&quot;:1718162075255}</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <cookies class="java.lang.String"></cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">{&#xd;
+    &quot;appKey&quot;: &quot;postman&quot;,&#xd;
+    &quot;country&quot;: &quot;CN&quot;,&#xd;
+    &quot;applicationIdentifier&quot;: &quot;com.glazero.android&quot;,&#xd;
+    &quot;lan&quot;: &quot;en&quot;,&#xd;
+    &quot;platform&quot;: &quot;Android&quot;,&#xd;
+    &quot;question&quot;: &quot;V8S 通过智能人类检测获得准确的警报&quot;,&#xd;
+    &quot;serverId&quot;: &quot;-1&quot;,&#xd;
+    &quot;userId&quot;: &quot;60b23e85ccc792001ed42ad5&quot;&#xd;
+}</queryString>
+    <java.net.URL>https://api-test-us.aosulife.com/v1/im/getService?uuid=d3db7ce3-9a89-45fa-afb1-31f34e4009cf&amp;t=1718162065462</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+
+</testResults>

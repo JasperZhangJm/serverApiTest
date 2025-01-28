@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718162065713,2274,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-3,,true,,223,820,4,4,null,0,3507,1052
+1718162069218,2274,IM-GPT HTTP请求,200,OK,线程组 1-3,text,true,,223,820,4,4,https://api-test-us.aosulife.com/v1/im/getService?uuid=c36e69e2-b874-4bd6-b23a-87df3377d5ac&t=1718162065713,2273,0,1052
+1718162065964,2584,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-4,,true,,419,785,3,3,null,0,3255,1053
+1718162069218,2584,IM-GPT HTTP请求,200,OK,线程组 1-4,text,true,,419,785,3,3,https://api-test-us.aosulife.com/v1/im/getService?uuid=f6ca0e90-c665-4e33-af4b-2cdacb4a3c83&t=1718162065964,2583,0,1053
+1718162065212,2637,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,414,821,2,2,null,0,4008,1059
+1718162069218,2637,IM-GPT HTTP请求,200,OK,线程组 1-1,text,true,,414,821,2,2,https://api-test-us.aosulife.com/v1/im/getService?uuid=df34ba82-e6bc-42af-bee0-c61992833833&t=1718162065210,2637,0,1059
+1718162065463,6114,事务IM-GPT,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-2,,true,,1590,812,1,1,null,0,3756,1080
+1718162069218,6114,IM-GPT HTTP请求,200,OK,线程组 1-2,text,true,,1590,812,1,1,https://api-test-us.aosulife.com/v1/im/getService?uuid=d3db7ce3-9a89-45fa-afb1-31f34e4009cf&t=1718162065462,6114,0,1080
